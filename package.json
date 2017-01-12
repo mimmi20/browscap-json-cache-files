@@ -1,0 +1,27 @@
+{
+  "name": "browscap-json-cache-files",
+  "description": "the cache files for browscap.js",
+  "keywords": [
+    "browscap"
+  ],
+  "author": "Thomas Müller",
+  "contributors": [
+    "Thomas Müller (http://github.com/mimmi20)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mimmi20/browscap-json-cache-files"
+  },
+  "bugs": {
+    "url": "https://github.com/mimmi20/browscap-json-cache-files/issues<Paste>"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/mimmi20/browscap-js/README.md"
+    }
+  ],
+  "homepage": "https://github.com/mimmi20/browscap-js",
+  "version": "1.0.6017",
+  "license": "MIT"
+}
