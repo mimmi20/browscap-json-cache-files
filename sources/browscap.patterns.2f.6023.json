@@ -1,0 +1,22 @@
+{
+    "content": [
+        "2f09d9510e7ed094056cf67fae29b2a3\t10\tnokia[\\d][\\d][\\d][\\d]\\\/.*",
+        "2f12d1842fc1b902bf56ac1d3c299c23\t36\tkodi\\\/[\\d][\\d]\\.[\\d].* \\(.*windows nt [\\d][\\d]\\.[\\d].*win[\\d][\\d]. x[\\d][\\d].*",
+        "2f12d1842fc1b902bf56ac1d3c299c23\t31\tkodi\\\/[\\d][\\d]\\.[\\d].* \\(.*windows nt [\\d][\\d]\\.[\\d].*wow[\\d][\\d].*",
+        "2f12d1842fc1b902bf56ac1d3c299c23\t26\tkodi\\\/[\\d][\\d]\\.[\\d].* \\(.*windows nt [\\d][\\d]\\.[\\d].*",
+        "2f16dde6aa964b12932106945bfc29ab\t23\tvk\\-vk[\\d][\\d][\\d] up\\.browser\\\/[\\d]\\.[\\d].*",
+        "2f19c871d0c916d66e762fcccfbc678d\t12\tcovario\\-ids\\\/.*",
+        "2f1bd62c09cc7c48004eeecbaaf31dc8\t29\tkwc\\-kx[\\d]\\\/[\\d]\\.[\\d]\\.[\\d][\\d] up\\.browser\\\/[\\d]\\.[\\d].*",
+        "2f4aac4dcc716dd7f8e36e55be08941d\t17\tmot\\-v[\\d][\\d][\\d]\\\/.* mib\\\/[\\d]\\.[\\d].*",
+        "2f4c51f3630f6fd7f6b51ce4c845c459\t31\tsagem\\-myc\\-[\\d]\\\/[\\d]\\.[\\d] .* up\\.browser\\\/[\\d]\\.[\\d].*",
+        "2f4cd3a8d1340b4c1cbab3bd60d4cdaf\t7\tsistrix.*",
+        "2f5b393e1c5de8a21564b1ab804ea48e\t24\tkddi\\-hi[\\d][\\d] up\\.browser\\\/[\\d]\\.[\\d].*",
+        "2f6bb9c96b2a260ad8d967b590248e4c\t44\taudiovox\\-cdm[\\d][\\d][\\d][\\d]sp\\\/t[\\d][\\d][\\d]sp[\\d]t[\\d][\\d] up\\.browser\\\/[\\d]\\.[\\d].*",
+        "2f7fa710fc5fad9e45f8c1607477c812\t12\twmplayer\\\/[\\d][\\d]\\..*",
+        "2f8f98b990f22dcf0943374ecac19d98\t34\tfirefox\\\/[\\d]\\.[\\d].*anonymized by abelssoft.*",
+        "2fa87fa37669ef656e144228f5310e2d\t38\tsonyericssonu[\\d]iv\\\/.* browser\\\/netfront\\\/[\\d]\\.[\\d].*",
+        "2fa87fa37669ef656e144228f5310e2d\t17\tsonyericssonu[\\d]iv\\\/.*",
+        "2fddad8511ea2c415a74dd3d85a50d86\t16\thatena\\:\\:crawler\\\/.*",
+        "2fe50a5a8eaf852f55d21b7f05222776\t12\tpodcasts\\\/[\\d]\\.[\\d].*"
+    ]
+}

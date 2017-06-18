@@ -1,0 +1,27 @@
+{
+    "content": [
+        "a90781ff8e06bf156ec892a486ad2d50\t12\tsec\\-sghp[\\d][\\d][\\d] .*",
+        "a907cccacfe49e616f5c029bc93cc56a\t27\thot%[\\d][\\d]wallpapers.* cfnetwork\\\/.*",
+        "a909c6c9bf2f2544eac15c922aeb75b3\t27\typ\\-crawl@attinteractive\\.com",
+        "a90e1f22194be84395f8f1215938d4ea\t15\tmqqbrowser\\\/mini.*",
+        "a9198d52bd98d9ba7979cfd20b65d10f\t26\titunes\\\/[\\d]\\.[\\d].* \\(.*mac os x [\\d][\\d].[\\d].*\\).*",
+        "a9198d52bd98d9ba7979cfd20b65d10f\t23\titunes\\\/[\\d]\\.[\\d].* \\(.*windows.*x[\\d][\\d].*\\).*",
+        "a9198d52bd98d9ba7979cfd20b65d10f\t21\titunes\\\/[\\d]\\.[\\d].* \\(.*mac os x.*\\).*",
+        "a9198d52bd98d9ba7979cfd20b65d10f\t20\titunes\\\/[\\d]\\.[\\d].* \\(.*windows.*\\).*",
+        "a9198d52bd98d9ba7979cfd20b65d10f\t16\titunes\\\/[\\d]\\.[\\d].* \\(.*ppc.*\\).*",
+        "a951de3806afeb9d5e16bccb990eb528\t7\tphpdig\\\/.*",
+        "a96524d531d04abd9873822ddff0d25c\t76\thtc_snap_s[\\d][\\d][\\d]\\\/.* \\(.*mozilla\\\/[\\d]\\.[\\d] \\(.*compatible.*;.*msie [\\d]\\.[\\d]; windows ce; iemobile.[\\d]\\.[\\d][\\d].*\\)",
+        "a973491d55f70363af5cb77ce411dbb2\t13\tgregarius\\\/[\\d]\\.[\\d].*",
+        "a979adf5a1f3ecc6b6570cfea11de7cd\t72\ths\\-g[\\d][\\d][\\d]\\\/[\\d]\\.[\\d]\\.[\\d]\\.[\\d]\\([\\d][\\d][\\d][\\d]\\.[\\d][\\d]\\.[\\d][\\d]\\)\\\/wap[\\d]\\.[\\d] profile\\\/midp[\\d]\\.[\\d] configuration\\\/cldc[\\d]\\.[\\d]",
+        "a97fd08e76e9e21a256b5d346bbc169e\t24\txda_diamond_[\\d] opera.[\\d]\\.[\\d][\\d].*",
+        "a97fd08e76e9e21a256b5d346bbc169e\t23\txda_diamond_[\\d] opera.[\\d]\\.[\\d].*",
+        "a9a312581e30b738d6f10d457810763d\t8\tgeniebot.*",
+        "a9ad12e0018befe33f4ba8f33a43a1a0\t38\topmlviewer network fetcher version [\\d]\\.[\\d].*",
+        "a9ad12e0018befe33f4ba8f33a43a1a0\t26\topmlviewer network fetcher.*",
+        "a9be0a17437ea316f9a19d7a0cd14165\t31\tlenovo\\-e[\\d][\\d][\\d]\\\/.*s[\\d][\\d][\\d]\\\/wap[\\d]\\.[\\d] profile",
+        "a9cbb14a55f53b730e570c58fa9b334d\t66\tsamsung\\-sgh\\-e[\\d][\\d][\\d]\\\/.* up\\.browser\\\/[\\d]\\.[\\d].* \\(compatible; googlebot\\-mobile\\\/[\\d]\\.[\\d].*",
+        "a9cedae00cea0ca3179f86c370411255\t12\tsec\\-sghe[\\d][\\d][\\d] .*",
+        "a9d80fbe7620c1ae0eff24302dc97710\t66\tnokia[\\d][\\d][\\d]\\\/.* profile\\\/midp\\-[\\d].* ucweb\\\/[\\d]\\.[\\d] \\(.*\\) u[\\d]\\\/.* ucbrowser\\\/[\\d]\\.[\\d].* u[\\d]\\\/.* mobile.*",
+        "a9d80fbe7620c1ae0eff24302dc97710\t21\tnokia[\\d][\\d][\\d]\\\/.* applewebkit.*"
+    ]
+}
