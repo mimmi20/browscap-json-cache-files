@@ -1,0 +1,24 @@
+{
+    "content": [
+        "2800feb9f4af1251735ed02cc513ee78\t22\tmot\\-ef\\\/.* km\\.browser\\\/[\\d]\\.[\\d].*",
+        "2805a864403e6bca24881716fbe993b0\t24\tsec\\-sghe[\\d][\\d][\\d]\\\/[\\d]\\.[\\d] tss\\\/[\\d]\\.[\\d] .*",
+        "2811055630c944746300214e806b4836\t19\tmsnbot\\-products\\\/[\\d]\\.[\\d].*",
+        "28209d17f9134387cae0537068c19629\t18\thyundaihg[\\d][\\d][\\d][\\d]\\\/[\\d]\\.[\\d] .*",
+        "2821b14e44910b7fcb8f6bb1d069d624\t66\tnokia[\\d][\\d][\\d]\\\/.* profile\\\/midp\\-[\\d].* ucweb\\\/[\\d]\\.[\\d] \\(.*\\) u[\\d]\\\/.* ucbrowser\\\/[\\d]\\.[\\d].* u[\\d]\\\/.* mobile.*",
+        "2821b14e44910b7fcb8f6bb1d069d624\t9\tnokia[\\d][\\d][\\d]\\\/.*",
+        "2831a2f1daf3c1d3ee87c202e10069c0\t21\twebsitepulse checker\\\/.*",
+        "28365d966229fb2ac2f1d5c1be3f86d5\t11\tbittornado\\\/.*",
+        "283c50ac2fd4c552038881c68b110c93\t24\tfastbot crawler beta [\\d]\\.[\\d].*",
+        "283c50ac2fd4c552038881c68b110c93\t20\tfastbot crawler beta.*",
+        "283d6d4d72d0fafc8fe930f51aee3987\t12\teuripbot\\\/[\\d]\\.[\\d].*",
+        "2863761b4a138f07bf6d492fef58e63d\t15\tlibrabot\\\/[\\d]\\.[\\d] \\(.*\\)",
+        "28767f8a7c56f953da2c1d90c9cac552\t15\tstratagems kumo.*",
+        "287e9593819b2fcdf9945e7ccacd637d\t22\textreme picture finder",
+        "289451c2334a179fea83b984d35d0710\t25\tlg\\-gr[\\d][\\d][\\d]\\\/v[\\d][\\d]. teleca\\\/q[\\d]\\.[\\d].*",
+        "289963eb2755a22c95b8df711d30e609\t16\tmsn feed manager",
+        "28a56554a48dc80f9b6597f516f24488\t21\traynette_httprequest\\\/.*",
+        "28bed06003327995d64d1e97accc1b33\t12\tpockettunes\\\/.*",
+        "28d58381eec89eaafcec7473d4ea54d1\t16\ttsm\\-[\\d]\\\/teleca\\\/[\\d]\\.[\\d].*",
+        "28da94fe69279bcd08140abd731b8781\t12\tcazoodlebot\\\/.*"
+    ]
+}

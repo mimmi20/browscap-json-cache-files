@@ -1,0 +1,27 @@
+{
+    "content": [
+        "9517726674eac34d7b9f28928fa2875d\t10\twoobot\\\/[\\d]\\.[\\d].*",
+        "951bb3cea371131815ea7c29fecad0c8\t27\tgoogle\\\/[\\d]\\.[\\d].* cfnetwork\\\/[\\d][\\d][\\d]\\.[\\d][\\d].*",
+        "951bb3cea371131815ea7c29fecad0c8\t26\tgoogle\\\/[\\d]\\.[\\d].* cfnetwork\\\/[\\d][\\d][\\d]\\.[\\d].*",
+        "951bb3cea371131815ea7c29fecad0c8\t24\tgoogle\\\/[\\d]\\.[\\d].* cfnetwork\\\/[\\d][\\d][\\d].*",
+        "951bb3cea371131815ea7c29fecad0c8\t21\tgoogle\\\/[\\d]\\.[\\d].* cfnetwork\\\/.*",
+        "9547d2d7edf6c484b1737e499fcb3429\t31\tatomicbrowser\\\/.* cfnetwork\\\/[\\d][\\d][\\d]\\.[\\d][\\d].*",
+        "9547d2d7edf6c484b1737e499fcb3429\t30\tatomicbrowser\\\/.* cfnetwork\\\/[\\d][\\d][\\d]\\.[\\d].*",
+        "9547d2d7edf6c484b1737e499fcb3429\t28\tatomicbrowser\\\/.* cfnetwork\\\/[\\d][\\d][\\d].*",
+        "9547d2d7edf6c484b1737e499fcb3429\t25\tatomicbrowser\\\/.* cfnetwork\\\/.*",
+        "955038ce8395d815c86d602d6df141a9\t29\tnokia[\\d][\\d][\\d][\\d]classic\\\/.* applewebkit.*",
+        "955f1f93e075bdece77b703ca4e59e6d\t27\tsleipnir\\\/[\\d]\\.[\\d].*cfnetwork\\\/[\\d][\\d][\\d]\\.[\\d].*",
+        "955f1f93e075bdece77b703ca4e59e6d\t22\tsleipnir\\\/[\\d]\\.[\\d].*cfnetwork\\\/.*",
+        "955fe9538465c7ce8ab28a18aa9cb389\t17\texabot\\-images\\\/[\\d]\\.[\\d].*",
+        "956b1b8b16e37aa5811d12361850e2ca\t10\tiiitbot\\\/[\\d]\\..*",
+        "957b527bcfbad2e80f58d20683931435\t9\tip.*works\\!.*\\\/.*",
+        "959fb7b87112220e4e04d5f257ea1aa6\t15\teudora\\\/.* \\(macos\\)",
+        "95a52ace76c6ac188b5a6d56cf3b2dc1\t19\tlg\\-a[\\d][\\d][\\d][\\d] mic\\\/wap[\\d]\\.[\\d].*",
+        "95dcb681e7efef3a6b291d1c8e2dad3f\t14\tdomainsbotbot\\\/.*",
+        "95e785fd5442bd5c3a39624330e13d3a\t63\tsamsung\\-gt\\-b[\\d][\\d][\\d][\\d].*\\(.*compatible.*;.*msie [\\d]\\.[\\d]; windows ce; iemobile.[\\d]\\.[\\d][\\d].*",
+        "95e785fd5442bd5c3a39624330e13d3a\t62\tsamsung\\-gt\\-b[\\d][\\d][\\d][\\d].*\\(.*compatible.*;.*msie [\\d]\\.[\\d]; windows ce; iemobile.[\\d]\\.[\\d].*",
+        "95e785fd5442bd5c3a39624330e13d3a\t28\tsamsung\\-gt\\-b[\\d][\\d][\\d][\\d].*.dolphin\\\/[\\d]\\.[\\d].*",
+        "95e785fd5442bd5c3a39624330e13d3a\t27\tsamsung\\-gt\\-b[\\d][\\d][\\d][\\d].*jasmine\\\/[\\d]\\.[\\d].*",
+        "95f812bddca9beee5209633199907f40\t33\ttinybrowser\\\/.* \\(tinybrowser .*\\) gecko.*"
+    ]
+}

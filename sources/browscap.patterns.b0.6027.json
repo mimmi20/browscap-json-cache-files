@@ -1,0 +1,16 @@
+{
+    "content": [
+        "b0152fd994dbbf79dd7cdff51b210808\t17\tapplesyndication\\\/.*",
+        "b029e51711cb9bf56046adc654b481a4\t19\tmot\\-e[\\d][\\d][\\d][\\d]m\\\/.* mib\\\/[\\d]\\.[\\d].*",
+        "b0504f43ba26e4e8b9f77db85c0b673f\t16\tcydralspider\\\/[\\d]\\.[\\d].*",
+        "b052997fb71229ebf6b9596ef485a92e\t39\tsonyericssonj[\\d][\\d]i[\\d]\\\/.* browser\\\/netfront\\\/[\\d]\\.[\\d].*",
+        "b052997fb71229ebf6b9596ef485a92e\t18\tsonyericssonj[\\d][\\d]i[\\d]\\\/.*",
+        "b05c603fadedb0374c74531054291de0\t30\tfgbrowserprivate\\\/[\\d]\\..* cfnetwork\\\/.*",
+        "b06e21a62e7ac74d449633efcd695aa5\t11\tipodder\\\/[\\d]\\.[\\d].*",
+        "b075a77d6610ab0860d6edb1fbb90d6c\t15\ticc\\-crawler\\\/[\\d]\\.[\\d].*",
+        "b0aecfcdfefc20707651646e93a1777e\t35\tfirefox\\\/[\\d][\\d]\\.[\\d].*anonymized by abelssoft.*",
+        "b0d0fbe1e6d8ffb8545564518b60172d\t11\tnokia[\\d][\\d][\\d][\\d]c\\\/.*",
+        "b0ee8c23ede87499f96be9807984e849\t43\tsonyericssonw[\\d][\\d][\\d]c\\\/.* browser\\\/semc\\-browser\\\/[\\d]\\.[\\d].*",
+        "b0f2db2c2f41f9ef76250f4ffc467f0a\t24\tsie\\-m[\\d][\\d]z\\\/.* up\\.browser\\\/[\\d]\\.[\\d].*"
+    ]
+}

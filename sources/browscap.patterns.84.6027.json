@@ -1,0 +1,20 @@
+{
+    "content": [
+        "84046eafdc9c7ea081cb50a32c2ec36b\t20\tlg\\-mg[\\d][\\d][\\d] mic\\\/wap[\\d]\\.[\\d] .*",
+        "843ca4ec3d2cbd1656dfb0313922bb1e\t12\tlg\\\/u[\\d][\\d][\\d]\\\/v[\\d]\\.[\\d]",
+        "844a62628579bac155722f0c9b398035\t17\tw[\\d]c\\-mobileok\\\/ddc\\-.*",
+        "844d90273670300e456b6790255a7a46\t38\tmediago\\\/[\\d]\\.[\\d].* \\(.*windows nt [\\d]\\.[\\d].*win[\\d][\\d]. x[\\d][\\d].*\\).*",
+        "844d90273670300e456b6790255a7a46\t33\tmediago\\\/[\\d]\\.[\\d].* \\(.*windows nt [\\d]\\.[\\d].*wow[\\d][\\d].*\\).*",
+        "844d90273670300e456b6790255a7a46\t28\tmediago\\\/[\\d]\\.[\\d].* \\(.*windows nt [\\d]\\.[\\d].*\\).*",
+        "844d90273670300e456b6790255a7a46\t11\tmediago\\\/[\\d]\\.[\\d].*",
+        "844e66044603ae2a2cd9a1db7cefc00f\t19\tnew\\-sogou\\-spider\\\/[\\d]\\..*",
+        "8482a2f2508655671a033ca78619147c\t8\tdiffbot\\\/.*",
+        "849b8d625a6439eed3eb1c52161bf4d9\t25\tlge\\-lg[\\d][\\d][\\d]\\\/.* up\\.browser\\\/[\\d]\\.[\\d].*",
+        "84a0bb82ef3eebef96dae86f0825a984\t13\twume_crawler\\\/.*",
+        "84b60d17dd50afe35bda980ace603773\t7\tiecheck",
+        "84bc7eaa45ea2645f030a98e7866f34c\t52\tvodafone.* mozilla\\\/.* \\(compatible; msie .*\\..*; windows ce; .*\\).*",
+        "84cfc8fe36bc1ffb251582d507431533\t12\tfeedghost\\\/[\\d]\\..*",
+        "84fd412222eb646c1f030208ae57ca1d\t22\tsitemonitor@dnsvr\\.com\\\/.*",
+        "84fe9fe3ddc29d1aed7562e800ae3c9a\t9\tdillo\\\/[\\d]\\.[\\d].*"
+    ]
+}

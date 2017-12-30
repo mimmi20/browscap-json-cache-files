@@ -1,0 +1,18 @@
+{
+    "content": [
+        "bd03e9850b102a1959a5ce0d1bc5cf26\t19\tnetcarta_webmapper\\\/.*",
+        "bd74abdaf652e999827b3bcde23961b9\t27\taudioboom\\\/.* cfnetwork\\\/[\\d][\\d][\\d]\\.[\\d][\\d].*",
+        "bd74abdaf652e999827b3bcde23961b9\t26\taudioboom\\\/.* cfnetwork\\\/[\\d][\\d][\\d]\\.[\\d].*",
+        "bd74abdaf652e999827b3bcde23961b9\t24\taudioboom\\\/.* cfnetwork\\\/[\\d][\\d][\\d].*",
+        "bd74abdaf652e999827b3bcde23961b9\t21\taudioboom\\\/.* cfnetwork\\\/.*",
+        "bd8234ddb90477406f16c762dc8f7dfa\t13\tlg\\\/u[\\d][\\d][\\d][\\d]\\\/v[\\d]\\.[\\d]",
+        "bd92aa969fcee74917a73789b69e9fe8\t67\tnokia[\\d][\\d][\\d][\\d]\\\/.* profile\\\/midp\\-[\\d].* ucweb\\\/[\\d]\\.[\\d] \\(.*\\) u[\\d]\\\/.* ucbrowser\\\/[\\d]\\.[\\d].* u[\\d]\\\/.* mobile.*",
+        "bda9542cad64d3935c457bece507fbae\t8\tflashget",
+        "bdb2de74323342785c0481f4e4e0029a\t7\tspinne\\\/.*",
+        "bdbacd4b0b059c18559b07ca512811c8\t37\thuawei\\-u[\\d][\\d][\\d]\\\/[\\d]\\.[\\d] brew\\\/[\\d]\\.[\\d] browser\\\/[\\d]\\.[\\d] .*",
+        "bdc327fd5072b4d141d4d24f7d42159f\t11\tmasscan\\\/[\\d]\\.[\\d].*",
+        "bdd825989125d58ae200ee4430780cbb\t15\tgooglebot\\-video.*",
+        "bdf2ae0d76cf33bfcbbfe0b501993d26\t8\tshareaza.*",
+        "bdfdf05cedb242ae9b8680ddaf8fcb63\t15\tlg\\-f[\\d][\\d][\\d][\\d] au\\\/[\\d]\\.[\\d].*"
+    ]
+}

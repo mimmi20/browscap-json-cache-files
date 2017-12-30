@@ -1,0 +1,30 @@
+{
+    "content": [
+        "ff08eb33f67a3934b9521214d0695f5e\t7\tsyncmgr",
+        "ff0bae7d43b5e8681beca9ded0e96f79\t10\tgrammarly\\\/.*",
+        "ff16cf254202445c5536f7ee9b547d61\t10\tnokia[\\d][\\d][\\d][\\d]\\\/.*",
+        "ff204e8b5e6a77753e6d0893fe718598\t42\tz[\\d][\\d][\\d]; mozilla\\\/[\\d]\\.[\\d] \\(.*\\\/midp.*opera mini\\\/att\\\/[\\d]\\.[\\d].*",
+        "ff2364a0be3d20e46cc69efb36afe9a5\t11\tspace.*bison\\\/.*",
+        "ff42317bb8a31f825ed3aa8cd4fc7fcf\t10\tnokia[\\d][\\d][\\d][\\d]\\\/.*",
+        "ff6a8e58bffda8f70423bc8ab8c1c65c\t12\tatomic_email",
+        "ff70b67a466782367e87a3c109898948\t13\tfavorstarbot\\\/.*",
+        "ff967a7c7a3af82e85d277cf80c3b8d9\t13\ty\\!j\\-brm\\\/yatsd.*",
+        "ff9d9ce026cd7fdc1f37dfe216370a10\t30\tezze\\-mp[\\d][\\d][\\d]\\-\\\/bsi au\\.browser\\\/[\\d]\\.[\\d].*",
+        "ff9ef44a52c66f2c092834cdae411a39\t21\tdoris\\\/[\\d]\\.[\\d][\\d] .* \\(symbian\\)",
+        "ffbce3e24bc332a0d6f3e7db943acfac\t10\tnokia[\\d][\\d][\\d][\\d]\\\/.*",
+        "ffc7b05e64547fbe2b9e617178678f1b\t32\tsamsung\\-sgh\\-x[\\d][\\d][\\d]\\\/.* up\\.browser\\\/[\\d]\\.[\\d].*",
+        "ffcfb03e6e0a6c0d741c7ad71a162cf4\t23\tlg\\-mg[\\d][\\d][\\d] up\\.browser\\\/[\\d]\\.[\\d].*",
+        "ffe8560492ef96f860b965341d0c9698\t47\tinstagram [\\d]\\.[\\d].* \\(iphone.*iphone os.[\\d].[\\d].*\\) applewebkit.*",
+        "ffe8560492ef96f860b965341d0c9698\t45\tinstagram [\\d]\\.[\\d].* \\(ipad.*iphone os.[\\d].[\\d].*\\) applewebkit.*",
+        "ffe8560492ef96f860b965341d0c9698\t43\tinstagram [\\d]\\.[\\d].* \\(iphone.*iphone os.*\\) applewebkit.*\tinstagram.* \\(iphone.*iphone os.[\\d].[\\d].*\\) applewebkit.*",
+        "ffe8560492ef96f860b965341d0c9698\t41\tinstagram [\\d]\\.[\\d].* \\(ipad.*iphone os.*\\) applewebkit.*\tinstagram.* \\(ipad.*iphone os.[\\d].[\\d].*\\) applewebkit.*",
+        "ffe8560492ef96f860b965341d0c9698\t39\tinstagram.* \\(iphone.*iphone os.*\\) applewebkit.*",
+        "ffe8560492ef96f860b965341d0c9698\t37\tinstagram [\\d]\\.[\\d].* \\(.*iphone os.*\\) applewebkit.*\tinstagram.* \\(ipad.*iphone os.*\\) applewebkit.*",
+        "ffe8560492ef96f860b965341d0c9698\t33\tinstagram.* \\(.*iphone os.*\\) applewebkit.*",
+        "ffe8560492ef96f860b965341d0c9698\t21\tinstagram [\\d]\\.[\\d].* android.*",
+        "ffe8560492ef96f860b965341d0c9698\t17\tinstagram.* android.*",
+        "ffefcc36f3b12d8c6dd51178e5b247e8\t16\tnewsgatoronline\\\/.*",
+        "fff1d8d6745887280f62fd1777395a29\t10\tnokia[\\d][\\d][\\d][\\d]\\\/.*",
+        "fff440290b23e40302801dbe81f62600\t19\tpanasonic\\-x[\\d][\\d][\\d]\\\/r[\\d][\\d] .*"
+    ]
+}

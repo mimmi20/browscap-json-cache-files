@@ -1,0 +1,31 @@
+{
+    "content": [
+        "df12eb2e7cd311d0987fe53d5dbeec2f\t17\tterra\\\/.* cfnetwork\\\/.*",
+        "df1afd4b18cf9d7166c6234633734685\t74\thtc_hd[\\d]_t[\\d][\\d][\\d][\\d] mozilla\\\/[\\d]\\.[\\d] \\(.*compatible.*;.*msie [\\d]\\.[\\d]; windows ce; iemobile.[\\d]\\.[\\d][\\d].*\\)",
+        "df1afd4b18cf9d7166c6234633734685\t24\thtc_hd[\\d]_t[\\d][\\d][\\d][\\d] opera\\\/[\\d]\\.[\\d][\\d].*",
+        "df1afd4b18cf9d7166c6234633734685\t23\thtc_hd[\\d]_t[\\d][\\d][\\d][\\d] opera\\\/[\\d]\\.[\\d].*",
+        "df1bc0a12a7f40a35c85f7845d5e7917\t37\tsonyericssonu[\\d]i\\\/.* browser\\\/netfront\\\/[\\d]\\.[\\d].*",
+        "df1bc0a12a7f40a35c85f7845d5e7917\t16\tsonyericssonu[\\d]i\\\/.*",
+        "df2660ea01ef2a3a8a2cc60cac7c12d5\t6\tbinlar.*",
+        "df26ad3228a60219a3ff72fdebd01b94\t32\tsamsung\\-sgh\\-d[\\d][\\d][\\d]\\\/.* up\\.browser\\\/[\\d]\\.[\\d].*",
+        "df34556270a1b55cbecd619b8e2d376d\t13\tccwap\\-browser",
+        "df4cb4f2b755768cbfd10b604d1fbbb6\t9\tgetright\\\/.*",
+        "df51c7f9a1b390462ff872550071caf8\t11\tdiffbot\\\/[\\d]\\.[\\d].*",
+        "df64e4479d55d3d2596a6d74ba6f7a42\t12\tweb\\-sniffer\\\/.*",
+        "df7b109196e334612f485ac93caa549d\t19\twebnumbrfetcher\\\/[\\d]\\.[\\d].*",
+        "df7e8e6ea78367d39379ead7f5b331db\t11\tlwp\\:\\:simple.*",
+        "df84b1b90765d2aa3328317a08ec7a2c\t14\ttazweb \\(.*linux.*\\)",
+        "df84b1b90765d2aa3328317a08ec7a2c\t7\ttazweb .*",
+        "df8a920a599d7adb8f76c82f5ecf80db\t8\tipv[\\d]scan.*",
+        "df8b22612b4e078c94d4edfc1e16e24c\t27\tsec\\-sghp[\\d][\\d][\\d]\\\/.* up\\.browser\\\/[\\d]\\.[\\d].*",
+        "df8cd7e6da8952eceda8d20f57128879\t32\tpodwrangler\\\/[\\d]\\.[\\d].* cfnetwork\\\/[\\d][\\d][\\d]\\.[\\d][\\d].*",
+        "df8cd7e6da8952eceda8d20f57128879\t31\tpodwrangler\\\/[\\d]\\.[\\d].* cfnetwork\\\/[\\d][\\d][\\d]\\.[\\d].*",
+        "df8cd7e6da8952eceda8d20f57128879\t29\tpodwrangler\\\/[\\d]\\.[\\d].* cfnetwork\\\/[\\d][\\d][\\d].*",
+        "df8cd7e6da8952eceda8d20f57128879\t26\tpodwrangler\\\/[\\d]\\.[\\d].* cfnetwork\\\/.*",
+        "df8cfe1485c2e00f646b22f5927099e6\t35\tfirefox\\\/[\\d][\\d]\\.[\\d].*anonymized by abelssoft.*",
+        "dfa28b8b336e9083d2f53724bb306d2a\t14\tlg\\\/u[\\d][\\d][\\d][\\d]\\\/v[\\d]\\.[\\d] .*",
+        "dfa28b8b336e9083d2f53724bb306d2a\t13\tlg\\\/u[\\d][\\d][\\d][\\d]\\\/v[\\d]\\.[\\d]",
+        "dfd1ad9846d7fa0fbb6c4738630a609e\t10\tnokia[\\d][\\d][\\d][\\d]\\\/.*",
+        "dff7c3288c8eed5ff1603bd4e9890208\t8\tvoyager\\\/.*"
+    ]
+}

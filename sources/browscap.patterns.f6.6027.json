@@ -1,0 +1,20 @@
+{
+    "content": [
+        "f61d1da4297857b906a2f014c7f54768\t33\tsamsung\\-sgh\\-e[\\d][\\d][\\d]e\\\/.* up\\.browser\\\/[\\d]\\.[\\d].*",
+        "f63b400ed1a449d87fb370d70cba4238\t14\tpython\\-urllib\\\/.*",
+        "f6469012711b1479fee1b51990c947e4\t82\thtc\\-p[\\d][\\d][\\d][\\d].*\\-ten\\\/ppc; [\\d][\\d][\\d]x[\\d][\\d][\\d]; opver .* \\(.*compatible.*;.*msie [\\d]\\.[\\d]; windows ce; iemobile.[\\d]\\.[\\d].*\\)",
+        "f65fba7911678cef178e116a76eda01d\t92\tredflagdealsapp\\\/.* \\(.*linux.*android.[\\d]\\.[\\d].*arc build\\\/.*\\) applewebkit\\\/.* \\(.*khtml.*like.*gecko.*\\) version\\\/.* safari\\\/.*",
+        "f65fba7911678cef178e116a76eda01d\t82\tredflagdealsapp\\\/.* \\(.*linux.*android.[\\d]\\.[\\d].*\\) applewebkit\\\/.* \\(.*khtml.*like.*gecko.*\\) version\\\/.* safari\\\/.*",
+        "f65fba7911678cef178e116a76eda01d\t78\tredflagdealsapp\\\/.* \\(.*linux.*android.*\\) applewebkit\\\/.* \\(.*khtml.*like.*gecko.*\\) version\\\/.* safari\\\/.*",
+        "f6932416ddd5130de11fad0922529efb\t17\tlg\\-g[\\d][\\d][\\d][\\d] au\\\/[\\d]\\.[\\d][\\d] .*",
+        "f6a55c5946618b70e9b336979c4b6ac7\t12\ty\\!j\\-brd\\\/ysml.*",
+        "f6b9f92bf840da428490a50b1af21c32\t21\tlg\\-mg[\\d][\\d][\\d]d mic\\\/wap[\\d]\\.[\\d] .*",
+        "f6c98388fa16b847bdf7bfc5cca962c5\t22\tmot\\-[\\d][\\d][\\d][\\d]_\\\/.* up\\.browser\\\/.*",
+        "f6ddf065171f525699fe1704220213ae\t35\tsonyericssonj[\\d][\\d][\\d]i\\\/.* telecabrowser\\\/[\\d]\\..*",
+        "f6e57c9de709e45feb0d955351f53548\t4\tcurl.*",
+        "f6e58a08c3833de286c09a9fd8a962a8\t47\tinne\\: mozilla\\\/[\\d]\\.[\\d] \\(compatible; cerberian drtrs.*\\)",
+        "f6ee295d3e9591eaef1c81078a67b649\t9\tpodcasts\\\/.*",
+        "f6fb0495713e83dc0a10c8fb7a90e205\t43\tsonyericssonw[\\d][\\d][\\d]i\\\/.* browser\\\/semc\\-browser\\\/[\\d]\\.[\\d].*",
+        "f6fd5242199d21a73631d64ed4c98df9\t4\tsvn\\\/.*"
+    ]
+}

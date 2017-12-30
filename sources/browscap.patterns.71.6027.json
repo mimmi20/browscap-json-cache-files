@@ -1,0 +1,11 @@
+{
+    "content": [
+        "7142447ea05862f7989044407b0610ad\t10\tgurujibot\\\/.*",
+        "71860c77c6745379b0d44304d66b6a13\t18\tpage analyzer v[\\d]\\.[\\d].*",
+        "71860c77c6745379b0d44304d66b6a13\t13\tpage analyzer.*",
+        "71864a5135ce6eda1472cea9e2c9ae78\t67\tpalm[\\d][\\d][\\d]\\\/.* mozilla\\\/[\\d]\\.[\\d] \\(.*compatible.*;.*msie [\\d]\\.[\\d]; windows ce; iemobile.[\\d]\\.[\\d].*",
+        "71b0c0aad031d1d579f6ad1c8c582b28\t13\tcherrypicker.*\\\/.*",
+        "71d2291399579c62896689c16a183dd0\t11\tnsplayer\\\/[\\d]\\..*",
+        "71e313451fa9eae455f2c0881269d49c\t11\tshowxml\\\/[\\d]\\.[\\d].*"
+    ]
+}
