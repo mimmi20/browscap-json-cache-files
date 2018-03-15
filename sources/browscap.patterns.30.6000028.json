@@ -1,0 +1,27 @@
+{
+    "content": [
+        "300aacc157905439358e43c67d30fcdc\t10\twebwhacker.*",
+        "302036387c1daedbb460a8cc42115c66\t35\tfirefox\\/[\\d][\\d]\\.[\\d].*anonymized by abelssoft.*",
+        "302589b77d541db13bb00db4acfd75fe\t26\tlge\\-lg[\\d][\\d][\\d][\\d]\\/.* up\\.browser\\/[\\d]\\.[\\d].*",
+        "304ef187022ae9680ca5f4e006155ad7\t5\tspip\\-.*",
+        "306547b76423aaec70985c7641a6f607\t21\tnutch\\/.* \\(openx spider\\)",
+        "306c3905ac1addd534c70c017f8a631c\t19\tmobmail android [\\d]\\.[\\d].*",
+        "306c3905ac1addd534c70c017f8a631c\t15\tmobmail android.*",
+        "30703582f2f532a305c33d25bf8f40d6\t4\tdap .*",
+        "3092344afaecea161ee90e87c910dd81\t15\tlua\\-resty\\-http\\/.*",
+        "3095dbfcb9273218857172b1e75e7cd5\t28\tnorbert the spider\\(burf\\.com\\)",
+        "30a0af6d8e593a152d1eb1fb67c98183\t34\thaier\\-m[\\d][\\d][\\d]\\/\\([\\d][\\d][\\d][\\d]\\.[\\d][\\d]\\.[\\d][\\d]\\)\\)[\\d]\\.[\\d]\\/wap[\\d]\\.[\\d]",
+        "30a1c0b804aa4a9389efb3cb9f5fd4be\t15\tgenderanalyzer\\/.*",
+        "30b03dfd66f03f84968ca2cbabeac596\t32\tsamsung\\-sgh\\-e[\\d][\\d][\\d]\\/.* up\\.browser\\/[\\d]\\.[\\d].*",
+        "30b03dfd66f03f84968ca2cbabeac596\t17\tsamsung\\-sgh\\-e[\\d][\\d][\\d]\\/.*",
+        "30b6a0156d04ef4ef12112c849bfd780\t16\tsamsung\\-gt\\-s[\\d][\\d][\\d][\\d].*",
+        "30da3984cefcee62b86c739fcaf88259\t31\tsamsung\\-sgh\\-x[\\d][\\d][\\d].* up\\.browser\\/[\\d]\\.[\\d].*",
+        "30da3984cefcee62b86c739fcaf88259\t16\tsamsung\\-sgh\\-x[\\d][\\d][\\d].*",
+        "30dc922de29d22e37ba7694a058f88a7\t23\tlg\\-kp[\\d][\\d][\\d] teleca\\/wap[\\d]\\.[\\d] .*",
+        "30df8aceac59e8cdeffbc1076c528ede\t24\tcyberduck\\/.* \\(.*windows xp.*\\) .*",
+        "30df8aceac59e8cdeffbc1076c528ede\t21\tcyberduck\\/.* \\(.*windows.*\\) .*",
+        "30f56cd85179c0aaeec6f92fdf9f3471\t23\tbot\\/.* \\(bot; .*bot@bot\\.bot\\)",
+        "30f56cd85179c0aaeec6f92fdf9f3471\t18\tbot\\/.* \\(bot for jce\\).*",
+        "30ff21d3c804814c1cff861917576690\t11\tnokia[\\d][\\d][\\d][\\d]b\\/.*"
+    ]
+}

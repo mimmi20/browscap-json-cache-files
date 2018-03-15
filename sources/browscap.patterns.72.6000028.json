@@ -1,0 +1,31 @@
+{
+    "content": [
+        "720e1895560a869625680efc9c76d592\t16\tsec\\-sghe[\\d][\\d][\\d]\\/[\\d]\\.[\\d] .*",
+        "721ba71235121d42ef879a328b7df3b5\t12\thttp\\-kit\\/[\\d]\\.[\\d].*",
+        "7236286b95df3243819f8361d1d82e8f\t7\ty\\!j\\-puf.*",
+        "7236946078b7bbd1fbac836dfc39327e\t8\tbanshee\\/.*",
+        "723ea41e7aa457bc512d391840b20fb2\t7\tuipbot\\/.*",
+        "724bef5edeb7c4692f265374671a1c8c\t17\tgetintent crawler.*",
+        "7276756d60ba80d0c760b12e83f6a505\t13\temailsearcher",
+        "727f4d0e292a0495866a36c085b15450\t26\tlge\\-vx[\\d][\\d][\\d][\\d]\\/.* up\\.browser\\/[\\d]\\.[\\d].*",
+        "7285d075fc607f566b914e521d128ee7\t21\tsamsung\\-sgh\\-z[\\d][\\d][\\d]\\/.\\.[\\d] .*",
+        "7287d134399d13292e818f4cf187c1ac\t131\tdopod[\\d][\\d][\\d]\\/[\\d]\\.[\\d][\\d]\\.[\\d][\\d][\\d][\\d]\\/wap[\\d]\\.[\\d] profile\\/midp[\\d]\\.[\\d] configuration\\/cldc[\\d]\\.[\\d]\\/mozilla\\/[\\d]\\.[\\d] \\(.*compatible.*;.*msie [\\d]\\.[\\d][\\d]; windows ce; smartphone; [\\d][\\d][\\d]x[\\d][\\d][\\d]\\)",
+        "7288e0b16adf3f346aa8a3a1018ac4f8\t22\tnokian[\\d][\\d]\\/uc browser[\\d]\\.[\\d].*",
+        "729d0c865ba7d11e43c152308385c4a3\t23\tsch\\-r[\\d][\\d][\\d] up\\.browser\\/[\\d]\\.[\\d].*",
+        "72b06cee74ffb042ff57a5ea71f2f508\t36\tsoundcloud\\/[\\d]\\.[\\d].*; iphone\\/.*iphone os.[\\d].[\\d].*",
+        "72b06cee74ffb042ff57a5ea71f2f508\t32\tsoundcloud\\/[\\d]\\.[\\d].*; iphone\\/.*iphone os.*",
+        "72b06cee74ffb042ff57a5ea71f2f508\t30\tsoundcloud\\/[\\d]\\.[\\d].*; .*\\/.*iphone os.[\\d].[\\d].*",
+        "72b06cee74ffb042ff57a5ea71f2f508\t26\tsoundcloud\\/[\\d]\\.[\\d].*; .*\\/.*iphone os.*",
+        "72b5ab37853bd6a359631348e9db524c\t22\tmyst monitor service v.*",
+        "72ce8264f75429271d439a759ef4ab02\t18\temacs\\/w[\\d]\\/[\\d]\\..* \\(.*linux.*",
+        "72ce8264f75429271d439a759ef4ab02\t17\temacs\\/w[\\d]\\/[\\d]\\..* \\(.*unix.*",
+        "72ce8264f75429271d439a759ef4ab02\t11\temacs\\/w[\\d]\\/[\\d]\\..*",
+        "72de0ef1a3faa6a10f42cc0c098bbf0c\t27\tsgh\\-z[\\d][\\d][\\d] shp\\/vpp\\/r[\\d] smb[\\d]\\.[\\d] .*",
+        "72dfc9ac53f3e0bf1cd1d632181049eb\t28\tantenna\\/[\\d]\\.[\\d].* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d][\\d].*",
+        "72dfc9ac53f3e0bf1cd1d632181049eb\t27\tantenna\\/[\\d]\\.[\\d].* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d].*",
+        "72dfc9ac53f3e0bf1cd1d632181049eb\t25\tantenna\\/[\\d]\\.[\\d].* cfnetwork\\/[\\d][\\d][\\d].*",
+        "72dfc9ac53f3e0bf1cd1d632181049eb\t22\tantenna\\/[\\d]\\.[\\d].* cfnetwork\\/.*",
+        "72f6f8a5e870aa2a43a70debd22fe7af\t77\tfasthttp.* mozilla\\/[\\d]\\.[\\d] \\(x[\\d][\\d]; linux x[\\d][\\d]_[\\d][\\d]\\) applewebkit.* \\(.*khtml.*like.*gecko.*\\) chrome\\/.*",
+        "72f6f8a5e870aa2a43a70debd22fe7af\t8\tfasthttp.*"
+    ]
+}

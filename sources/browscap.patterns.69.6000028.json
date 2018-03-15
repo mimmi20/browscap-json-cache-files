@@ -1,0 +1,18 @@
+{
+    "content": [
+        "69163461defc122e9f19107721001507\t10\tevolution\\/.*",
+        "691f0d1693b24328bec271b2201389ce\t21\tsam[\\d][\\d][\\d].* up\\.browser\\/[\\d]\\.[\\d].*",
+        "69259f797d2c37959cf5006208c48e73\t34\tstagefright\\/[\\d]\\.[\\d].* \\(.*linux.*android.[\\d]\\.[\\d].*\\).*",
+        "69259f797d2c37959cf5006208c48e73\t30\tstagefright\\/[\\d]\\.[\\d].* \\(.*linux.*android.*\\).*",
+        "692edff7598694831032a3d33315563f\t11\tnokia[\\d][\\d][\\d][\\d]c\\/.*",
+        "6933ba0505deef71725de26ed52609d5\t10\tliferea\\/[\\d]\\..*",
+        "69377c28fcd7faa43ab696b9a42b6c64\t32\tsamsung\\-sgh\\-e[\\d][\\d][\\d]\\/.* up\\.browser\\/[\\d]\\.[\\d].*",
+        "6945b7d53c8c2f0592ffd95a11612065\t11\tsec\\-sghx[\\d][\\d][\\d].*",
+        "69489a1be615e42958048f453ff3dd56\t26\tnetcraft ssl server survey.*",
+        "694ccf4b475ac3a20c9b63c3c378df9c\t31\tacadiauniversitywebcensusclient",
+        "698aa01c24d19990d2df946266cbbde8\t7\tingrid\\/.*",
+        "6994ea68aeb46954d692c894a88c87cd\t18\tblackberry[\\d][\\d][\\d][\\d]\\/[\\d]\\.[\\d].*",
+        "69da5e5803a0da7d75945e11e2c2f61c\t48\tk\\-meleon\\/[\\d][\\d]\\.[\\d] \\(.*windows nt [\\d]\\.[\\d].*\\) gecko.* mozilla\\/[\\d]\\.[\\d]",
+        "69f131d236da18591731f316519f2d7b\t20\tfgbrowser.* cfnetwork\\/.*"
+    ]
+}

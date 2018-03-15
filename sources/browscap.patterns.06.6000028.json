@@ -1,0 +1,18 @@
+{
+    "content": [
+        "06011d1c098c3e5cdee72bd916e2f925\t16\tmot\\-[\\d][\\d][\\d]\\/.* mib\\/[\\d]\\.[\\d].*",
+        "061bb18ad8e4a283daad0da8ff322a66\t26\tlge\\-vx[\\d][\\d][\\d][\\d]\\/.* up\\.browser\\/[\\d]\\.[\\d].*",
+        "06451d1c357404145aa6e2b7d4506e92\t13\tsffeedreader\\/.*",
+        "064b493ebddc831bc85412e5c7722f51\t27\tlg\\-gm[\\d][\\d][\\d]\\/v[\\d][\\d][\\d] obigo\\/wap[\\d]\\.[\\d] .*",
+        "066b77bab236448cfac477ac5bcdf5ec\t10\tnl\\-crawler.*",
+        "066dce0f3c4d81b2ca1ac5eb3faf21f8\t32\tsamsung\\-sgh\\-e[\\d][\\d][\\d]\\/.* up\\.browser\\/[\\d]\\.[\\d].*",
+        "069a6f0163406e9a0315ac76c9221c30\t86\tdopod[\\d][\\d][\\d]pro\\/mozilla\\/[\\d]\\.[\\d] \\(.*compatible.*;.*msie [\\d]\\.[\\d][\\d]; windows ce; ppc; [\\d][\\d][\\d]x[\\d][\\d][\\d]; dopod[\\d][\\d][\\d] pro\\).*",
+        "06a943c59f33a34bb5924aaf72cd2995\t40\tsearch engine world robots\\.txt validator.*",
+        "06a943c59f33a34bb5924aaf72cd2995\t10\tsearch fst",
+        "06a943c59f33a34bb5924aaf72cd2995\t9\tsearch\\.ch.*",
+        "06bb574344ad4670e50ac903ded54829\t6\tdcpbot.*",
+        "06c2f6488abb5692ffb2b13e86e1aacd\t25\tlge\\-ax[\\d][\\d][\\d]\\/.* up\\.browser\\/[\\d]\\.[\\d].*",
+        "06f14dec2fc858de29d617e256bc903c\t52\tcompatible; mozilla [\\d]\\.[\\d]; msie [\\d]\\.[\\d]; \\(sqwidgebot v[\\d]\\.[\\d][\\d].*",
+        "06f14dec2fc858de29d617e256bc903c\t46\tcompatible; mozilla [\\d]\\.[\\d]; msie [\\d]\\.[\\d]; \\(sqwidgebot.*"
+    ]
+}

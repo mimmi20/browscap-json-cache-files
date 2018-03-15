@@ -1,0 +1,16 @@
+{
+    "content": [
+        "cc01a47eec5ad978ae961a468236ea7c\t14\tquicknews\\/[\\d]\\.[\\d][\\d].*",
+        "cc1a02def3dfdc90160b82fbd3e86040\t15\tflatarts_favico",
+        "cc27156eb5ef9cf4776f38bb71152127\t10\tnokia[\\d][\\d][\\d][\\d]\\/.*",
+        "cc27a41ace8e346ac7e7da002cfabd89\t23\thtc_hd_t[\\d][\\d][\\d][\\d] opera\\/[\\d]\\.[\\d][\\d].*\thtc_hd_t[\\d][\\d][\\d][\\d] opera.[\\d]\\.[\\d][\\d].*",
+        "cc27a41ace8e346ac7e7da002cfabd89\t22\thtc_hd_t[\\d][\\d][\\d][\\d] opera\\/[\\d]\\.[\\d].*\thtc_hd_t[\\d][\\d][\\d][\\d] opera.[\\d]\\.[\\d].*",
+        "cc37486c84f0b761af4d0ce52ab81263\t11\tmnogosearch.*",
+        "cc66124cd30ff802f7e7df6d6c975799\t10\tau\\-mic\\/[\\d]\\.[\\d].*",
+        "cc83ac616f9f54def6bc067e7c1b665e\t35\tfirefox\\/[\\d][\\d]\\.[\\d].*anonymized by abelssoft.*",
+        "cc97b08f2f0cbda0d659be9a6bdeb552\t5\tcusto.*",
+        "cc9e22e3d6af6b800f6f343ddd4ec96e\t22\tandroiddownloadmanager.*",
+        "cce97280670efa86374cba514d5ac550\t13\tadnormcrawler.*",
+        "ccf35db04fb6f1b13c978cf0bfcc3a3c\t18\tmot\\-a[\\d][\\d][\\d]i\\/.* mib\\/[\\d]\\.[\\d].*"
+    ]
+}

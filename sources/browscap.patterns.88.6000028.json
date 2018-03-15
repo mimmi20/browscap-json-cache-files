@@ -1,0 +1,25 @@
+{
+    "content": [
+        "8804301fe31686b442019a3d84b10a42\t72\thtc\\-[\\d][\\d][\\d][\\d]\\/[\\d]\\.[\\d] mozilla\\/[\\d]\\.[\\d] \\(.*compatible.*;.*msie [\\d]\\.[\\d]; windows ce; ppc; [\\d][\\d][\\d]x[\\d][\\d][\\d]\\).*",
+        "88092c0e2ecf38db55ba40a5add3ff07\t23\tlg\\-c[\\d][\\d][\\d][\\d] up\\.browser\\/[\\d]\\.[\\d].*",
+        "88163e669c8edfcedb4c0058116aaef1\t17\tmot\\-v[\\d][\\d][\\d]\\/.* mib\\/[\\d]\\.[\\d].*",
+        "8821fcdcaa31d4fd966ceeebda73768b\t14\tquickiwiki\\/[\\d]\\.[\\d].*",
+        "88326e4b11c7955f1f0957d62cd15edd\t16\tstitcher\\/android.*",
+        "884a3662108ad3009920f61ef56e7c16\t10\tnokia[\\d][\\d][\\d][\\d]\\/.*",
+        "88537d728e949c862765226f9cb9c960\t40\tlg\\-kf[\\d][\\d][\\d]\\-orange\\/v[\\d][\\d]c browser\\/obigo\\-q[\\d][\\d]a\\/.*",
+        "885f9fe086719fe386522f8184df8361\t11\tpagefreezer.*",
+        "8868f5116b298ad9c1e8875cb1ff83a4\t12\tsec\\-sghc[\\d][\\d][\\d] .*",
+        "8871860efd9f916b5ee2bd0cc24d4911\t9\tworqmada\\/.*",
+        "8891a48a2209fd9aca981b1f0477c2c5\t15\tshockwave flash",
+        "8893dc16b1b2534bab7b03727145a2bb\t17\tpear http_request.*",
+        "88ad395b1b742b3275442eb051bf8ff6\t7\ty\\!j\\-bri.*",
+        "88b0420f8d98d15ab518b8cbe0624745\t32\tucbrowserhd\\/[\\d]\\.[\\d].* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d][\\d].*",
+        "88b0420f8d98d15ab518b8cbe0624745\t31\tucbrowserhd\\/[\\d]\\.[\\d].* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d].*",
+        "88b0420f8d98d15ab518b8cbe0624745\t29\tucbrowserhd\\/[\\d]\\.[\\d].* cfnetwork\\/[\\d][\\d][\\d].*",
+        "88b0420f8d98d15ab518b8cbe0624745\t26\tucbrowserhd\\/[\\d]\\.[\\d].* cfnetwork\\/.*",
+        "88c7b2d973fe69057d60b05912f20e09\t16\tbaiduimagespider.*",
+        "88e13ead8b4c739f364af7100da7940e\t12\tac\\-baidubot\\/.*",
+        "88e663d58c6817d1cb0ba71b2f3f2cfd\t9\tcrowsnest.*",
+        "88ec3305a79b9bc510eca38d79ddd617\t8\twhizbang"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "content": [
+        "e72e546e5ae1329be8025e4ded95aff8\t21\tlinguatools\\-bot\\/nutch.*",
+        "e748f3c03f7c4088e90a0ccb2588e0ed\t35\tespn radio [\\d]\\.[\\d].* \\(iphone.*iphone os.[\\d].[\\d].*",
+        "e748f3c03f7c4088e90a0ccb2588e0ed\t32\tespn radio .* \\(iphone.*iphone os.[\\d].[\\d].*",
+        "e748f3c03f7c4088e90a0ccb2588e0ed\t31\tespn radio [\\d]\\.[\\d].* \\(iphone.*iphone os.*",
+        "e748f3c03f7c4088e90a0ccb2588e0ed\t29\tespn radio [\\d]\\.[\\d].* \\(.*iphone os.[\\d].[\\d].*",
+        "e748f3c03f7c4088e90a0ccb2588e0ed\t28\tespn radio .* \\(iphone.*iphone os.*",
+        "e748f3c03f7c4088e90a0ccb2588e0ed\t26\tespn radio .* \\(.*iphone os.[\\d].[\\d].*",
+        "e748f3c03f7c4088e90a0ccb2588e0ed\t25\tespn radio [\\d]\\.[\\d].* \\(.*iphone os.*",
+        "e748f3c03f7c4088e90a0ccb2588e0ed\t22\tespn radio .* \\(.*iphone os.*",
+        "e7716cede1640b681d7b04b918b41a6f\t25\tnokia[\\d][\\d][\\d][\\d]c.*\\/.* ucbrowser\\/[\\d]\\.[\\d].*",
+        "e7716cede1640b681d7b04b918b41a6f\t11\tnokia[\\d][\\d][\\d][\\d]c.*\\/.*",
+        "e7a6f07436359b2f51d20654fc32037b\t39\tamoi\\-m[\\d]\\/plat\\-emp\\/wap[\\d]\\.[\\d]\\/midp[\\d]\\.[\\d]\\/cldc[\\d]\\.[\\d]",
+        "e7e0dfdbd65a3053028ecf38488688f3\t33\tsamsung\\-sgh\\-d[\\d][\\d][\\d]e\\/.* up\\.browser\\/[\\d]\\.[\\d].*"
+    ]
+}

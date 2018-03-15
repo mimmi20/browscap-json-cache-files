@@ -1,0 +1,21 @@
+{
+    "content": [
+        "ee33e909372d935d190f4fcb2a92d542\t35\tms web services client protocol [\\d]\\.[\\d].*",
+        "ee33e909372d935d190f4fcb2a92d542\t32\tms web services client protocol .*",
+        "ee44d37d3abe6dad706f4badc9a4bb4e\t24\tnokia[\\d][\\d][\\d][\\d]c\\/uc browser[\\d]\\.[\\d].*",
+        "ee50192845532d932ce0883a24298a2c\t18\tblackberry[\\d][\\d][\\d][\\d]\\/[\\d]\\.[\\d].*",
+        "ee50fbacf963a9aabd71dfcb91a49c95\t25\tnokiac[\\d]\\-[\\d][\\d]\\/.* ucbrowser\\/[\\d]\\.[\\d].*",
+        "ee50fbacf963a9aabd71dfcb91a49c95\t11\tnokiac[\\d]\\-[\\d][\\d]\\/.*",
+        "ee5cab88f0f1571300c563f9697619e2\t32\ttoppodcastspro\\/.* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d][\\d].*",
+        "ee5cab88f0f1571300c563f9697619e2\t31\ttoppodcastspro\\/.* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d].*",
+        "ee5cab88f0f1571300c563f9697619e2\t29\ttoppodcastspro\\/.* cfnetwork\\/[\\d][\\d][\\d].*",
+        "ee5cab88f0f1571300c563f9697619e2\t26\ttoppodcastspro\\/.* cfnetwork\\/.*",
+        "ee650cbdc52fd435d030bf064b03cb0d\t8\tleechftp",
+        "ee81f348620fd35057e7063672d7f9fb\t77\tdopod[\\d][\\d][\\d]w\\/mozilla\\/[\\d]\\.[\\d] \\(.*compatible.*;.*msie [\\d]\\.[\\d][\\d]; windows ce; smartphone; [\\d][\\d][\\d]x[\\d][\\d][\\d]\\).*",
+        "eec89fd2beaa59df7516538e07190121\t70\tnokia[\\d][\\d][\\d]\\/.* profile\\/midp\\-[\\d].* \\(.*\\) applewebkit.* \\(.*khtml.*like.*gecko.*\\) ucbrowser\\/[\\d]\\.[\\d].*",
+        "eec89fd2beaa59df7516538e07190121\t23\tnokia[\\d][\\d][\\d]\\/.* ucbrowser\\/[\\d]\\.[\\d].*",
+        "eee4790d51f7bcf8dea4c8e7d66fb579\t24\tsec\\-sghx[\\d][\\d][\\d]\\/[\\d]\\.[\\d] tss\\/[\\d]\\.[\\d] .*",
+        "eee669251e18f9cce7bc7ae5d82b6a84\t12\tshim.crawler.*",
+        "eeeec87d149a8fb2e3e818e46100c8e7\t10\tng\\-search\\/.*"
+    ]
+}

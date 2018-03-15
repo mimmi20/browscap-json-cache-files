@@ -1,0 +1,18 @@
+{
+    "content": [
+        "0a120b7466829d4aa008455358ca1f93\t12\tericssont[\\d][\\d]\\/.*",
+        "0a15dddc69a00caa5874408c2b7662bd\t21\tsamsung\\-sgh\\-x[\\d][\\d][\\d]\\/[\\d]\\.[\\d] .*",
+        "0a190535835bf22e5b7198a9aac02145\t23\tbrowseripad\\/.* cfnetwork\\/.*",
+        "0a36707358f8f7ea9e5ee6b53983771b\t26\tsec\\-schx[\\d][\\d][\\d] up\\.browser\\/[\\d]\\.[\\d].*",
+        "0a3da5e1e16c285516ef198c9139c441\t10\tnokia[\\d][\\d][\\d][\\d]\\/.*",
+        "0a79f514f994a2b5468dfaf6ddf6c7c8\t23\twindows\\-media\\-player\\/[\\d]\\..*",
+        "0a881d7a64658038da88d59e6444d0e4\t9\thaier\\-n[\\d][\\d].*",
+        "0a8b9f63ca2543b0a1f73516d174957a\t20\tlg\\-b[\\d][\\d][\\d][\\d] mic\\/wap[\\d]\\.[\\d] .*",
+        "0aa458bc68be4be06e745729711dbe89\t19\tibrowser\\/mini[\\d]\\.[\\d] \\(.*\\).*",
+        "0aadc3c3f9991fa7ef98bbc29ef984e5\t30\tlg\\/hb[\\d][\\d][\\d]t\\/.* browser\\/obigo\\-q[\\d][\\d]a\\/.*",
+        "0adf97197e4bbdb33ad038d436bebaa3\t16\tfriendica '.*' [\\d]\\.[\\d].*",
+        "0adf97197e4bbdb33ad038d436bebaa3\t9\tfriendica.*",
+        "0af0d40a493a1fedfd1e2f866f3578d8\t15\tbacklinkcrawler.*",
+        "0afdaa277b030b205524fe68c042f2d5\t25\tlge\\-pm[\\d][\\d][\\d]\\/.* up\\.browser\\/[\\d]\\.[\\d].*"
+    ]
+}

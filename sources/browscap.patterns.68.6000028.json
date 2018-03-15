@@ -1,0 +1,18 @@
+{
+    "content": [
+        "6800641c095074978c3bda243371215f\t20\tautomator.* cfnetwork\\/.*",
+        "680a3bc836ef3286fca7d60ae7ed1c0e\t32\tnokia[\\d][\\d][\\d][\\d]iclassic\\/.* ucbrowser\\/[\\d]\\.[\\d].*",
+        "680a3bc836ef3286fca7d60ae7ed1c0e\t30\tnokia[\\d][\\d][\\d][\\d]iclassic\\/.* applewebkit.*",
+        "686103c604d4def926413e7a3a0fae99\t20\tlg\\-g[\\d][\\d][\\d]\\/v[\\d][\\d][\\d]\\/wap[\\d]\\.[\\d] .*",
+        "6864f389d9876436bc8778ff071d1b6c\t21\tmy nutch spider\\/nutch.*",
+        "6864f389d9876436bc8778ff071d1b6c\t10\tmy browser",
+        "688ad13e930ebaecae9927cd0d75e70a\t31\tsamsung\\-sgh\\-t[\\d][\\d][\\d].* up\\.browser\\/[\\d]\\.[\\d].*",
+        "688d02b8ffc0740fc790871148d11e8c\t19\tfunnel web profiler.*",
+        "68a3b35dad7186a6cc84121bff8a6553\t38\tsports%[\\d][\\d]talk%[\\d][\\d][\\d][\\d][\\d][\\d]\\/.* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d][\\d].*",
+        "68a3b35dad7186a6cc84121bff8a6553\t37\tsports%[\\d][\\d]talk%[\\d][\\d][\\d][\\d][\\d][\\d]\\/.* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d].*",
+        "68a3b35dad7186a6cc84121bff8a6553\t35\tsports%[\\d][\\d]talk%[\\d][\\d][\\d][\\d][\\d][\\d]\\/.* cfnetwork\\/[\\d][\\d][\\d].*",
+        "68a3b35dad7186a6cc84121bff8a6553\t32\tsports%[\\d][\\d]talk%[\\d][\\d][\\d][\\d][\\d][\\d]\\/.* cfnetwork\\/.*",
+        "68b4fdcfb019f08fd5ea5cbbe663e2c2\t35\tsonyericssonj[\\d][\\d][\\d]i\\/.* telecabrowser\\/[\\d]\\..*",
+        "68b58cc9f6139d2bc6b525c4c25b0262\t27\tmicrosoft\\-webdav\\-miniredir\\/.*"
+    ]
+}

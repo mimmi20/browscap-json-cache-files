@@ -1,0 +1,10 @@
+{
+    "content": [
+        "0323ccc06f21aa370ccc1a8da88c317b\t43\tjuc\\(linux;u;android[\\d]\\.[\\d].*micromax a[\\d][\\d].*\\)ucweb[\\d]\\.[\\d].*",
+        "0323ccc06f21aa370ccc1a8da88c317b\t31\tjuc\\(linux;u;android[\\d]\\.[\\d].*\\)ucweb[\\d]\\.[\\d].*",
+        "0323ccc06f21aa370ccc1a8da88c317b\t28\tjuc\\(linux;u;android[\\d]\\.[\\d].*\\)ucweb.*",
+        "0361536fa7806096c09dadbc1d8d39ef\t29\topenlink virtuoso rdf crawler.*",
+        "03bf08d87fbdfe36712f888483aa3106\t18\tblackberry[\\d][\\d][\\d][\\d]\\/[\\d]\\.[\\d].*",
+        "03db847dfb62f4edc9216183255450d7\t94\thtc[\\d][\\d][\\d][\\d]_td\\/[\\d]\\.[\\d] android\\/[\\d]\\.[\\d] release\\/[\\d][\\d][\\d][\\d] browser\\/wap[\\d]\\.[\\d] profile\\/midp\\-[\\d]\\.[\\d] configuration\\/cldc\\-[\\d]\\.[\\d].*"
+    ]
+}

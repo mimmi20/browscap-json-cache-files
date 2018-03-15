@@ -1,0 +1,21 @@
+{
+    "content": [
+        "ab17aac61a91a861f5086e7dc7467f33\t17\tmot\\-c[\\d][\\d][\\d]\\/.* mib\\/[\\d]\\.[\\d].*",
+        "ab343098a56cccaf1c5a35dee018c7bb\t60\tixi\\-ct\\-[\\d][\\d]\\/v[\\d]\\.[\\d]\\/mozilla\\/[\\d]\\.[\\d] \\(compatible; [\\d][\\d][\\d]x[\\d][\\d][\\d]\\) ixi\\/q[\\d][\\d]a[\\d]\\.[\\d]",
+        "ab4e82c8f8b2dd5da9374c0235d0532b\t27\tsamsung\\-sgh\\-l[\\d][\\d][\\d].* opera.[\\d]\\.[\\d][\\d].*",
+        "ab4e82c8f8b2dd5da9374c0235d0532b\t26\tsamsung\\-sgh\\-l[\\d][\\d][\\d].* opera.[\\d]\\.[\\d].*",
+        "ab50dd4f9731b7c950efef5196b03769\t30\tmicrosoft\\-webdav\\-miniredir\\/[\\d]\\.[\\d].*",
+        "ab8ca5534205840f0df64bf69eaa5c02\t11\tnokia[\\d][\\d][\\d][\\d]c\\/.*",
+        "abaecf8ca3f98dc13eeecbac263cd3ed\t29\tbird\\.d[\\d][\\d][\\d]\\/sw[\\d]\\.[\\d][\\d]\\.[\\d][\\d][\\d][\\d]\\/wap[\\d]\\.[\\d] .*",
+        "abaecf8ca3f98dc13eeecbac263cd3ed\t24\tbird\\.s[\\d][\\d][\\d] au\\.browser\\/[\\d]\\.[\\d].*",
+        "abaecf8ca3f98dc13eeecbac263cd3ed\t23\tbird\\.s[\\d][\\d][\\d]\\/[\\d]\\.[\\d][\\d]\\/wap[\\d]\\.[\\d]\\.[\\d]",
+        "abbc543b665fad51a39b3a8f4f20fc6c\t63\tsamsung\\-gt\\-b[\\d][\\d][\\d][\\d].*\\(.*compatible.*;.*msie [\\d]\\.[\\d]; windows ce; iemobile.[\\d]\\.[\\d][\\d].*",
+        "abcffc1359c4754f75c46848e5c80e3c\t7\ty\\!j\\-app.*",
+        "abe886d21488ba8d7ce27fa8a6d61119\t14\twget\\/.* \\(.*darwin.*\\).*",
+        "abe886d21488ba8d7ce27fa8a6d61119\t13\twget\\/.* \\(.*linux.*\\).*",
+        "abe919181f2e646452637467de2bfe44\t19\tcoursera\\-mobile.[\\d]\\.[\\d].*",
+        "abe919181f2e646452637467de2bfe44\t15\tcoursera\\-mobile.*",
+        "abefca8109e4ef0624ce7c328bb46cc5\t47\tsamsung\\-gt\\-c[\\d][\\d][\\d][\\d] opera\\/.*\\(j[\\d]me\\/midp.*opera mini\\/[\\d]\\.[\\d].*",
+        "abf90b3ea01b742778b0aadb2f620349\t8\tleechget.*"
+    ]
+}

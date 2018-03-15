@@ -1,0 +1,20 @@
+{
+    "content": [
+        "17183a605a4cd9738f0183a479597a53\t24\twindows\\-media\\-player\\/[\\d][\\d]\\..*",
+        "17196473317549cbd113207b7fbc78f2\t11\tnokia[\\d][\\d][\\d][\\d]s.*\\/.*",
+        "171a3193438a48cb3e1cef3b451139fe\t10\tnokia[\\d][\\d][\\d][\\d]\\/.*",
+        "172522ec1028ab781d9dfd17eaca4427\t79\tdavid client .*mozilla\\/[\\d]\\.[\\d] \\(.*windows nt [\\d]\\.[\\d].*wow[\\d][\\d].*; trident\\/[\\d]\\.[\\d]; rv\\:[\\d][\\d]\\.[\\d]\\) like gecko.*",
+        "172522ec1028ab781d9dfd17eaca4427\t74\tdavid client .*mozilla\\/[\\d]\\.[\\d] \\(.*windows nt [\\d]\\.[\\d].*; trident\\/[\\d]\\.[\\d]; rv\\:[\\d][\\d]\\.[\\d]\\) like gecko.*",
+        "172522ec1028ab781d9dfd17eaca4427\t67\tdavid client .*mozilla\\/[\\d]\\.[\\d] \\(.*windows.*; trident\\/[\\d]\\.[\\d]; rv\\:[\\d][\\d]\\.[\\d]\\) like gecko.*",
+        "172522ec1028ab781d9dfd17eaca4427\t13\tdavid client .*",
+        "1729b7a3d836ee8858b140edadadf969\t64\tbumblebee\\/[\\d]\\.[\\d] \\(bumblebee@relevare\\.com; http\\:\\/\\/www\\.relevare\\.com\\/\\)",
+        "174d431b58b9a2507f988fb2d4196ae7\t24\twindows\\-media\\-player\\/[\\d][\\d]\\..*",
+        "175c74092a30ed57a6ed51f6ee934b2d\t17\tsamsung\\-sgh\\-d[\\d][\\d][\\d]i.*",
+        "179dad0b94d427a2aacc24d199300358\t11\tnokia[\\d][\\d][\\d][\\d]c\\/.*",
+        "17a7c20fefd2fc9c470a5659b7c7da8b\t10\tmelvil\\/[\\d]\\.[\\d].*",
+        "17d643457cee436d78dc072777445648\t11\tw[\\d]c\\-webcon\\/.*",
+        "17d97b58b3f7f3405ac8920612b10d81\t19\tteragramwebcrawler\\/.*",
+        "17eb71258b5975f5f7837836e0fbad33\t23\tnokia[\\d][\\d][\\d]\\/.* ucbrowser\\/[\\d]\\.[\\d].*",
+        "17ed004552224fcd8d10c0b64d615dc3\t13\taleadsoftbot\\/.*"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "content": [
+        "d9137d2ddc61d48ca2775d921a37ede6\t18\tgigabotsitesearch\\/.*",
+        "d91675fe1742a6a5e10b76c4652bfb33\t5\tmqbot.*",
+        "d9394066970e44ae252fd0347e58c03e\t16\tmr crawler\\/nutch.*",
+        "d948afb79d36cfcb0928b20a09460a48\t16\tcars\\-app\\-browser.*",
+        "d94a68ceaa5a85a041bdaeb73acc2fde\t134\tdebussy\\/wap[\\d]\\.[\\d] profile\\/midp[\\d]\\.[\\d] configuration\\/cldc[\\d]\\.[\\d] mozilla\\/[\\d]\\.[\\d] \\(.*compatible.*;.*msie [\\d]\\.[\\d]; windows ce; smartphone; [\\d][\\d][\\d]x[\\d][\\d][\\d]; hpipaq[\\d][\\d][\\d]\\/[\\d]\\.[\\d]\\)",
+        "d95bd35e3774f85240213909e30c193e\t11\tmacoutlook\\/.*",
+        "d986a364a04e6555d8f9dadfd6acc180\t18\tblackberry[\\d][\\d][\\d][\\d]\\/[\\d]\\.[\\d].*",
+        "d9aff882ebf5a31b5a6c1646f8a013af\t9\tnokia[\\d][\\d][\\d]\\/.*",
+        "d9efecf760897bbf377bbe7968cd8d71\t9\tyodaobot\\/.*",
+        "d9f69842f11d88dc56b6f12b6ecb5d78\t38\tperfect%[\\d][\\d]browser\\/[\\d]\\.[\\d].* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d][\\d].*",
+        "d9f69842f11d88dc56b6f12b6ecb5d78\t37\tperfect%[\\d][\\d]browser\\/[\\d]\\.[\\d].* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d].*",
+        "d9f69842f11d88dc56b6f12b6ecb5d78\t35\tperfect%[\\d][\\d]browser\\/[\\d]\\.[\\d].* cfnetwork\\/[\\d][\\d][\\d].*",
+        "d9f69842f11d88dc56b6f12b6ecb5d78\t32\tperfect%[\\d][\\d]browser\\/[\\d]\\.[\\d].* cfnetwork\\/.*"
+    ]
+}

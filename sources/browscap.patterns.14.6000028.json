@@ -1,0 +1,26 @@
+{
+    "content": [
+        "140478c0f53f3508ae0120779139e97a\t23\tsie\\-c[\\d][\\d]\\/.* up\\.browser\\/[\\d]\\.[\\d].*",
+        "141039624b7fe7170f5696863f26cccf\t17\tcontextad bot [\\d]\\.[\\d].*",
+        "141039624b7fe7170f5696863f26cccf\t13\tcontextad bot.*",
+        "1411356217930bc9b98cc8f6cc1561d9\t9\tpagenest\\/.*",
+        "1418bdf3e76f13e4879072fc0f9ce26c\t16\tyahoovideosearch.*",
+        "141b635cd65087855970441282602638\t18\tblackberry[\\d][\\d][\\d][\\d]\\/[\\d]\\.[\\d].*",
+        "1426a847e394f5411e8ceba3e682b550\t59\tgsmart\\-s[\\d][\\d][\\d][\\d];mozilla\\/[\\d]\\.[\\d] \\(.*compatible.*;.*msie [\\d]\\.[\\d]; ppc;[\\d][\\d][\\d]x[\\d][\\d][\\d]\\)",
+        "143d593a059f1b43001bffbc43790a20\t23\tnokia[\\d][\\d][\\d]\\/.* ucbrowser\\/[\\d]\\.[\\d].*",
+        "143d593a059f1b43001bffbc43790a20\t9\tnokia[\\d][\\d][\\d]\\/.*",
+        "143e69c0fd3da0158b9b600ffb453890\t22\tsocialspider\\-finder\\/[\\d]\\..*",
+        "14420f48deb8f49af932370706c284b8\t25\tmobilerss.*\\-ipad.* cfnetwork\\/.*",
+        "14420f48deb8f49af932370706c284b8\t20\tmobilerss.* cfnetwork\\/.*",
+        "1444a590c85febecfe65c921cb0575ea\t20\tnetchart adv crawler.*",
+        "147c391ed5ed681eae8d499905f13bfe\t18\tblackberry[\\d][\\d][\\d][\\d]\\/[\\d]\\.[\\d].*",
+        "14819c7754c1da367a99ea0fd95e9765\t11\tlwp\\-request.*",
+        "1488f1e233992ae808158feb6048660c\t25\tlge\\-an[\\d][\\d][\\d]\\/.* up\\.browser\\/[\\d]\\.[\\d].*",
+        "14bbf5447ddaab4e972cb9deda8cbc2b\t10\tnokia[\\d][\\d][\\d][\\d].*\\/.*",
+        "14d215879c79dbbf3362087d6b7f2b2d\t24\tsie\\-me[\\d][\\d]\\/.* up\\.browser\\/[\\d]\\.[\\d].*",
+        "14e9606751b78da62e366345f6607c4b\t44\tmot\\-e[\\d][\\d][\\d]i\\/.* mozilla\\/[\\d]\\.[\\d] \\(.*compatible.*;.*msie [\\d]\\.[\\d];.*",
+        "14efdbb4f42997238c35cd18a0e8513b\t25\tzoominfo\\:\\:beehive crawler.*",
+        "14f9d707a774ce3065ca576310321916\t37\tmqqbrowser\\/mini[\\d]\\.[\\d].* \\(samsung\\-gt\\-e[\\d][\\d][\\d][\\d]\\).*",
+        "14f9d707a774ce3065ca576310321916\t18\tmqqbrowser\\/mini[\\d]\\.[\\d].*"
+    ]
+}
