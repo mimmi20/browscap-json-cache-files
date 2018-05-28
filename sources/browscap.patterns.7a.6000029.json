@@ -1,0 +1,31 @@
+{
+    "content": [
+        "7a07edc009d69ce147e12a36a6350550\t10\tm[\\d]gate\\/[\\d]\\.[\\d].*",
+        "7a163a9459ee1a25ba91000bb438602f\t29\tscreenerbot crawler beta [\\d]\\.[\\d] .*",
+        "7a163a9459ee1a25ba91000bb438602f\t25\tscreenerbot crawler beta .*",
+        "7a2b1a595bd9c5f56110018634cf1b16\t35\tfirefox\\/[\\d][\\d]\\.[\\d].*anonymized by abelssoft.*",
+        "7a39097b6e3619221987f7a77185def6\t21\tiltrovatore\\-.etaccio\\/.*",
+        "7a500af9521105e9441d9a9b593d1cca\t10\tbloglines\\/.*",
+        "7a6bb80830e6eaac0b1d5bbce2712a7c\t32\ttoppodcasts\\/[\\d]\\.[\\d].* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d][\\d].*",
+        "7a6bb80830e6eaac0b1d5bbce2712a7c\t31\ttoppodcasts\\/[\\d]\\.[\\d].* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d].*",
+        "7a6bb80830e6eaac0b1d5bbce2712a7c\t29\ttoppodcasts\\/[\\d]\\.[\\d].* cfnetwork\\/[\\d][\\d][\\d].*",
+        "7a6bb80830e6eaac0b1d5bbce2712a7c\t26\ttoppodcasts\\/[\\d]\\.[\\d].* cfnetwork\\/.*",
+        "7a6e9b0dc3ded756941fa9835518aef3\t40\tmusicdownloaderlite\\/[\\d]\\.[\\d].* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d][\\d].*",
+        "7a6e9b0dc3ded756941fa9835518aef3\t39\tmusicdownloaderlite\\/[\\d]\\.[\\d].* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d].*",
+        "7a6e9b0dc3ded756941fa9835518aef3\t37\tmusicdownloaderlite\\/[\\d]\\.[\\d].* cfnetwork\\/[\\d][\\d][\\d].*",
+        "7a6e9b0dc3ded756941fa9835518aef3\t34\tmusicdownloaderlite\\/[\\d]\\.[\\d].* cfnetwork\\/.*",
+        "7a6f5900e1ae7c50e1585b288a3ff019\t8\tmiro\\/[\\d]\\.[\\d].*",
+        "7a8cf68846499b9996b33e36d4cbd894\t26\tlge\\-vx[\\d][\\d][\\d][\\d]\\/.* up\\.browser\\/[\\d]\\.[\\d].*",
+        "7a9b083e5d8835991f05f9a2738110d8\t25\tclickagy intelligence bot.*",
+        "7ac2002747d566e98348d4999a8706c3\t26\tios\\/[\\d]\\.[\\d].* \\(.*\\) dataaccessd\\/[\\d]\\.[\\d].*",
+        "7aca4a3f4f446b77d3cf9989cd39f1bf\t16\tbookmark\\-manager",
+        "7ace335335d7999c69b38b6a26ed67c6\t32\tsamsung\\-sgh\\-x[\\d][\\d][\\d]\\/.* up\\.browser\\/[\\d]\\.[\\d].*",
+        "7ace335335d7999c69b38b6a26ed67c6\t17\tsamsung\\-sgh\\-x[\\d][\\d][\\d]\\/.*",
+        "7adbea63e8e559e0e1105d65f0f73285\t10\tmsnbot\\/[\\d]\\.[\\d].*",
+        "7adfeff2591bfbbe0484122e109b0d22\t11\tnokia[\\d][\\d][\\d][\\d]i\\/.*",
+        "7ae744d64ea022f6cd4051f12d07ad9e\t6\tbeamer.*",
+        "7aea261a0ff3a1e3155f7c73e3b907b4\t26\tsagem\\-vf[\\d][\\d][\\d]\\/.*up\\.browser\\/[\\d]\\.[\\d].*",
+        "7af4d3fccd9bbc5d9c70d51f6c7c6d12\t21\tstewdio windmaker [\\d]\\.[\\d].*",
+        "7af4d3fccd9bbc5d9c70d51f6c7c6d12\t17\tstewdio windmaker.*"
+    ]
+}
