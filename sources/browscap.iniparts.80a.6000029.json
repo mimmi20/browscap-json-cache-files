@@ -6,10 +6,10 @@
         "80a9005a1b9fd8d1f4fca41f61330052\t{\"Parent\":\"UC Browser 8.7 for Java\"}",
         "80a9dc548cb4d3830cb3600484db1ecd\t{\"Parent\":\"UC Browser 8.1 for Series40\",\"Device_Name\":\"6208 Classic\",\"Device_Code_Name\":\"6208c\"}",
         "80a4e8c0286679b2e2121cfe2fd48c7d\t{\"Parent\":\"Comodo Dragon 46.2\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
-        "80a3ddbd4b3cbc9b60ff1550609ac11b\t{\"Parent\":\"Chedot 9.0\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\"}",
         "80ab88a6d0af93c081965dcb6f62a9f8\t{\"Parent\":\"Comodo Dragon 22.1\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\"}",
         "80aa9539107ad3763ab14f46cb38b5cb\t{\"Parent\":\"Comodo Dragon 12.1\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "80ad4c3493e3b82c2a852b4997ddcbcc\t{\"Parent\":\"Comodo Dragon 9.1\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\"}",
+        "80a3ddbd4b3cbc9b60ff1550609ac11b\t{\"Parent\":\"Chedot 9.0\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\"}",
         "80af8e35b478458775d7124bfc9b2c0a\t{\"Parent\":\"2345 Explorer 6.1\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "80a7c9c2210ac9d1fcfbe61a0b89fc4e\t{\"Parent\":\"Flixster App 7.4\",\"Platform_Version\":\"9.2\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
         "80a94811cb979151f8fbf468a767be42\t{\"Parent\":\"Yandex Browser 15.9 for iOS\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
@@ -58,8 +58,8 @@
         "80a9784556a2f23fd9317c0e386b4662\t{\"Parent\":\"SeaMonkey 2.17\",\"Browser_Bits\":\"32\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.6\",\"Platform_Description\":\"Mac OS X\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
         "80a167998522970022e96c75708559fd\t{\"Parent\":\"Sleipnir Generic\",\"Browser_Bits\":\"64\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "80a56f030c44e332f64d62650ac5fb8b\t{\"Parent\":\"Firefox 36.0\",\"Browser_Bits\":\"32\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.1\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true,\"isAnonymized\":true}",
-        "80a85c4e6748614372a09a45a239bee1\t{\"Parent\":\"Firefox 26.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "80adc6897b5ed2637fce5b84e524d57e\t{\"Parent\":\"Firefox 8.0\",\"Browser_Bits\":\"32\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.11\",\"Platform_Description\":\"Mac OS X\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
+        "80a85c4e6748614372a09a45a239bee1\t{\"Parent\":\"Firefox 26.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "80a738f6b7f41e9d041bcac7d9d2edcf\t{\"Parent\":\"Firefox 4.0\",\"Browser_Bits\":\"32\",\"Platform\":\"OS\\/2\",\"Platform_Description\":\"OS\\/2\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"IBM\",\"Device_Name\":\"general Desktop\",\"Device_Code_Name\":\"general Desktop\"}"
     ]
 }

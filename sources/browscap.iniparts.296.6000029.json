@@ -1,9 +1,9 @@
 {
     "content": [
         "2966a10438e58ffe410b93e3690823b9\t{\"Parent\":\"GomezAgent 3.1\",\"Browser_Bits\":\"64\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
-        "2962d44ba0b97360a1a8411039365466\t{\"Parent\":\"Amigo 56.0\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "296a56dd0ef6d2503bca16c6526c0fcb\t{\"Parent\":\"Coc Coc Browser 39.0\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.8\",\"Platform_Description\":\"Mac OS X\",\"Platform_Maker\":\"Apple Inc\",\"Win32\":false,\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
         "296c52f431be64ec3186a8120eda43bf\t{\"Parent\":\"Coc Coc Browser 31.0\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
+        "2962d44ba0b97360a1a8411039365466\t{\"Parent\":\"Amigo 56.0\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "2969d23b7b9a75acf3c9b569db744c90\t{\"Parent\":\"UC Browser 12.0 for Android\",\"Platform_Version\":\"4.4\",\"Device_Name\":\"Galaxy A5 (LG U+)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-A500L\",\"Device_Brand_Name\":\"Samsung\"}",
         "2969c2fcf35a3debcf571efaecb7fa19\t{\"Parent\":\"UC Browser 9.8 for Android\",\"Platform_Version\":\"2.1\",\"Device_Name\":\"Xperia Neo V\",\"Device_Maker\":\"Sony\",\"Device_Code_Name\":\"MT11i\",\"Device_Brand_Name\":\"Sony\"}",
         "296547a86113a1b490902bd5c997b1de\t{\"Parent\":\"UC Browser 9.7 for Android\",\"Platform_Version\":\"4.0\",\"Device_Name\":\"Incredible S\",\"Device_Maker\":\"HTC\",\"Device_Code_Name\":\"S710E\",\"Device_Brand_Name\":\"HTC\",\"RenderingEngine_Name\":\"U3\"}",

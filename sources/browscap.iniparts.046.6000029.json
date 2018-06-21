@@ -12,8 +12,8 @@
         "0469155bfd3d7a52ca8e1faebdef8d8e\t{\"Parent\":\"Samsung Browser 5.4\",\"Platform_Version\":\"5.1\",\"isTablet\":true,\"Device_Name\":\"Galaxy Note 10.1 2014 Edition 3G \\u0026 Wifi\",\"Device_Maker\":\"Samsung\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"SM-P601\",\"Device_Brand_Name\":\"Samsung\"}",
         "0466931eb1ef2357a3ca1244c65080d8\t{\"Parent\":\"Samsung Browser 4.0\",\"Platform_Version\":\"6.0\",\"Device_Name\":\"Galaxy A5 (Global)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-A500F\",\"Device_Brand_Name\":\"Samsung\"}",
         "046d9a4d0e56d92fcbd4df355840d7b4\t{\"Parent\":\"Samsung CrossApp\",\"Platform_Version\":\"6.0\",\"Device_Name\":\"Galaxy S6 Edge Plus LTE (T-Mobile)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-G928T\",\"Device_Brand_Name\":\"Samsung\"}",
-        "0460481596eb93a891a77a7277658442\t{\"Parent\":\"Yandex Browser 15.7\",\"Browser_Bits\":\"32\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "046ddde4def48afca8601b113cf7eb90\t{\"Parent\":\"Yandex Browser 18.3 for Android\",\"Platform_Version\":\"4.2\",\"Device_Name\":\"Linx 6.0\",\"Device_Maker\":\"Digma\",\"Device_Code_Name\":\"PS604M\",\"Device_Brand_Name\":\"Digma\"}",
+        "0460481596eb93a891a77a7277658442\t{\"Parent\":\"Yandex Browser 15.7\",\"Browser_Bits\":\"32\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "0468a0b7a19e8fcb92bde6cee6b65b65\t{\"Parent\":\"Seznam Browser 3.2 for Android\",\"Platform_Version\":\"5.0\",\"isTablet\":false,\"Device_Name\":\"general Mobile Phone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"general Mobile Phone\"}",
         "0464803279cec8b5821b5366cedbeb3f\t{\"Parent\":\"Opera Mobile 17.0 for Android\",\"Platform_Version\":\"4.1\",\"isTablet\":true,\"Device_Name\":\"Xperia Tablet Z LTE\",\"Device_Maker\":\"Sony\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"SGP321\",\"Device_Brand_Name\":\"Sony\"}",
         "04657855985965f6ff6e5ff761db1dc9\t{\"Parent\":\"Opera Mobile 17.0 for Android\",\"Platform_Version\":\"4.2\",\"isTablet\":true,\"Device_Name\":\"general Tablet\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"general Tablet\"}",
@@ -57,14 +57,14 @@
         "0469d3c1a09c72b0eca68ecd54f9cc25\t{\"Parent\":\"SeaMonkey 2.9\",\"Browser_Bits\":\"32\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.7\",\"Platform_Description\":\"Mac OS X\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
         "046d329aa18067ab2502c1170a075208\t{\"Parent\":\"SeaMonkey 2.5\",\"Browser_Bits\":\"32\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "046eefb8f69c6df42b4962a902bed564\t{\"Parent\":\"Sleipnir 2.4 for iOS\",\"Platform_Version\":\"8.2\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
-        "0469954427e660830a4a3418e2365e4c\t{\"Parent\":\"Sleipnir 2.6\",\"Browser_Bits\":\"32\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true,\"RenderingEngine_Version\":\"unknown\"}",
         "0461021701ff04bc925904711e4c6d51\t{\"Parent\":\"Sleipnir 1.0 for iOS\",\"Platform_Version\":\"9.0\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
+        "0469954427e660830a4a3418e2365e4c\t{\"Parent\":\"Sleipnir 2.6\",\"Browser_Bits\":\"32\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true,\"RenderingEngine_Version\":\"unknown\"}",
         "04684297a17e1645b41e4e69fdf8f3d3\t{\"Parent\":\"Firefox 42.0\",\"Browser_Bits\":\"32\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "04609ca551f7ab2407c91aaa8569526b\t{\"Parent\":\"Firefox 37.0\",\"Browser_Bits\":\"64\",\"Platform\":\"IRIX64\",\"Platform_Description\":\"IRIX64\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"SGI\",\"Device_Name\":\"general Desktop\",\"Device_Code_Name\":\"general Desktop\"}",
         "04669019426ea8ce287d6e9ad1c96eae\t{\"Parent\":\"MacAppStore\",\"Platform_Version\":\"10.10\"}",
         "0468327eed53bf62b306fd8581c8b48d\t{\"Parent\":\"MPlayer\"}",
-        "046cadba8a1f3b285e9673155f462f08\t{\"Parent\":\"ESPN Radio 4.7\",\"Platform_Version\":\"4.3\"}",
         "04675fdc3822954c4ca91cbf6d773b88\t{\"Parent\":\"Stitcher for iOS\",\"Platform_Version\":\"7.1\"}",
+        "046cadba8a1f3b285e9673155f462f08\t{\"Parent\":\"ESPN Radio 4.7\",\"Platform_Version\":\"4.3\"}",
         "0467d4ba078fb0d7a76ebdef3d3694b9\t{\"Parent\":\"PERFECT Browser 2.8 (iPad)\",\"Platform_Version\":\"5.0\"}"
     ]
 }

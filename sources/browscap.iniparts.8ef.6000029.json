@@ -1,11 +1,11 @@
 {
     "content": [
-        "8efbae68fd2185c877b051f6dd2e84f4\t{\"Parent\":\"LoadTimeBot\",\"Version\":\"0.8\",\"MinorVer\":\"8\"}",
         "8ef55628ca383929d85b585b6856da98\t{\"Parent\":\"SurveyBot\"}",
+        "8efbae68fd2185c877b051f6dd2e84f4\t{\"Parent\":\"LoadTimeBot\",\"Version\":\"0.8\",\"MinorVer\":\"8\"}",
         "8effcbd9609e970928d055f934199ccf\t{\"Parent\":\"Bing Search App 6.2 for Android\",\"Platform_Version\":\"4.2\",\"JavaApplets\":true,\"isTablet\":true,\"Device_Name\":\"Transformer Pad TF300TL\",\"Device_Maker\":\"Asus\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"TF300TL\",\"Device_Brand_Name\":\"Asus\",\"RenderingEngine_Name\":\"WebKit\",\"RenderingEngine_Description\":\"For Google Chrome, iOS (including both mobile Safari, WebViews within third-party apps, and web clips), Safari, Arora, Midori, OmniWeb, Shiira, iCab since version 4, Web, SRWare Iron, Rekonq, and in Maxthon 3.\",\"RenderingEngine_Maker\":\"Apple Inc\"}",
         "8ef5619eb8ad87f35a6eb70aac29bb82\t{\"Parent\":\"Coc Coc Browser 54.0 for Android\",\"Platform_Version\":\"6.0\",\"Device_Name\":\"Galaxy S7 Edge (Global)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-G935F\",\"Device_Brand_Name\":\"Samsung\"}",
-        "8efbca2dc28a000c2c13ba28bff33639\t{\"Parent\":\"Baidu Browser HD 1.8\",\"Platform_Version\":\"4.2\"}",
         "8ef7ecb3a861de55e3111a8f24802f50\t{\"Parent\":\"Element Browser 5.0\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\"}",
+        "8efbca2dc28a000c2c13ba28bff33639\t{\"Parent\":\"Baidu Browser HD 1.8\",\"Platform_Version\":\"4.2\"}",
         "8efc54bf323244dacb1e6bcba06a7c9f\t{\"Parent\":\"Swing Browser 4.2\"}",
         "8ef6869b29bd19be049e01f8a7256fcc\t{\"Parent\":\"UC Browser 10.0 for Android\",\"Platform_Version\":\"4.2\",\"Device_Name\":\"Bolt A089\",\"Device_Maker\":\"Micromax\",\"Device_Code_Name\":\"A089\",\"Device_Brand_Name\":\"Micromax\"}",
         "8efeb1a5b83d604c02780ae74898ef7d\t{\"Parent\":\"UC Browser 10.2 for iOS\",\"Browser_Modus\":\"Chrome\",\"Platform_Version\":\"10.3\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",

@@ -1,9 +1,9 @@
 {
     "content": [
         "929ee0273184bcf72fe94baa35b9123a\t{\"Parent\":\"General Crawlers\",\"Browser\":\"memoryBot\",\"Browser_Maker\":\"Internet Memory Foundation\"}",
+        "929dd7c45bb19f32c8afc5c765a53801\t{\"Parent\":\"Coc Coc Browser 66.0 for Android\",\"Platform_Version\":\"4.4\"}",
         "929d4de08734f7da948baab54771b405\t{\"Parent\":\"Coc Coc Browser 63.0\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\"}",
         "92961b8b1841d43359a52ee4f3ed9331\t{\"Parent\":\"Coc Coc Browser 54.0\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\"}",
-        "929dd7c45bb19f32c8afc5c765a53801\t{\"Parent\":\"Coc Coc Browser 66.0 for Android\",\"Platform_Version\":\"4.4\"}",
         "9295194c5b078a5122f05113c5ab887b\t{\"Parent\":\"Baidu Browser 4.7\"}",
         "9297a50b726fa61e24abb94f93346dfa\t{\"Parent\":\"Naver 8.5 for iOS\",\"Platform_Version\":\"11.0\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
         "9299f78b8760d784f35c4659c361052c\t{\"Parent\":\"UC Browser 10.10 for Android\"}",
@@ -21,8 +21,8 @@
         "92959504ddb4aa7abc4b7adafccdedc6\t{\"Parent\":\"QQBrowser 7.2 for Android\",\"Browser_Bits\":\"32\",\"Platform\":\"Android\",\"Platform_Version\":\"5.1\",\"Platform_Description\":\"Android OS\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Google Inc\",\"Device_Name\":\"Blade\",\"Device_Maker\":\"ZTE\",\"Device_Code_Name\":\"BA910\",\"Device_Brand_Name\":\"ZTE\"}",
         "929b588261cc7d73b0db2130b97b06f6\t{\"Parent\":\"QQBrowser 4.2 for Android\",\"Browser_Bits\":\"32\",\"Platform\":\"Android\",\"Platform_Version\":\"4.4\",\"Platform_Description\":\"Android OS\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Google Inc\",\"JavaApplets\":true,\"RenderingEngine_Name\":\"WebKit\",\"RenderingEngine_Description\":\"For Google Chrome, iOS (including both mobile Safari, WebViews within third-party apps, and web clips), Safari, Arora, Midori, OmniWeb, Shiira, iCab since version 4, Web, SRWare Iron, Rekonq, and in Maxthon 3.\",\"RenderingEngine_Maker\":\"Apple Inc\"}",
         "929b6391cf4aaf5361a1cfa031fe66f4\t{\"Parent\":\"Yandex Browser 15.4 for Android\",\"Platform_Version\":\"4.4\",\"Device_Name\":\"A5000\",\"Device_Maker\":\"Lenovo\",\"Device_Code_Name\":\"A5000\",\"Device_Brand_Name\":\"Lenovo\"}",
-        "929f35c5aa1fe520e6df7c63e3fb4d3b\t{\"Parent\":\"Seznam Browser 5.1 for Android\",\"Platform_Version\":\"6.0\"}",
         "929cff348850aee65a1bb817c1f8c559\t{\"Parent\":\"Yandex Browser 14.5 for Android\",\"Platform_Version\":\"4.0\",\"Device_Name\":\"One M7\",\"Device_Maker\":\"HTC\",\"Device_Code_Name\":\"M7\",\"Device_Brand_Name\":\"HTC\"}",
+        "929f35c5aa1fe520e6df7c63e3fb4d3b\t{\"Parent\":\"Seznam Browser 5.1 for Android\",\"Platform_Version\":\"6.0\"}",
         "92927d192bde7a49fa352e67270eb2fa\t{\"Parent\":\"YaApp 2.40 for iOS\",\"Platform_Version\":\"9.3\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
         "929f0ddce0ba5aeeee5512b3c17a5895\t{\"Parent\":\"Opera Mobile 43.0 for Android\",\"Platform_Version\":\"6.0\",\"Device_Name\":\"G4 (Sprint)\",\"Device_Maker\":\"LG\",\"Device_Code_Name\":\"LS991\",\"Device_Brand_Name\":\"LG\"}",
         "9298f809c90e47a218aab6bd71b9ec01\t{\"Parent\":\"Opera Mobile 36.0 for Android\",\"Platform_Version\":\"4.2\",\"isTablet\":true,\"Device_Name\":\"Galaxy Tab 3 Lite 7\",\"Device_Maker\":\"Samsung\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"SM-T110\",\"Device_Brand_Name\":\"Samsung\"}",

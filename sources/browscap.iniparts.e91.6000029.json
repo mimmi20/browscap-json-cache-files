@@ -1,8 +1,8 @@
 {
     "content": [
         "e91b14cbbea1dd3e597e80a2c7477ea1\t{\"Parent\":\"DefaultProperties\",\"Comment\":\"WordPress 4.3\",\"Browser\":\"WordPress\",\"Browser_Type\":\"Bot\\/Crawler\",\"Browser_Bits\":\"0\",\"Browser_Maker\":\"wordpress.org\",\"Version\":\"4.3\",\"MajorVer\":\"4\",\"MinorVer\":\"3\",\"Platform_Bits\":\"0\",\"Crawler\":true,\"CssVersion\":\"0\",\"AolVersion\":\"0\"}",
-        "e91c92c746623b5785127fe151e7df5a\t{\"Parent\":\"Coc Coc Browser 62.0\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.5\",\"Platform_Description\":\"Mac OS X\",\"Platform_Maker\":\"Apple Inc\",\"Win32\":false,\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
         "e910b4951e0b79c45e142e87f2cb50d2\t{\"Parent\":\"Coc Coc Browser 53.0 for Android\",\"Platform_Version\":\"7.1\"}",
+        "e91c92c746623b5785127fe151e7df5a\t{\"Parent\":\"Coc Coc Browser 62.0\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.5\",\"Platform_Description\":\"Mac OS X\",\"Platform_Maker\":\"Apple Inc\",\"Win32\":false,\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
         "e914769a92f98360b4fdd9335556a86a\t{\"Parent\":\"UC Browser 9.5 for Series40\",\"Device_Name\":\"208\",\"Device_Code_Name\":\"208\"}",
         "e9132aaed7c9be55b1b95beafe528460\t{\"Parent\":\"UC Browser 9.2 for Android\",\"Platform_Version\":\"4.0\",\"Device_Name\":\"A376\",\"Device_Maker\":\"Lenovo\",\"Device_Code_Name\":\"A376\",\"Device_Brand_Name\":\"Lenovo\"}",
         "e91a84b12f8432452d0db33c272ee6eb\t{\"Parent\":\"UC Browser 8.0 for Android\",\"Platform_Version\":\"2.3\",\"Device_Name\":\"Galaxy Star Pro\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"GT-S7262\",\"Device_Brand_Name\":\"Samsung\"}",

@@ -2,8 +2,8 @@
     "content": [
         "364744095dd3ef61a06b17635851050c\t{\"Parent\":\"SpeedCurve WebPage Test\",\"Browser_Modus\":\"IE\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "3646a34bbab4d9116870e6d24b5274b6\t{\"Parent\":\"Baidu Browser 5.3\",\"Platform_Version\":\"4.2\"}",
-        "3644b9711b63274854f17a8ef2365db7\t{\"Parent\":\"UC Browser Mini 9.8\",\"Browser_Modus\":\"SpeedMode\"}",
         "36481067915280d5de15502f18102dbc\t{\"Parent\":\"UC Browser 10.1 for Android\",\"Platform_Version\":\"4.4\",\"Device_Name\":\"Galaxy S4\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"GT-I9500\",\"Device_Brand_Name\":\"Samsung\"}",
+        "3644b9711b63274854f17a8ef2365db7\t{\"Parent\":\"UC Browser Mini 9.8\",\"Browser_Modus\":\"SpeedMode\"}",
         "3646e9718b2e03054f28f89208cc0d28\t{\"Parent\":\"UC Browser 9.7 for Android\",\"Platform_Version\":\"4.1\",\"Device_Name\":\"P770\",\"Device_Maker\":\"Lenovo\",\"Device_Code_Name\":\"P770\",\"Device_Brand_Name\":\"Lenovo\"}",
         "36464d525b3f77be45222b5f5b869fd0\t{\"Parent\":\"UC Browser 9.1 for Android\",\"Platform_Version\":\"4.2\",\"JavaApplets\":true,\"RenderingEngine_Name\":\"WebKit\",\"RenderingEngine_Description\":\"For Google Chrome, iOS (including both mobile Safari, WebViews within third-party apps, and web clips), Safari, Arora, Midori, OmniWeb, Shiira, iCab since version 4, Web, SRWare Iron, Rekonq, and in Maxthon 3.\",\"RenderingEngine_Maker\":\"Apple Inc\"}",
         "3641d07765bc5a334fa9b3564281d75c\t{\"Parent\":\"AOL Desktop Trident 9.2\",\"Browser_Bits\":\"32\",\"Platform\":\"Win32\",\"Platform_Description\":\"Windows\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
@@ -65,7 +65,7 @@
         "364f6eb13598b646daa03af9ed179b20\t{\"Parent\":\"Firefox 44.0 for Android\",\"Platform_Version\":\"4.1\"}",
         "364c87998bf6d2f1771d68f6e77f89b9\t{\"Parent\":\"Firefox 37.0\",\"Browser_Bits\":\"32\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "364b6ca3f04f5d41fc5cbfd4874066df\t{\"Parent\":\"Firefox 32.0\",\"Browser_Bits\":\"32\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
-        "3643df07b042e19a256538b16210ef0e\t{\"Parent\":\"Firefox 28.0\",\"Browser_Bits\":\"32\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
-        "3642dbf6eb6bdb6590d2f8f2a1740f7c\t{\"Parent\":\"Firefox 6.0\",\"Browser_Bits\":\"32\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}"
+        "3642dbf6eb6bdb6590d2f8f2a1740f7c\t{\"Parent\":\"Firefox 6.0\",\"Browser_Bits\":\"32\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
+        "3643df07b042e19a256538b16210ef0e\t{\"Parent\":\"Firefox 28.0\",\"Browser_Bits\":\"32\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}"
     ]
 }

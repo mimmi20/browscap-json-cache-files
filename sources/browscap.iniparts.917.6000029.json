@@ -1,8 +1,8 @@
 {
     "content": [
-        "91701480e6f9a37e207106137f56f5b9\t{\"Parent\":\"Amigo 52.0\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "917fb8a6a7f9cc2269270155e2eefe7a\t{\"Parent\":\"ChromePlus 1.6\",\"Browser_Bits\":\"64\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "9174008235c6003a7b49cf994eee92f9\t{\"Parent\":\"Coc Coc Browser 50.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
+        "91701480e6f9a37e207106137f56f5b9\t{\"Parent\":\"Amigo 52.0\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "917cf39d337de1e757f1cce78721d8d6\t{\"Parent\":\"Baidu Browser 4.0\",\"Platform_Version\":\"4.3\"}",
         "917af0bb157bd08f92697ce33f543422\t{\"Parent\":\"Baidu Browser 2.6\",\"Platform_Version\":\"4.1\"}",
         "917e121d37e6ba9fd85e3f4a6bd46bbe\t{\"Parent\":\"Baidu Browser HD 3.2 for iOS\",\"Platform_Version\":\"10.0\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",

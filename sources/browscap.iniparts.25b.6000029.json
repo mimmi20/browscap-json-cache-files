@@ -1,9 +1,9 @@
 {
     "content": [
         "25b20d805093fa268203497d359454cb\t{\"Parent\":\"Download Managers\",\"Browser\":\"PicaLoader\"}",
-        "25b1a4b47e532459d1d679f3be784096\t{\"Parent\":\"Amigo 58.0\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "25b23b8efbd26a0c2308e1fba85c99b9\t{\"Parent\":\"Coc Coc Browser 43.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "25b4c718977e626b088aeb29ecbecd82\t{\"Parent\":\"Coc Coc Browser 30.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Linux\",\"Platform_Description\":\"Linux\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Linux Foundation\",\"Win32\":false,\"Device_Name\":\"Linux Desktop\",\"Device_Code_Name\":\"Linux Desktop\"}",
+        "25b1a4b47e532459d1d679f3be784096\t{\"Parent\":\"Amigo 58.0\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "25bf84c1da2afdb4f6acb857613e69dd\t{\"Parent\":\"UC Browser 9.8 for Android\",\"Platform_Version\":\"4.2\",\"JavaApplets\":true,\"Device_Name\":\"W200\",\"Device_Maker\":\"ThL\",\"Device_Code_Name\":\"W200\",\"Device_Brand_Name\":\"ThL\",\"RenderingEngine_Name\":\"WebKit\",\"RenderingEngine_Description\":\"For Google Chrome, iOS (including both mobile Safari, WebViews within third-party apps, and web clips), Safari, Arora, Midori, OmniWeb, Shiira, iCab since version 4, Web, SRWare Iron, Rekonq, and in Maxthon 3.\",\"RenderingEngine_Maker\":\"Apple Inc\"}",
         "25baf23dbbe1ff78f91a4766f1102175\t{\"Parent\":\"UC Browser 8.8 for iOS\",\"Platform_Version\":\"5.0\"}",
         "25bb23826ada9503c8d3b4ebd35e33ee\t{\"Parent\":\"UC Browser 3.0 for Android\",\"Platform_Version\":\"5.0\",\"Device_Name\":\"Galaxy A5 (Global)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-A500F\",\"Device_Brand_Name\":\"Samsung\"}",

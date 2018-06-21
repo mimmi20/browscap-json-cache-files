@@ -9,8 +9,8 @@
         "887a834dfcbdfe25d97b215dfa9acd7c\t{\"Parent\":\"UC Browser 8.1 for Android\",\"Platform_Version\":\"4.4\"}",
         "88710cd2ea5cec16b0018dfce0d4e362\t{\"Parent\":\"Comodo Dragon 33.1\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "8873b476e312783f1637bbb6956c33c3\t{\"Parent\":\"Comodo Dragon 16.2\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
-        "8874b53538c9f74870214c9a1c5bb5f4\t{\"Parent\":\"Android WebView 1.6\",\"Platform_Version\":\"4.0\",\"Device_Name\":\"Xperia Arc\",\"Device_Maker\":\"SonyEricsson\",\"Device_Code_Name\":\"LT18i\",\"Device_Brand_Name\":\"SonyEricsson\"}",
         "887cdf95368cfe4aa43434b999c258eb\t{\"Parent\":\"Samsung Browser 4.0\",\"Platform_Version\":\"8.0\"}",
+        "8874b53538c9f74870214c9a1c5bb5f4\t{\"Parent\":\"Android WebView 1.6\",\"Platform_Version\":\"4.0\",\"Device_Name\":\"Xperia Arc\",\"Device_Maker\":\"SonyEricsson\",\"Device_Code_Name\":\"LT18i\",\"Device_Brand_Name\":\"SonyEricsson\"}",
         "887ef8317ffa840a5bc765f3ff520887\t{\"Parent\":\"2345 Explorer 8.0\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "88799168f58735415d3d654cbae65553\t{\"Parent\":\"QQBrowser 6.9 for iOS\",\"Browser_Bits\":\"32\",\"Platform\":\"iOS\",\"Platform_Version\":\"9.3\",\"Platform_Description\":\"iPod, iPhone \\u0026 iPad\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
         "887922491ab0cb965e6ccc142036283e\t{\"Parent\":\"Yandex Browser 15.7 for iOS\",\"Platform_Version\":\"10.1\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
@@ -65,7 +65,7 @@
         "8874d76fd558177424e6d371b359e62c\t{\"Parent\":\"IceApe 2.7\"}",
         "88773ddef617037f5a0b54a5061567bd\t{\"Parent\":\"iLunascape 5.2\",\"Platform_Version\":\"8.0\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
         "8873a3731495a5e400b23d4a28472055\t{\"Parent\":\"MusicDownloader 1.0\",\"Platform_Version\":\"8.1\"}",
-        "887c10f1fd85e80593d94f951bb38a18\t{\"Parent\":\"Mark Levin Show\",\"Platform_Version\":\"8.1\"}",
-        "88750051cca68d19a39c1367d7c21320\t{\"Parent\":\"PodcastOne Generic\",\"Platform_Version\":\"9.3\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}"
+        "88750051cca68d19a39c1367d7c21320\t{\"Parent\":\"PodcastOne Generic\",\"Platform_Version\":\"9.3\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
+        "887c10f1fd85e80593d94f951bb38a18\t{\"Parent\":\"Mark Levin Show\",\"Platform_Version\":\"8.1\"}"
     ]
 }

@@ -56,8 +56,8 @@
         "8f6ad76d8a28556822180104c90993c9\t{\"Parent\":\"SeaMonkey 2.9\",\"Browser_Bits\":\"32\",\"Platform\":\"OpenBSD\",\"Platform_Description\":\"OpenBSD\",\"Platform_Bits\":\"32\",\"Device_Name\":\"general Desktop\",\"Device_Code_Name\":\"general Desktop\"}",
         "8f664f1da01dec1e77ed8f8efac55288\t{\"Parent\":\"Thunderbird 7.0\",\"Browser_Bits\":\"32\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "8f623b542e43ced6d9ef34e7876d8f9c\t{\"Parent\":\"Iceweasel 24.7\"}",
-        "8f6774590030d29faa69d4d6fdcf7923\t{\"Parent\":\"Firefox 38.0 for Android\"}",
         "8f643783e0337ba9a10bffcf4a95cd1d\t{\"Parent\":\"Firefox 59.0 for Android\",\"Platform_Version\":\"5.1\",\"isTablet\":true,\"Device_Name\":\"general Tablet\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"general Tablet\"}",
+        "8f6774590030d29faa69d4d6fdcf7923\t{\"Parent\":\"Firefox 38.0 for Android\"}",
         "8f64519d47b99e79f345913d3dfa844d\t{\"Parent\":\"GoodReader 3.0\",\"Platform_Version\":\"6.0\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
         "8f61ece7f5618e844c0b2bc23521be8e\t{\"Parent\":\"Openwave Mobile Browser\"}"
     ]

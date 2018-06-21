@@ -52,8 +52,8 @@
         "c3c86844486a5bae66dd30bea95eb698\t{\"Parent\":\"Electron 0.30\",\"Browser_Bits\":\"64\",\"Platform\":\"Linux\",\"Platform_Description\":\"Linux\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Linux Foundation\",\"Device_Name\":\"Linux Desktop\",\"Device_Code_Name\":\"Linux Desktop\"}",
         "c3c93666d1191ea208f4f44421964430\t{\"Parent\":\"Lunascape 6.5\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\",\"RenderingEngine_Version\":\"5.0\"}",
         "c3c149fc8868ffbc0bdae18a2b37f2f1\t{\"Parent\":\"AirWatch Browser for iOS\",\"Platform_Version\":\"9.0\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
-        "c3c9e183814f4bee206abbbe6c041757\t{\"Parent\":\"Sleipnir 2.30\",\"Browser_Bits\":\"32\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
         "c3c337f5ae930506ab4f55e3fd34fa90\t{\"Parent\":\"Sleipnir 3.3 for iOS\",\"Platform_Version\":\"7.0\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
+        "c3c9e183814f4bee206abbbe6c041757\t{\"Parent\":\"Sleipnir 2.30\",\"Browser_Bits\":\"32\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
         "c3c6bc2fb704abd41eff0f973b76caa2\t{\"Parent\":\"IceDragon Generic\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\"}",
         "c3c3c09fc3d75c00da63a14eb3c41e2b\t{\"Parent\":\"Mozilla 1.7\",\"Browser_Bits\":\"64\",\"Platform\":\"IRIX64\",\"Platform_Description\":\"IRIX64\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"SGI\",\"Device_Name\":\"general Desktop\",\"Device_Code_Name\":\"general Desktop\"}"
     ]

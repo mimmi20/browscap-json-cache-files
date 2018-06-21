@@ -1,9 +1,9 @@
 {
     "content": [
         "f02a3ffbe84d8764a5f1fec106aa4193\t{\"Parent\":\"General Crawlers\",\"Browser\":\"MarketwireBot\",\"Browser_Maker\":\"Marketwire L.P.\"}",
+        "f022dbb2916ba2fc07459fad902bf6bb\t{\"Parent\":\"Coc Coc Browser 59.0 for Android\",\"Platform_Version\":\"4.2\",\"Device_Name\":\"Galaxy S III\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"GT-I9300\",\"Device_Brand_Name\":\"Samsung\"}",
         "f02de604b3dc1b7483a6657e051a6808\t{\"Parent\":\"CM Browser\",\"Platform_Version\":\"6.0\",\"JavaApplets\":false,\"isTablet\":true,\"Device_Name\":\"HTC Nexus 9\",\"Device_Maker\":\"HTC\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"Nexus 9\",\"Device_Brand_Name\":\"Google\",\"RenderingEngine_Name\":\"Blink\",\"RenderingEngine_Description\":\"a WebKit Fork by Google\",\"RenderingEngine_Maker\":\"Google Inc\"}",
         "f02d6da1d631f68170a7ee7cc8c5243b\t{\"Parent\":\"Amigo 54.0\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
-        "f022dbb2916ba2fc07459fad902bf6bb\t{\"Parent\":\"Coc Coc Browser 59.0 for Android\",\"Platform_Version\":\"4.2\",\"Device_Name\":\"Galaxy S III\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"GT-I9300\",\"Device_Brand_Name\":\"Samsung\"}",
         "f025c4601268e2bf04cb8039aaf19bf4\t{\"Parent\":\"Baidu Browser 1.8\",\"Platform_Version\":\"6.0\",\"isTablet\":true,\"Device_Name\":\"general Tablet\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"general Tablet\",\"RenderingEngine_Name\":\"Blink\",\"RenderingEngine_Description\":\"a WebKit Fork by Google\",\"RenderingEngine_Maker\":\"Google Inc\"}",
         "f02dd1b05abb6e043370a6fa6e7216cb\t{\"Parent\":\"Naver 6.0 for iOS\",\"Platform_Version\":\"9.1\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
         "f02d77ea1cd4bf88e2bea3a80b28ff84\t{\"Parent\":\"UC Browser 11.0 for Android\",\"Platform_Version\":\"5.1\",\"RenderingEngine_Name\":\"Blink\",\"RenderingEngine_Description\":\"a WebKit Fork by Google\",\"RenderingEngine_Maker\":\"Google Inc\"}",

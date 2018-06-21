@@ -1,8 +1,8 @@
 {
     "content": [
-        "3c65f7e303bc9af39bde167bd2a290e4\t{\"Parent\":\"Coc Coc Browser 39.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Linux\",\"Platform_Description\":\"Linux\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Linux Foundation\",\"Win32\":false,\"Device_Name\":\"Linux Desktop\",\"Device_Code_Name\":\"Linux Desktop\"}",
         "3c6727b50fb3e6919c9ed4d28c89aee4\t{\"Parent\":\"Coc Coc Browser 64.0 for Android\",\"Platform_Version\":\"6.0\"}",
         "3c6438f6ff5fddd602ad707ae14bfa63\t{\"Parent\":\"Coc Coc Browser 55.0 for Android\",\"Platform_Version\":\"5.0\",\"Device_Name\":\"Galaxy A3 Duos\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-A300H\",\"Device_Brand_Name\":\"Samsung\"}",
+        "3c65f7e303bc9af39bde167bd2a290e4\t{\"Parent\":\"Coc Coc Browser 39.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Linux\",\"Platform_Description\":\"Linux\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Linux Foundation\",\"Win32\":false,\"Device_Name\":\"Linux Desktop\",\"Device_Code_Name\":\"Linux Desktop\"}",
         "3c68d1fcf3b0f0a947e23dfc0a3abeb6\t{\"Parent\":\"Baidu Browser 6.0\",\"Platform_Version\":\"4.3\",\"JavaApplets\":true,\"RenderingEngine_Name\":\"WebKit\",\"RenderingEngine_Description\":\"For Google Chrome, iOS (including both mobile Safari, WebViews within third-party apps, and web clips), Safari, Arora, Midori, OmniWeb, Shiira, iCab since version 4, Web, SRWare Iron, Rekonq, and in Maxthon 3.\",\"RenderingEngine_Maker\":\"Apple Inc\"}",
         "3c63c532c7bb406e5783f85b704d84ea\t{\"Parent\":\"UC Browser 10.10 for Android\",\"Platform_Version\":\"5.0\",\"RenderingEngine_Name\":\"Blink\",\"RenderingEngine_Description\":\"a WebKit Fork by Google\",\"RenderingEngine_Maker\":\"Google Inc\"}",
         "3c641be9b4fa80cb563141f54149434c\t{\"Parent\":\"UC Browser 10.2 for Android\",\"Platform_Version\":\"7.1\",\"RenderingEngine_Name\":\"U2\"}",

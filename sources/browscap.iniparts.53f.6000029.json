@@ -1,16 +1,16 @@
 {
     "content": [
         "53f140bf35d2d47c4c4eb693c9fcf43a\t{\"Parent\":\"Lipperhey SEO Service\"}",
-        "53fec2255e6c50c6da948c11cbae8eab\t{\"Parent\":\"Coc Coc Browser 39.0\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.4\",\"Platform_Description\":\"Mac OS X\",\"Platform_Maker\":\"Apple Inc\",\"Win32\":false,\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
         "53f89b285f87d244a36d4e1cd2b8ece1\t{\"Parent\":\"Coc Coc Browser 68.0 for Android\",\"Platform_Version\":\"4.2\"}",
+        "53fec2255e6c50c6da948c11cbae8eab\t{\"Parent\":\"Coc Coc Browser 39.0\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.4\",\"Platform_Description\":\"Mac OS X\",\"Platform_Maker\":\"Apple Inc\",\"Win32\":false,\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
         "53fda0e344bc48e30410b369de65708b\t{\"Parent\":\"Naver 7.3 for iOS\",\"Platform_Version\":\"11.1\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
         "53fa6bc78fbb6a692dcce350808b5792\t{\"Parent\":\"Naver 7.2 for iOS\",\"Platform_Version\":\"9.0\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
         "53f2811e4134612706c41f1099744a19\t{\"Parent\":\"UC Browser 10.1 for Android\",\"Platform_Version\":\"4.4\",\"Device_Name\":\"A5000\",\"Device_Maker\":\"Lenovo\",\"Device_Code_Name\":\"A5000\",\"Device_Brand_Name\":\"Lenovo\"}",
         "53f80b2428e6d509fb8bea9688a21504\t{\"Parent\":\"UC Browser 9.0 for Android\",\"Platform_Version\":\"4.0\",\"Device_Name\":\"Smarty A68\",\"Device_Maker\":\"Micromax\",\"Device_Code_Name\":\"A68\",\"Device_Brand_Name\":\"Micromax\",\"RenderingEngine_Name\":\"U3\"}",
         "53ff90877b3a1ebd23bda394740a4eda\t{\"Parent\":\"AOL Desktop Trident 9.7\",\"Browser_Bits\":\"32\",\"Platform\":\"Win32\",\"Platform_Description\":\"Windows\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
         "53ff7878102c01777886b281b6241f5d\t{\"Parent\":\"UC Browser 3.5 for Android\",\"Platform_Version\":\"5.0\",\"Device_Name\":\"Galaxy A5 Duos\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-A500H\",\"Device_Brand_Name\":\"Samsung\"}",
-        "53f39c024ff21f0bb6373f22d16d3ba7\t{\"Parent\":\"Avant\\/IE 7.0\",\"Browser_Bits\":\"32\",\"Platform\":\"WinNT\",\"Platform_Description\":\"Windows NT\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
         "53f463c8c804e803746732cc3796d97a\t{\"Parent\":\"UC Browser 2.4 for Android\",\"Platform_Version\":\"4.2\",\"Device_Name\":\"Galaxy Grand Duos\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"GT-I9082L\",\"Device_Brand_Name\":\"Samsung\"}",
+        "53f39c024ff21f0bb6373f22d16d3ba7\t{\"Parent\":\"Avant\\/IE 7.0\",\"Browser_Bits\":\"32\",\"Platform\":\"WinNT\",\"Platform_Description\":\"Windows NT\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
         "53f2a6a88a3067dbb63d4b7deb4db949\t{\"Parent\":\"Flipboard App 3.3\",\"Platform_Version\":\"4.3\",\"JavaApplets\":true,\"Device_Name\":\"X2 Dual SIM\",\"Device_Maker\":\"Nokia\",\"Device_Code_Name\":\"X2DS\",\"Device_Brand_Name\":\"Nokia\",\"RenderingEngine_Name\":\"WebKit\",\"RenderingEngine_Description\":\"For Google Chrome, iOS (including both mobile Safari, WebViews within third-party apps, and web clips), Safari, Arora, Midori, OmniWeb, Shiira, iCab since version 4, Web, SRWare Iron, Rekonq, and in Maxthon 3.\",\"RenderingEngine_Maker\":\"Apple Inc\"}",
         "53fbc7f55da4eaf88ba2ad14b9f2deed\t{\"Parent\":\"Comodo Dragon 43.2\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.1\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "53f4e96699bdb90fb30a4bed4fe7fa5c\t{\"Parent\":\"Samsung Browser 6.0\",\"Platform_Version\":\"6.0\"}",
@@ -57,7 +57,7 @@
         "53f3241371ed29cdaed9df697be994b6\t{\"Parent\":\"IceDragon 23.0\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\"}",
         "53f3247215fb127248250f9a1d3b77da\t{\"Parent\":\"Firefox 39.0\",\"Browser_Bits\":\"32\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
         "53f26d9776d9fa06f5d4f98b31bccb79\t{\"Parent\":\"Firefox 16.0\",\"Browser_Bits\":\"32\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.6\",\"Platform_Description\":\"Mac OS X\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
-        "53ff5d5cd1a863bf6f30688fa99ee2c6\t{\"Parent\":\"FancyMusic 1.5\",\"Browser_Bits\":\"32\",\"Platform\":\"iOS\",\"Platform_Description\":\"iPod, iPhone \\u0026 iPad\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
-        "53f490584614d670a829bd639f7a43ea\t{\"Parent\":\"MusicDownloader 1.5\",\"Platform_Version\":\"5.0\"}"
+        "53f490584614d670a829bd639f7a43ea\t{\"Parent\":\"MusicDownloader 1.5\",\"Platform_Version\":\"5.0\"}",
+        "53ff5d5cd1a863bf6f30688fa99ee2c6\t{\"Parent\":\"FancyMusic 1.5\",\"Browser_Bits\":\"32\",\"Platform\":\"iOS\",\"Platform_Description\":\"iPod, iPhone \\u0026 iPad\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}"
     ]
 }

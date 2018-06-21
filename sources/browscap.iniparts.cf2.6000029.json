@@ -1,8 +1,8 @@
 {
     "content": [
         "cf22194be5e96b5eb912cbc3b3dbda7d\t{\"Parent\":\"Iridium Browser 58.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
-        "cf277c5373ea22c2af81d341d74c9227\t{\"Parent\":\"Amigo 42.0\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\"}",
         "cf2713dd1f987cbe92e819d77b83664c\t{\"Parent\":\"Coc Coc Browser 51.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
+        "cf277c5373ea22c2af81d341d74c9227\t{\"Parent\":\"Amigo 42.0\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\"}",
         "cf21377a9e09f2e98a2c49aa9f756183\t{\"Parent\":\"UC Browser 10.2 for Android\",\"Platform_Version\":\"6.0\",\"Device_Name\":\"Canvas A1\",\"Device_Maker\":\"Micromax\",\"Device_Code_Name\":\"AQ4501\",\"Device_Brand_Name\":\"Micromax\",\"RenderingEngine_Name\":\"U2\"}",
         "cf2689b9514fea70d80c5573d01a49da\t{\"Parent\":\"UC Browser 10.0 for Android\",\"Platform_Version\":\"4.2\",\"Device_Name\":\"Bolt A46\",\"Device_Maker\":\"Micromax\",\"Device_Code_Name\":\"A46\",\"Device_Brand_Name\":\"Micromax\"}",
         "cf286ba252a67ecac77aa27209d7dd66\t{\"Parent\":\"UC Browser 8.8 for Android\",\"Platform_Version\":\"3.0\",\"isTablet\":true,\"Device_Name\":\"general Tablet\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"general Tablet\"}",

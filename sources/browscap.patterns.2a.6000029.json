@@ -16,10 +16,10 @@
         "2ae41fa6dbd644a6846389ad14167167\t20\tcopyright sheriff \\(.*\\)",
         "2afabc8d52b1b1fe7e38f426784ab0ef\t34\tquora [\\d]\\.[\\d].* rv\\:.* \\(iphone.*iphone os [\\d]\\.[\\d].*",
         "2afabc8d52b1b1fe7e38f426784ab0ef\t32\tquora [\\d]\\.[\\d].* rv\\:.* \\(ipad.*iphone os [\\d]\\.[\\d].*",
-        "2afabc8d52b1b1fe7e38f426784ab0ef\t30\tquora [\\d]\\.[\\d].* rv\\:.* \\(iphone.*iphone os.*\tquora.* rv\\:.* \\(iphone.*iphone os [\\d]\\.[\\d].*",
-        "2afabc8d52b1b1fe7e38f426784ab0ef\t28\tquora [\\d]\\.[\\d].* rv\\:.* \\(ipad.*iphone os.*\tquora.* rv\\:.* \\(ipad.*iphone os [\\d]\\.[\\d].*\tquora [\\d]\\.[\\d].* rv\\:.* \\(.*iphone os [\\d]\\.[\\d].*",
+        "2afabc8d52b1b1fe7e38f426784ab0ef\t30\tquora.* rv\\:.* \\(iphone.*iphone os [\\d]\\.[\\d].*\tquora [\\d]\\.[\\d].* rv\\:.* \\(iphone.*iphone os.*",
+        "2afabc8d52b1b1fe7e38f426784ab0ef\t28\tquora [\\d]\\.[\\d].* rv\\:.* \\(.*iphone os [\\d]\\.[\\d].*\tquora.* rv\\:.* \\(ipad.*iphone os [\\d]\\.[\\d].*\tquora [\\d]\\.[\\d].* rv\\:.* \\(ipad.*iphone os.*",
         "2afabc8d52b1b1fe7e38f426784ab0ef\t26\tquora.* rv\\:.* \\(iphone.*iphone os.*",
-        "2afabc8d52b1b1fe7e38f426784ab0ef\t24\tquora.* rv\\:.* \\(.*iphone os [\\d]\\.[\\d].*\tquora.* rv\\:.* \\(ipad.*iphone os.*\tquora [\\d]\\.[\\d].* rv\\:.* \\(.*iphone os.*",
+        "2afabc8d52b1b1fe7e38f426784ab0ef\t24\tquora.* rv\\:.* \\(.*iphone os [\\d]\\.[\\d].*\tquora [\\d]\\.[\\d].* rv\\:.* \\(.*iphone os.*\tquora.* rv\\:.* \\(ipad.*iphone os.*",
         "2afabc8d52b1b1fe7e38f426784ab0ef\t22\tquora link preview\\/[\\d]\\.[\\d].*",
         "2afabc8d52b1b1fe7e38f426784ab0ef\t20\tquora.* rv\\:.* \\(.*iphone os.*",
         "2afabc8d52b1b1fe7e38f426784ab0ef\t19\tquora link preview\\/.*"

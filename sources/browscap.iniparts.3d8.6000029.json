@@ -1,11 +1,11 @@
 {
     "content": [
-        "3d8c08ecbb5621aa3ce5793fa3fbd2de\t{\"Parent\":\"Amigo 52.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win10\",\"Platform_Version\":\"6.4\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "3d8fbbd2901d6267d6e88efb090f76a9\t{\"Parent\":\"Coc Coc Browser 37.0\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
-        "3d896b50b85f60a4372776c613143b50\t{\"Parent\":\"Naver 8.3 for Android\",\"Platform_Version\":\"4.4\",\"Device_Name\":\"Galaxy A5 (Korea)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-A500S\",\"Device_Brand_Name\":\"Samsung\"}",
-        "3d8c24733f99dfc2a15afcdd1400009b\t{\"Parent\":\"Naver 7.0 for Android\",\"Platform_Version\":\"5.0\",\"isTablet\":true,\"Device_Name\":\"general Tablet\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"general Tablet\"}",
+        "3d8c08ecbb5621aa3ce5793fa3fbd2de\t{\"Parent\":\"Amigo 52.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win10\",\"Platform_Version\":\"6.4\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "3d8153124804fcd9fc0cf650f95d9f60\t{\"Parent\":\"Naver 6.1 for iOS\",\"Platform_Version\":\"8.1\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
         "3d86465fe8b1f3474d857f11862b8f5f\t{\"Parent\":\"Naver 4.0 for iOS\",\"Platform_Version\":\"6.1\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
+        "3d896b50b85f60a4372776c613143b50\t{\"Parent\":\"Naver 8.3 for Android\",\"Platform_Version\":\"4.4\",\"Device_Name\":\"Galaxy A5 (Korea)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-A500S\",\"Device_Brand_Name\":\"Samsung\"}",
+        "3d8c24733f99dfc2a15afcdd1400009b\t{\"Parent\":\"Naver 7.0 for Android\",\"Platform_Version\":\"5.0\",\"isTablet\":true,\"Device_Name\":\"general Tablet\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"general Tablet\"}",
         "3d80bb6fa0956a4523efbfeafbbe02aa\t{\"Parent\":\"UR Browser 55.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "3d81166506712c3e352c7deef69e65e7\t{\"Parent\":\"UC Browser 10.0 for Android\",\"Platform_Version\":\"4.0\",\"RenderingEngine_Name\":\"U2\"}",
         "3d84aed1e998318485baafb9ea41d6bd\t{\"Parent\":\"UC Browser 9.3 for Series40\",\"Device_Name\":\"5130c-2 XpressMusic\",\"Device_Pointing_Method\":\"touchscreen\",\"Device_Code_Name\":\"5130c-2\"}",

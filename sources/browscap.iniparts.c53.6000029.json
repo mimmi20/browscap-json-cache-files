@@ -43,8 +43,8 @@
         "c535924acd39cf4294d009a66083b0fb\t{\"Parent\":\"Opera Mini 15.0 for iOS\",\"Browser_Bits\":\"32\",\"Platform\":\"iOS\",\"Platform_Version\":\"8.2\",\"Platform_Description\":\"iPod, iPhone \\u0026 iPad\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
         "c53efc253a60f1ccd730f366719172a4\t{\"Parent\":\"Snapchat 10.16\",\"Platform_Version\":\"9.0\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
         "c53b881b4fd660e08670a7336eaa94d2\t{\"Parent\":\"Epiphany 3.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Linux\",\"Platform_Description\":\"Linux\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Linux Foundation\"}",
-        "c53d23ad7247d3f0e035de8cb50d5acb\t{\"Parent\":\"Instagram App 22.0 for Android\",\"Platform_Version\":\"5.1\",\"Device_Name\":\"Galaxy J1 Ace\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-J110M\",\"Device_Brand_Name\":\"Samsung\"}",
         "c5398884769ef06e026e1ed4b1a946bd\t{\"Parent\":\"Instagram App 15.0 for iOS\",\"Platform_Version\":\"11.0\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
+        "c53d23ad7247d3f0e035de8cb50d5acb\t{\"Parent\":\"Instagram App 22.0 for Android\",\"Platform_Version\":\"5.1\",\"Device_Name\":\"Galaxy J1 Ace\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-J110M\",\"Device_Brand_Name\":\"Samsung\"}",
         "c53e6a671a2bb02fd2b111ae1cb18787\t{\"Parent\":\"Instagram Agent 4.1 for iOS\",\"Platform_Version\":\"9.2\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
         "c5343ff36844f0265ff70def4e70a459\t{\"Parent\":\"WebTV\",\"Version\":\"2.0\",\"MajorVer\":\"2\"}",
         "c5301686d72ab52e494bb4178e68d9b2\t{\"Parent\":\"Lunascape 6.6\",\"Platform\":\"Win98\",\"Platform_Version\":\"98\",\"Platform_Description\":\"Windows 98\",\"RenderingEngine_Version\":\"4.0\"}",
@@ -52,7 +52,7 @@
         "c534e2bcd354ee14a316f74be893c017\t{\"Parent\":\"Framabird 24.6\",\"Browser_Bits\":\"64\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "c534cb78751f5e299f9d4ed1df4475b6\t{\"Parent\":\"Sleipnir 2.45\",\"Browser_Bits\":\"32\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true,\"RenderingEngine_Version\":\"5.0\"}",
         "c5313fc88acd86a6b183680c718aea25\t{\"Parent\":\"IceDragon 26.0\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
-        "c5347a072277b304b2eef4f5d5da7057\t{\"Parent\":\"Firefox Focus 3.7 for iOS\",\"Platform_Version\":\"11.0\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
-        "c5319f21d036ddf645e2f2f1bc074cdd\t{\"Parent\":\"Firefox for FirefoxOS Generic\"}"
+        "c5319f21d036ddf645e2f2f1bc074cdd\t{\"Parent\":\"Firefox for FirefoxOS Generic\"}",
+        "c5347a072277b304b2eef4f5d5da7057\t{\"Parent\":\"Firefox Focus 3.7 for iOS\",\"Platform_Version\":\"11.0\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}"
     ]
 }

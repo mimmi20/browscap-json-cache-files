@@ -1,8 +1,8 @@
 {
     "content": [
         "1512ae7521eea0464f0e4f3a77f7130a\t{\"Parent\":\"General Crawlers\",\"Browser\":\"Squzer\",\"Browser_Maker\":\"Declum\"}",
-        "151829ae5450a0e7e603261e51eb537b\t{\"Parent\":\"Amigo 43.0\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "151c2e70d8d67980e6200a9f1dec86f3\t{\"Parent\":\"Coc Coc Browser 29.0\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
+        "151829ae5450a0e7e603261e51eb537b\t{\"Parent\":\"Amigo 43.0\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "151c1399df3619f4d6bea6a31fee71bd\t{\"Parent\":\"Swing Browser 3.4\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\"}",
         "151b9efc5f6bb22a82e9e9571c72a373\t{\"Parent\":\"UC Browser 10.4 for Android\",\"Platform_Version\":\"4.4\",\"Device_Name\":\"Canvas A1\",\"Device_Maker\":\"Micromax\",\"Device_Code_Name\":\"AQ4501\",\"Device_Brand_Name\":\"Micromax\"}",
         "151841c409604e612cb4f2e8f0f56c65\t{\"Parent\":\"UC Browser 10.6 for iOS\",\"Browser_Modus\":\"Chrome\",\"Platform_Version\":\"9.0\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",

@@ -1,8 +1,8 @@
 {
     "content": [
         "35c1e7ce524d0ae28e8e76d2a80f2962\t{\"Parent\":\"Bing Search App 5.3 for Android\",\"Platform_Version\":\"5.0\",\"Device_Name\":\"P8\",\"Device_Maker\":\"Huawei\",\"Device_Code_Name\":\"GRA-L09\",\"Device_Brand_Name\":\"Huawei\"}",
-        "35c7eb49777349d28c78cba228686cc5\t{\"Parent\":\"Coc Coc Browser 60.0\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.8\",\"Platform_Description\":\"Mac OS X\",\"Platform_Maker\":\"Apple Inc\",\"Win32\":false,\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
         "35cddd8b8d8f6a0fec2fc87f69ba9230\t{\"Parent\":\"Coc Coc Browser 62.0 for Android\",\"Platform_Version\":\"4.4\",\"Device_Name\":\"Galaxy Grand Prime Dual\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-G530H\",\"Device_Brand_Name\":\"Samsung\"}",
+        "35c7eb49777349d28c78cba228686cc5\t{\"Parent\":\"Coc Coc Browser 60.0\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.8\",\"Platform_Description\":\"Mac OS X\",\"Platform_Maker\":\"Apple Inc\",\"Win32\":false,\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
         "35c1f69ff15407d7f02d3211c7d92474\t{\"Parent\":\"Coc Coc Browser 29.0\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.1\",\"Platform_Description\":\"Windows XP\"}",
         "35c1ba063bffcfc34fece339978d7217\t{\"Parent\":\"UC Browser Mini 10.1\",\"Browser_Modus\":\"SpeedMode\",\"Platform_Version\":\"4.1\",\"Device_Name\":\"Galaxy Note II\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"GT-N7100\",\"Device_Brand_Name\":\"Samsung\"}",
         "35c47c9144c07cb2544fe9f0cd3d8a43\t{\"Parent\":\"UC Browser 9.3 for Android\",\"Platform_Version\":\"4.1\",\"Device_Name\":\"Bolt A27\",\"Device_Maker\":\"Micromax\",\"Device_Code_Name\":\"A27\",\"Device_Brand_Name\":\"Micromax\"}",

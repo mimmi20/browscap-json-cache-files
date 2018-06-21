@@ -2,9 +2,9 @@
     "content": [
         "edc71adeb9cca5eada930b52e2b6f3b3\t{\"Parent\":\"URLAppendBot\",\"Version\":\"1.0\",\"MajorVer\":\"1\"}",
         "edc89a2f0a71a0466ed2ed5c9a5d7f14\t{\"Parent\":\"Feeds Syndicators\",\"Browser\":\"NewsTin\"}",
-        "edc04db6880bd1719a369aa1cf0edb1d\t{\"Parent\":\"360 Secure Browser for iOS\",\"Platform_Version\":\"10.3\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
         "edc380ef66bb8aa492f71208b85f8736\t{\"Parent\":\"UC Browser 11.4 for Android\",\"Platform_Version\":\"4.1\",\"RenderingEngine_Name\":\"U2\"}",
         "edcae6b63f062d216d8d0f4f4bad035b\t{\"Parent\":\"UC Browser 11.2 for Android\",\"Platform_Version\":\"4.4\",\"isTablet\":true,\"Device_Name\":\"Galaxy Tab S 8.4 LTE\",\"Device_Maker\":\"Samsung\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"SM-T705\",\"Device_Brand_Name\":\"Samsung\"}",
+        "edc04db6880bd1719a369aa1cf0edb1d\t{\"Parent\":\"360 Secure Browser for iOS\",\"Platform_Version\":\"10.3\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
         "edc6c9de79badaddae55402bc2339865\t{\"Parent\":\"UC Browser 10.10 for Android\",\"Platform_Version\":\"4.2\",\"Device_Name\":\"Galaxy Grand Duos\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"GT-I9082\",\"Device_Brand_Name\":\"Samsung\"}",
         "edc7e212dec2ec93d8bc496fa2445fea\t{\"Parent\":\"UC Browser 10.7 for Android\",\"Platform_Version\":\"4.2\",\"Device_Name\":\"Elanza\",\"Device_Maker\":\"Micromax\",\"Device_Code_Name\":\"A93\",\"Device_Brand_Name\":\"Micromax\"}",
         "edcda374b95fbce24aec926ea59d9943\t{\"Parent\":\"UC Browser 10.4 for Android\",\"Platform_Version\":\"4.4\",\"Device_Name\":\"Desire 816\",\"Device_Maker\":\"HTC\",\"Device_Code_Name\":\"Desire 816\",\"Device_Brand_Name\":\"HTC\",\"RenderingEngine_Name\":\"U2\"}",

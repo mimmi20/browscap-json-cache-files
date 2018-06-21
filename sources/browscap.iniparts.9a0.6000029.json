@@ -1,11 +1,11 @@
 {
     "content": [
         "9a0ea840056061fdf61b739040cb08ef\t{\"Parent\":\"Crosswalk App 16.0\",\"Platform_Version\":\"6.0\",\"Device_Name\":\"Galaxy A5 Duos\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-A500H\",\"Device_Brand_Name\":\"Samsung\"}",
-        "9a0e80f8035121eb59dba6b636981e4e\t{\"Parent\":\"Amigo 57.0\",\"Platform\":\"Win10\",\"Platform_Version\":\"6.4\",\"Platform_Description\":\"Windows 10\"}",
         "9a0bb9ba7e1df47d1a0353cdc2ddb52d\t{\"Parent\":\"Coc Coc Browser 61.0 for Windows Phone\",\"Platform\":\"WinPhone8.1\",\"Platform_Version\":\"8.1\",\"Platform_Description\":\"Windows Phone OS 8.1\"}",
-        "9a00e75f4505787a367b7a2d12d0d70a\t{\"Parent\":\"Swing Browser 4.0\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.1\",\"Platform_Description\":\"Windows XP\"}",
+        "9a0e80f8035121eb59dba6b636981e4e\t{\"Parent\":\"Amigo 57.0\",\"Platform\":\"Win10\",\"Platform_Version\":\"6.4\",\"Platform_Description\":\"Windows 10\"}",
         "9a0f865edb5e93ad621571a9b64862d5\t{\"Parent\":\"UC Browser 11.4 for Android\",\"Platform_Version\":\"8.0\"}",
         "9a0323e3c59e91250c7025d82eca44d2\t{\"Parent\":\"UC Browser 11.1 for Android\",\"Platform_Version\":\"5.0\",\"Device_Name\":\"Galaxy Note 3 LTE (AT\\u0026T)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-N900A\",\"Device_Brand_Name\":\"Samsung\"}",
+        "9a00e75f4505787a367b7a2d12d0d70a\t{\"Parent\":\"Swing Browser 4.0\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.1\",\"Platform_Description\":\"Windows XP\"}",
         "9a07c8732cb766f70d2c870ddade7a11\t{\"Parent\":\"UC Browser 10.9 for Android\",\"Platform_Version\":\"4.1\",\"Device_Name\":\"Canvas HD\",\"Device_Maker\":\"Micromax\",\"Device_Code_Name\":\"A116i\",\"Device_Brand_Name\":\"Micromax\"}",
         "9a09c66903f13c3f6822637649b27a4f\t{\"Parent\":\"UC Browser 10.8 for Android\",\"Platform_Version\":\"6.0\"}",
         "9a07deb6241305b4e73e033084ed875c\t{\"Parent\":\"UC Browser 10.8 for Android\",\"Platform_Version\":\"4.4\",\"Device_Name\":\"H1+\",\"Device_Maker\":\"Hummer\",\"Device_Code_Name\":\"H1+\",\"Device_Brand_Name\":\"Hummer\",\"RenderingEngine_Name\":\"U2\"}",

@@ -2,8 +2,8 @@
     "content": [
         "98a227f083448931858178efedc38d8b\t{\"Parent\":\"Chromium 62.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Ubuntu\",\"Platform_Description\":\"Ubuntu Linux\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Canonical Foundation\"}",
         "98a5ddef479109c068889a110002afe5\t{\"Parent\":\"Chromium 50.0\",\"Device_Name\":\"Smart TV\",\"Device_Maker\":\"Samsung\",\"Device_Type\":\"TV Device\",\"Device_Pointing_Method\":\"unknown\",\"Device_Code_Name\":\"Smart TV\",\"Device_Brand_Name\":\"Samsung\"}",
-        "98a8a07934fd14a90d27b85e50ac2679\t{\"Parent\":\"Amigo 58.0\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\"}",
         "98a70aa1019c1c926f4bdce99349e185\t{\"Parent\":\"Coc Coc Browser 52.0 for Android\",\"Platform_Version\":\"4.1\",\"Device_Name\":\"Galaxy S III\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"GT-I9300\",\"Device_Brand_Name\":\"Samsung\"}",
+        "98a8a07934fd14a90d27b85e50ac2679\t{\"Parent\":\"Amigo 58.0\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\"}",
         "98a1e08cbccc135130d158bb15f3cb5f\t{\"Parent\":\"UC Browser 10.9 for Android\",\"Platform_Version\":\"4.1\",\"isTablet\":true,\"Device_Name\":\"Galaxy Tab 2 7.0\",\"Device_Maker\":\"Samsung\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"GT-P3110\",\"Device_Brand_Name\":\"Samsung\",\"RenderingEngine_Name\":\"U2\"}",
         "98a8914afca99c2ee0b0f7c22223baa9\t{\"Parent\":\"UC Browser 9.7 for iOS\",\"Platform_Version\":\"10.1\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
         "98ae328b6d01f4721a69028ef328d878\t{\"Parent\":\"UC Browser 7.8 for Android\",\"Platform_Version\":\"4.0\",\"Device_Name\":\"Galaxy S II\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"GT-I9100\",\"Device_Brand_Name\":\"Samsung\"}",

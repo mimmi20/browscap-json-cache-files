@@ -1,7 +1,7 @@
 {
     "content": [
-        "78b5b01066021a8a2ec1650b4c7afb7a\t{\"Parent\":\"Coc Coc Browser 24.0\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "78b1bb79a0b77d29c550538f5c0781fc\t{\"Parent\":\"Qword Browser 35.0\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
+        "78b5b01066021a8a2ec1650b4c7afb7a\t{\"Parent\":\"Coc Coc Browser 24.0\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "78b41cb08658209430c8f93558729835\t{\"Parent\":\"Baidu Browser 2.5\",\"RenderingEngine_Name\":\"Blink\",\"RenderingEngine_Description\":\"a WebKit Fork by Google\",\"RenderingEngine_Maker\":\"Google Inc\"}",
         "78b73ed84875dc8bee670c58cc6a42c4\t{\"Parent\":\"UC Browser 11.7 for Android\",\"Platform_Version\":\"6.0\",\"Device_Name\":\"Galaxy A5 Duos\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-A500H\",\"Device_Brand_Name\":\"Samsung\",\"RenderingEngine_Name\":\"Blink\",\"RenderingEngine_Description\":\"a WebKit Fork by Google\",\"RenderingEngine_Maker\":\"Google Inc\"}",
         "78bb04d4d911a4c0cffef48f44f6bd17\t{\"Parent\":\"UC Browser 9.7 for Android\",\"Platform_Version\":\"2.2\"}",
@@ -13,9 +13,9 @@
         "78ba60a1a1bc019dd5cbac603e853fea\t{\"Parent\":\"Android WebView 4.4\",\"Platform_Version\":\"4.0\"}",
         "78bcaf2079a49cd62c000b750734606a\t{\"Parent\":\"Android WebView 4.0\",\"Platform_Version\":\"4.3\",\"isTablet\":true,\"Device_Name\":\"Galaxy Tab 2 7.0\",\"Device_Maker\":\"Samsung\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"GT-P3113\",\"Device_Brand_Name\":\"Samsung\"}",
         "78b44cb8cc1e496818e1a5f3a84646c7\t{\"Parent\":\"Android WebView 4.0\",\"Platform_Version\":\"4.0\",\"Device_Name\":\"Galaxy Ace 2\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"GT-I8160\",\"Device_Brand_Name\":\"Samsung\"}",
+        "78b80a4d8e1c415ac008d633beab8609\t{\"Parent\":\"QQBrowser 6.9\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\"}",
         "78b0ba8cf9a03acbc6cbfede153d4950\t{\"Parent\":\"QQBrowser 7.2 for Android\",\"Browser_Bits\":\"32\",\"Platform\":\"Android\",\"Platform_Description\":\"Android OS\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Google Inc\"}",
         "78bd57dd95de4d47007862da8d0ad961\t{\"Parent\":\"QQBrowser 4.3 for Android\",\"Browser_Bits\":\"32\",\"Platform\":\"Android\",\"Platform_Version\":\"4.0\",\"Platform_Description\":\"Android OS\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Google Inc\",\"JavaApplets\":true,\"RenderingEngine_Name\":\"WebKit\",\"RenderingEngine_Description\":\"For Google Chrome, iOS (including both mobile Safari, WebViews within third-party apps, and web clips), Safari, Arora, Midori, OmniWeb, Shiira, iCab since version 4, Web, SRWare Iron, Rekonq, and in Maxthon 3.\",\"RenderingEngine_Maker\":\"Apple Inc\"}",
-        "78b80a4d8e1c415ac008d633beab8609\t{\"Parent\":\"QQBrowser 6.9\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\"}",
         "78ba7d8afa6febe18e0fc2f708bd47be\t{\"Parent\":\"Yandex Browser 16.7 for iOS\",\"Platform_Version\":\"8.2\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
         "78b8dd8eeb986467016d49742a05baa2\t{\"Parent\":\"YaApp 3.60 for iOS\",\"Platform_Version\":\"11.2\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
         "78b19d86d5d840da96fb0bef906ad531\t{\"Parent\":\"Yandex Search App for Android\",\"Platform_Version\":\"4.0\",\"isTablet\":true,\"Device_Name\":\"general Tablet\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"general Tablet\"}",
@@ -51,8 +51,8 @@
         "78b698565012864465b0415f28a9356f\t{\"Parent\":\"Sleipnir Generic\",\"Browser_Bits\":\"32\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
         "78b06c1b6b62dcef60ab417389284264\t{\"Parent\":\"Iceweasel 32.0\",\"Browser_Bits\":\"64\",\"Platform_Bits\":\"64\"}",
         "78bc2fdaf3dfb8da0c6ea814747289f4\t{\"Parent\":\"Firefox 31.0\",\"Browser_Bits\":\"32\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
-        "78beb698113c4ce6682126e0136abca4\t{\"Parent\":\"Firefox 28.0\",\"Browser_Bits\":\"32\",\"Platform\":\"OpenBSD\",\"Platform_Description\":\"OpenBSD\",\"Platform_Bits\":\"32\",\"Device_Name\":\"general Desktop\",\"Device_Code_Name\":\"general Desktop\"}",
         "78bd62fb25518de29fc8a0d5a8470a8e\t{\"Parent\":\"Firefox 12.0\",\"Browser_Bits\":\"32\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
-        "78b92154a816b4a4f05ddf703f723f98\t{\"Parent\":\"Firefox 7.0\",\"Browser_Bits\":\"32\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.1\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}"
+        "78b92154a816b4a4f05ddf703f723f98\t{\"Parent\":\"Firefox 7.0\",\"Browser_Bits\":\"32\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.1\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
+        "78beb698113c4ce6682126e0136abca4\t{\"Parent\":\"Firefox 28.0\",\"Browser_Bits\":\"32\",\"Platform\":\"OpenBSD\",\"Platform_Description\":\"OpenBSD\",\"Platform_Bits\":\"32\",\"Device_Name\":\"general Desktop\",\"Device_Code_Name\":\"general Desktop\"}"
     ]
 }

@@ -1,8 +1,8 @@
 {
     "content": [
         "e4ebf4ee8228a4805a730ca37214af79\t{\"Parent\":\"Bing Search App 6.2 for Android\",\"Platform_Version\":\"6.0\",\"Device_Name\":\"On5 LTE (T-Mobile)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-G550T\",\"Device_Brand_Name\":\"Samsung\"}",
-        "e4e7c79ef2152e2b5b1df73bc99d254d\t{\"Parent\":\"Naver 8.1 for Android\",\"Platform_Version\":\"5.1\"}",
         "e4e0f68735524216b1c84eaafabb3cb9\t{\"Parent\":\"Naver 5.4 for iOS\",\"Platform_Version\":\"8.3\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
+        "e4e7c79ef2152e2b5b1df73bc99d254d\t{\"Parent\":\"Naver 8.1 for Android\",\"Platform_Version\":\"5.1\"}",
         "e4e1a55c275b9917cb8bd1b46d66fa62\t{\"Parent\":\"UC Browser 11.7 for Android\",\"Platform_Version\":\"7.1\"}",
         "e4e602173f94ec6fe8a14f9dc1dd8cc5\t{\"Parent\":\"UC Browser 10.2 for Android\",\"Platform_Version\":\"2.3\"}",
         "e4e7eaf20e8edf2436461c6d398d61bb\t{\"Parent\":\"UC Browser 10.2 for iOS\",\"Browser_Modus\":\"Chrome\",\"Platform_Version\":\"8.1\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",

@@ -1,8 +1,8 @@
 {
     "content": [
         "25f109b5ccb35722fe2dcb35ca10d77b\t{\"Parent\":\"SuperBird General\",\"Browser_Bits\":\"32\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
-        "25f495392d45cbb1f21e68825a408e8b\t{\"Parent\":\"Naver 7.0 for Android\",\"isTablet\":true,\"Device_Name\":\"general Tablet\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"general Tablet\"}",
         "25f60e512e00ca781296937ba5711482\t{\"Parent\":\"Naver 6.6 for iOS\",\"Platform_Version\":\"8.2\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
+        "25f495392d45cbb1f21e68825a408e8b\t{\"Parent\":\"Naver 7.0 for Android\",\"isTablet\":true,\"Device_Name\":\"general Tablet\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"general Tablet\"}",
         "25f474f401273aa9086b1ba5e386a628\t{\"Parent\":\"UC Browser 11.7 for Android\",\"Platform_Version\":\"5.1\",\"Device_Name\":\"Galaxy J1 (2016)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-J120G\",\"Device_Brand_Name\":\"Samsung\"}",
         "25f3ffc3366b3e0e896c15efd0e1f407\t{\"Parent\":\"UC Browser 11.0 for iOS\",\"JavaApplets\":false,\"RenderingEngine_Name\":\"U2\",\"RenderingEngine_Description\":\"a WebKit Fork by UC Web\",\"RenderingEngine_Maker\":\"UCWeb Inc.\"}",
         "25f04c499923de3df84acafd13fca173\t{\"Parent\":\"UC Browser 10.7 for iOS\",\"Browser_Modus\":\"Chrome\",\"Platform_Version\":\"7.1\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
@@ -48,8 +48,8 @@
         "25f50eed6932960ad6ac0ab95a0c05a3\t{\"Parent\":\"Pinterest App 4.2 for Android\",\"isTablet\":true,\"Device_Name\":\"general Tablet\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"general Tablet\"}",
         "25fece7c85bd75cd9b874cb9ff5e5b20\t{\"Parent\":\"Pinterest App 4.0 for Darwin\",\"Platform_Version\":\"4.1\"}",
         "25f10e1ca25a020859482ac6983a6616\t{\"Parent\":\"1Password 4.5\",\"Platform_Version\":\"8.2\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
-        "25fc92cb1e57da3a57649f66ef555605\t{\"Parent\":\"Atomic Browser 5.0\",\"Platform_Version\":\"5.1\"}",
         "25fef0d1c477063fe938b8be42b5a568\t{\"Parent\":\"Links 2.0\",\"Browser_Bits\":\"32\",\"Platform\":\"Linux\",\"Platform_Description\":\"Linux\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Linux Foundation\",\"Device_Name\":\"Linux Desktop\",\"Device_Code_Name\":\"Linux Desktop\"}",
+        "25fc92cb1e57da3a57649f66ef555605\t{\"Parent\":\"Atomic Browser 5.0\",\"Platform_Version\":\"5.1\"}",
         "25f8568aa6395f9d2f37ac2cede64d04\t{\"Parent\":\"PaleMoon 27.1\",\"Browser_Bits\":\"64\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "25fa9e99b63b834b5d5c1f1353e643fd\t{\"Parent\":\"IE 1.0\",\"Browser_Bits\":\"32\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "25fc389b84b6c9cad3577a766a681f9b\t{\"Parent\":\"Sleipnir 2.45\",\"Browser_Bits\":\"64\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",

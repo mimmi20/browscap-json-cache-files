@@ -51,11 +51,11 @@
         "af7367205c58fde5da549ba5f6d04f3b\t{\"Parent\":\"SeaMonkey 2.46\",\"Browser_Bits\":\"32\",\"Platform\":\"DragonFly BSD\",\"Platform_Description\":\"DragonFlyBSD\",\"Platform_Bits\":\"32\",\"Device_Name\":\"general Desktop\",\"Device_Code_Name\":\"general Desktop\"}",
         "af7544c92005ea6361b611765ef82b80\t{\"Parent\":\"Waterfox 31.0\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.10\",\"Platform_Description\":\"Mac OS X\",\"Platform_Maker\":\"Apple Inc\",\"Win32\":false,\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
         "af7d46571b7814bb2fa7653a87aebb65\t{\"Parent\":\"Firefox 57.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
-        "af77d40f1cd18db54903db761e3a0230\t{\"Parent\":\"Firefox 14.0 for Android\",\"Platform_Version\":\"4.3\",\"isTablet\":false,\"Device_Name\":\"general Mobile Phone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"general Mobile Phone\"}",
         "af7ce6adccbd22971fe09549758f7bda\t{\"Parent\":\"Firefox 50.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
+        "af77d40f1cd18db54903db761e3a0230\t{\"Parent\":\"Firefox 14.0 for Android\",\"Platform_Version\":\"4.3\",\"isTablet\":false,\"Device_Name\":\"general Mobile Phone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"general Mobile Phone\"}",
         "af7206fb96dd6e54c1e7410e021cbe45\t{\"Parent\":\"Firefox 42.0\",\"Browser_Bits\":\"32\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.1\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
-        "af7760061e785345cea49078c4676006\t{\"Parent\":\"Firefox Focus 1.3 for Android\",\"Platform_Version\":\"8.1\"}",
         "af79bc9f518214bfd1217e0120323213\t{\"Parent\":\"Firefox 3.1\",\"Browser_Bits\":\"32\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.1\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
+        "af7760061e785345cea49078c4676006\t{\"Parent\":\"Firefox Focus 1.3 for Android\",\"Platform_Version\":\"8.1\"}",
         "af7d7135e640e895cf818a4926bf00d5\t{\"Parent\":\"Vonkeror Generic\",\"Device_Name\":\"general Desktop\",\"Device_Code_Name\":\"general Desktop\"}"
     ]
 }

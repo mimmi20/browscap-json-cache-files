@@ -2,8 +2,8 @@
     "content": [
         "25e41a27d6f99f6e422c02e841395ade\t{\"Parent\":\"Download Managers\",\"Browser\":\"PageDown\"}",
         "25ec8179602f39657a85d25b273feec4\t{\"Parent\":\"Kinza 2.2\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\"}",
-        "25eb8dcb78ed0ca769b36071c7601ce4\t{\"Parent\":\"Coc Coc Browser 51.0\",\"Platform\":\"macOS\",\"Platform_Version\":\"10.13\",\"Platform_Description\":\"macOS\",\"Platform_Maker\":\"Apple Inc\",\"Win32\":false,\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
         "25e7361c2ed91b1de99497b22cc97c04\t{\"Parent\":\"Coc Coc Browser 53.0 for Android\",\"Platform_Version\":\"5.0\",\"Device_Name\":\"Galaxy A3 Duos\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-A300H\",\"Device_Brand_Name\":\"Samsung\"}",
+        "25eb8dcb78ed0ca769b36071c7601ce4\t{\"Parent\":\"Coc Coc Browser 51.0\",\"Platform\":\"macOS\",\"Platform_Version\":\"10.13\",\"Platform_Description\":\"macOS\",\"Platform_Maker\":\"Apple Inc\",\"Win32\":false,\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
         "25ef0909fe0cb6d4b60e3fbb527c5a34\t{\"Parent\":\"Naver 5.9 for iOS\",\"Platform_Version\":\"8.4\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
         "25e497cfed379ce71b43652ea1a8e22e\t{\"Parent\":\"Swing Browser 4.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "25e5cb7e672d8d6794907aad417c5a18\t{\"Parent\":\"UC Browser 9.3 for Android\",\"Platform_Version\":\"4.3\",\"Device_Name\":\"A328\",\"Device_Maker\":\"Lenovo\",\"Device_Code_Name\":\"A328\",\"Device_Brand_Name\":\"Lenovo\",\"RenderingEngine_Name\":\"U3\"}",

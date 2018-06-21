@@ -57,8 +57,8 @@
         "0a0b66ee5f8597f2678cac2ed0fa4b0f\t{\"Parent\":\"IceDragon 26.0\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\"}",
         "0a0b6283dd359f47de681dec39fe056b\t{\"Parent\":\"Iceweasel 3.6\",\"Browser_Bits\":\"64\",\"Platform_Bits\":\"64\"}",
         "0a05454aa5c67db3a3d1543a8c850810\t{\"Parent\":\"Firefox 45.0\",\"Browser_Bits\":\"32\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.8\",\"Platform_Description\":\"Mac OS X\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
-        "0a07f0a2594345e4268a12cb59bfa5e3\t{\"Parent\":\"Firefox 28.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Linux\",\"Platform_Description\":\"Linux\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Linux Foundation\",\"Device_Name\":\"Linux Desktop\",\"Device_Code_Name\":\"Linux Desktop\"}",
         "0a09497ec8a8b29cc6815b64f041d7d8\t{\"Parent\":\"Firefox 11.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Linux\",\"Platform_Description\":\"Linux\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Linux Foundation\",\"Device_Name\":\"Linux Desktop\",\"Device_Code_Name\":\"Linux Desktop\"}",
+        "0a07f0a2594345e4268a12cb59bfa5e3\t{\"Parent\":\"Firefox 28.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Linux\",\"Platform_Description\":\"Linux\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Linux Foundation\",\"Device_Name\":\"Linux Desktop\",\"Device_Code_Name\":\"Linux Desktop\"}",
         "0a012b34e057a63f720871a7e5145799\t{\"Parent\":\"Motorola Internet Browser 1.0\",\"Device_Name\":\"V878\",\"Device_Maker\":\"Motorola\",\"Device_Code_Name\":\"V878\",\"Device_Brand_Name\":\"Motorola\"}"
     ]
 }

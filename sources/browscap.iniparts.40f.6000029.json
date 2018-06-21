@@ -1,8 +1,8 @@
 {
     "content": [
         "40fed4a711630964d5f4d916cfb012c9\t{\"Parent\":\"Bing Search App 6.1 for Android\",\"Platform_Version\":\"5.1\",\"Device_Name\":\"Galaxy S5 LTE\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-G900F\",\"Device_Brand_Name\":\"Samsung\"}",
-        "40fc004e8021016e1219e08d07358383\t{\"Parent\":\"Amigo 55.0\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\"}",
         "40ff79819f2637249fca807a727ec1b3\t{\"Parent\":\"ChromePlus 4.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
+        "40fc004e8021016e1219e08d07358383\t{\"Parent\":\"Amigo 55.0\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\"}",
         "40f82b07ce683f3aabc877b4875fdace\t{\"Parent\":\"Baidu Browser 5.6\",\"Platform_Version\":\"7.0\",\"RenderingEngine_Name\":\"Blink\",\"RenderingEngine_Description\":\"a WebKit Fork by Google\",\"RenderingEngine_Maker\":\"Google Inc\"}",
         "40f35b82875315858fc367eb7f33cec5\t{\"Parent\":\"Baidu Browser 3.2\",\"Platform_Version\":\"4.2\",\"isMobileDevice\":false,\"Device_Name\":\"M8\",\"Device_Maker\":\"Amlogic\",\"Device_Type\":\"TV Device\",\"Device_Pointing_Method\":\"unknown\",\"Device_Code_Name\":\"M8\",\"Device_Brand_Name\":\"Amlogic\"}",
         "40f01f523c0bcf2841406d8c74727cf4\t{\"Parent\":\"Baidu Browser HD 4.1 for iOS\",\"Platform_Version\":\"9.2\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
@@ -49,8 +49,8 @@
         "40f4386a4916c20c6311323b4f69b3d6\t{\"Parent\":\"Opera Mini 4.2\",\"Browser_Bits\":\"32\",\"Platform\":\"JAVA\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Oracle\",\"Device_Name\":\"GT-E3309T\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"GT-E3309T\",\"Device_Brand_Name\":\"Samsung\"}",
         "40f0792e2b3b5e607e2ce499ad8a618d\t{\"Parent\":\"Coast\",\"Platform_Version\":\"11.1\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
         "40f045da8602f81ad9d11e7131697b9e\t{\"Parent\":\"Mercury 8.7\",\"Platform_Version\":\"8.0\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
-        "40f1e89419e725e46c4b533e6ab9ff6c\t{\"Parent\":\"Instagram App 30.0 for Android\",\"Platform_Version\":\"5.0\",\"Device_Name\":\"Galaxy Grand Prime LTE\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-G530FZ\",\"Device_Brand_Name\":\"Samsung\"}",
         "40fd3e32495811b789c1a82b347ef5f6\t{\"Parent\":\"Instagram App 28.0 for iOS\",\"Platform_Version\":\"10.1\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
+        "40f1e89419e725e46c4b533e6ab9ff6c\t{\"Parent\":\"Instagram App 30.0 for Android\",\"Platform_Version\":\"5.0\",\"Device_Name\":\"Galaxy Grand Prime LTE\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-G530FZ\",\"Device_Brand_Name\":\"Samsung\"}",
         "40f5460973609555b6111e1cd327cf7b\t{\"Parent\":\"Pinterest App 1.0 for Darwin\",\"Platform_Version\":\"6.0\"}",
         "40feb935624ee9928dc3367664ae5c37\t{\"Parent\":\"1Password 4.1\",\"Platform_Version\":\"8.3\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
         "40f9ee3163030a0fa81f2f287445c4ce\t{\"Parent\":\"AndroidDownloadManager 4.4\",\"isTablet\":true,\"Device_Name\":\"Transformer Prime\",\"Device_Maker\":\"Asus\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"Eee Pad TF201\",\"Device_Brand_Name\":\"Asus\"}",

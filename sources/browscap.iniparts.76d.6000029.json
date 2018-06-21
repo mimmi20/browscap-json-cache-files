@@ -1,11 +1,11 @@
 {
     "content": [
         "76d5824a7a6779d5e8cb4ed01d9c8da9\t{\"Parent\":\"SophosUpdateManager\"}",
-        "76dc0589a70c93e79d9163e9b078f85e\t{\"Parent\":\"Avast SafeZone 1.46\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "76d87c61fadd50c83e6d45e6b1022e71\t{\"Parent\":\"Coc Coc Browser 51.0 for Android\"}",
+        "76dc0589a70c93e79d9163e9b078f85e\t{\"Parent\":\"Avast SafeZone 1.46\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "76d0716030d5eaaeaf9150f4ae8d4466\t{\"Parent\":\"Naver 4.1 for iOS\",\"Platform_Version\":\"10.1\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
-        "76d4d9b16ded80b5c0709942fa7e64ef\t{\"Parent\":\"Swing Browser 3.4\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "76d8af11bd6c053d5186178e7b73c849\t{\"Parent\":\"UC Browser 11.1 for Android\",\"Platform_Version\":\"5.0\",\"Device_Name\":\"Galaxy A5 (Peru, Colombia)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-A500M\",\"Device_Brand_Name\":\"Samsung\"}",
+        "76d4d9b16ded80b5c0709942fa7e64ef\t{\"Parent\":\"Swing Browser 3.4\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "76de3564c6074219632f4cf3153b0017\t{\"Parent\":\"UC Browser 10.8 for Android\",\"Platform_Version\":\"6.0\",\"Device_Name\":\"Galaxy A5 Duos\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-A500H\",\"Device_Brand_Name\":\"Samsung\"}",
         "76d0def9381166da8a0d024575477cfe\t{\"Parent\":\"UC Browser 10.1 for Android\"}",
         "76d15ab631ab48a3a924a18de5601edd\t{\"Parent\":\"UC Browser 9.6 for Android\",\"Platform_Version\":\"2.3\",\"Device_Name\":\"A34\",\"Device_Maker\":\"Micromax\",\"Device_Code_Name\":\"A34\",\"Device_Brand_Name\":\"Micromax\",\"RenderingEngine_Name\":\"U3\"}",

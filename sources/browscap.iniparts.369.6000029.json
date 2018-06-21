@@ -1,8 +1,8 @@
 {
     "content": [
         "3695e10b1c9c564a918e04cf0e82fc2f\t{\"Parent\":\"Iridium Browser 41.0\",\"Browser_Bits\":\"32\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.10\",\"Platform_Description\":\"Mac OS X\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
-        "369f50966f1dde7f520256b3ddd526e3\t{\"Parent\":\"Brave 0.8\",\"Browser_Bits\":\"64\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "369f8ae9c5bffa837a74bc5fcc4dc25e\t{\"Parent\":\"Coc Coc Browser 32.0\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
+        "369f50966f1dde7f520256b3ddd526e3\t{\"Parent\":\"Brave 0.8\",\"Browser_Bits\":\"64\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "369cf0f64b590bd26f104fedc872ee1e\t{\"Parent\":\"Baidu Browser 1.8 for iOS\",\"Platform_Version\":\"10.2\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
         "369d44a3f3d247f56e0aab58e61f26f9\t{\"Parent\":\"Naver 7.2 for iOS\",\"Platform_Version\":\"9.0\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
         "3699ac9f33a7afe53265e5aa76338dd0\t{\"Parent\":\"UC Browser 10.5 for Android\",\"Platform_Version\":\"2.3\",\"Device_Name\":\"Bolt A62\",\"Device_Maker\":\"Micromax\",\"Device_Code_Name\":\"A62\",\"Device_Brand_Name\":\"Micromax\"}",

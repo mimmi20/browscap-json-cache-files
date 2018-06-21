@@ -1,9 +1,9 @@
 {
     "content": [
         "7e66e133c5c06943e0a1d4382e1448fa\t{\"Parent\":\"Quite RSS\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
-        "7e6eb27d2a4c7e0ddbc05595375b3e4a\t{\"Parent\":\"Naver 7.4 for Android\",\"Platform_Version\":\"5.1\"}",
         "7e60b8b05011703c9f2480a9962d0125\t{\"Parent\":\"Naver 6.0 for iOS\",\"Platform_Version\":\"10.0\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
         "7e6bf170bcff8df4f6d69855e247c34e\t{\"Parent\":\"Naver 5.4 for iOS\",\"Platform_Version\":\"7.0\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
+        "7e6eb27d2a4c7e0ddbc05595375b3e4a\t{\"Parent\":\"Naver 7.4 for Android\",\"Platform_Version\":\"5.1\"}",
         "7e68a851781f2f94717e3c7b1be22a07\t{\"Parent\":\"UC Browser 10.7 for Android\",\"Platform_Version\":\"4.2\",\"isTablet\":true,\"Device_Name\":\"TAB-97E-01\",\"Device_Maker\":\"Reellex\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"TAB-97E-01\",\"Device_Brand_Name\":\"Reellex\"}",
         "7e6c823aeb171e269ae9b857396eb968\t{\"Parent\":\"UC Browser 10.0 for Android\",\"Platform_Version\":\"6.0\",\"Device_Name\":\"Galaxy S5 Mini (AT\\u0026T)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-G800A\",\"Device_Brand_Name\":\"Samsung\"}",
         "7e6256c5a920659b3dd30e28900f58b1\t{\"Parent\":\"UC Browser 10.4 for iOS\",\"Browser_Modus\":\"Chrome\",\"Platform_Version\":\"10.0\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",

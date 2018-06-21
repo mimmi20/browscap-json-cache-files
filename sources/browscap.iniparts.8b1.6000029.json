@@ -1,8 +1,8 @@
 {
     "content": [
         "8b1f3bcafd15dce3907618f53cf12db8\t{\"Parent\":\"Baidu Browser HD 4.4 for iOS\",\"Platform_Version\":\"10.0\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
-        "8b17c7f6dd371882eb85cd3f80c2d9bb\t{\"Parent\":\"UC Browser Mini 8.8\"}",
         "8b13287082ee821adf5659fa0d69ebe0\t{\"Parent\":\"UC Browser 10.9 for Android\",\"Platform_Version\":\"4.2\",\"isTablet\":true,\"Device_Name\":\"X-pad STYLE 7.1 3G\",\"Device_Maker\":\"TeXet\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"TM-7058\",\"Device_Brand_Name\":\"TeXet\"}",
+        "8b17c7f6dd371882eb85cd3f80c2d9bb\t{\"Parent\":\"UC Browser Mini 8.8\"}",
         "8b18999d63ed0909b4f5c0c8f2e4dd2b\t{\"Parent\":\"UC Browser 10.5 for iOS\",\"Browser_Modus\":\"Chrome\",\"Platform_Version\":\"10.1\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
         "8b16b19076b779c69d3886a442c7e8e5\t{\"Parent\":\"UC Browser 9.4 for Android\",\"Platform_Version\":\"2.3\",\"Device_Name\":\"A238t\",\"Device_Maker\":\"Lenovo\",\"Device_Code_Name\":\"A238t\",\"Device_Brand_Name\":\"Lenovo\",\"RenderingEngine_Name\":\"U3\"}",
         "8b1e92bee370c8a0e03492a9a2122c8c\t{\"Parent\":\"UC Browser 8.9 for Symbian\",\"Device_Name\":\"C5-03\",\"Device_Maker\":\"Nokia\",\"Device_Pointing_Method\":\"unknown\",\"Device_Code_Name\":\"C5-03\",\"Device_Brand_Name\":\"Nokia\"}",

@@ -1,8 +1,8 @@
 {
     "content": [
         "e21427937c134e784aef497d94877e88\t{\"Parent\":\"General Crawlers\",\"Browser\":\"Patwebbot\"}",
-        "e21ea251a0267f4417436d209fe3ab9f\t{\"Parent\":\"Coc Coc Browser 58.0\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "e2158f70563a15664a4c548d820ddb33\t{\"Parent\":\"Coc Coc Browser 59.0 for Android\",\"Platform_Version\":\"4.1\",\"Device_Name\":\"Galaxy S III\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"GT-I9300\",\"Device_Brand_Name\":\"Samsung\"}",
+        "e21ea251a0267f4417436d209fe3ab9f\t{\"Parent\":\"Coc Coc Browser 58.0\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "e21db0147e125f59b414fa08bc73b044\t{\"Parent\":\"Coc Coc Browser 34.0\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "e214954af6aaf76779729ba60ff666e0\t{\"Parent\":\"Naver 6.0 for iOS\",\"Platform_Version\":\"6.1\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
         "e21a0aea6d7df9e14f6cbccddbafd89b\t{\"Parent\":\"Google App for iOS\",\"Browser_Bits\":\"32\",\"Platform\":\"iOS\",\"Platform_Version\":\"11.1\",\"Platform_Description\":\"iPod, iPhone \\u0026 iPad\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",

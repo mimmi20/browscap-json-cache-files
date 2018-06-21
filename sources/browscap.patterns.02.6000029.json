@@ -11,7 +11,7 @@
         "026af9dcdc2badc9451dbdd21204c776\t36\tmicromax x[\\d]i ultra\\/.* semc\\-browser\\/[\\d]\\.[\\d].*",
         "026af9dcdc2badc9451dbdd21204c776\t32\tmicromax x[\\d][\\d][\\d]i\\/.* semc\\-browser\\/[\\d]\\.[\\d].*",
         "026af9dcdc2badc9451dbdd21204c776\t31\tmicromax x[\\d][\\d][\\d]\\/.* semc\\-browser\\/[\\d]\\.[\\d].*",
-        "026af9dcdc2badc9451dbdd21204c776\t27\tmicromax x[\\d][\\d][\\d]i\\/.*maui\\-browser.*\tmicromax x[\\d][\\d][\\d]c\\/.*maui\\-browser.*",
+        "026af9dcdc2badc9451dbdd21204c776\t27\tmicromax x[\\d][\\d][\\d]c\\/.*maui\\-browser.*\tmicromax x[\\d][\\d][\\d]i\\/.*maui\\-browser.*",
         "026af9dcdc2badc9451dbdd21204c776\t26\tmicromax x[\\d][\\d][\\d]\\/.*maui\\-browser.*",
         "028800c6f687a4f7405c5f2e8d19b29c\t26\tlge\\-vx[\\d][\\d][\\d][\\d]\\/.* up\\.browser\\/[\\d]\\.[\\d].*",
         "028f51f634ddc1e6574f577187a7f896\t44\tthe%[\\d][\\d]dan%[\\d][\\d]patrick%[\\d][\\d]show\\/.* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d][\\d].*",

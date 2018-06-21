@@ -1,8 +1,8 @@
 {
     "content": [
         "ad7352778590c2c03fc316129760a5fb\t{\"Parent\":\"Naver\",\"Version\":\"1.1\",\"MajorVer\":\"1\",\"MinorVer\":\"1\"}",
-        "ad74c017fbe3f84d7dec3a0d7c31b368\t{\"Parent\":\"Coc Coc Browser 62.0\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.11\",\"Platform_Description\":\"Mac OS X\",\"Platform_Maker\":\"Apple Inc\",\"Win32\":false,\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
         "ad7ac0fbcb85d855020a4c0f7356c213\t{\"Parent\":\"Coc Coc Browser 60.0 for Android\",\"Platform_Version\":\"4.2\",\"Device_Name\":\"Galaxy S III\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"GT-I9300\",\"Device_Brand_Name\":\"Samsung\"}",
+        "ad74c017fbe3f84d7dec3a0d7c31b368\t{\"Parent\":\"Coc Coc Browser 62.0\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.11\",\"Platform_Description\":\"Mac OS X\",\"Platform_Maker\":\"Apple Inc\",\"Win32\":false,\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
         "ad723af3291aded03b1423023d72793a\t{\"Parent\":\"Baidu Browser 2.5\",\"Platform_Version\":\"4.1\",\"Device_Name\":\"X-tremer\",\"Device_Maker\":\"Explay\",\"Device_Code_Name\":\"X-tremer\",\"Device_Brand_Name\":\"Explay\"}",
         "ad7e8147c13e1069d7f32f9787f14bf3\t{\"Parent\":\"Baidu Browser HD 2.6 for iOS\",\"Platform_Version\":\"9.0\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
         "ad761e444ccfe8c74dfbd1247f6954ed\t{\"Parent\":\"Naver 7.1 for iOS\",\"Platform_Version\":\"11.1\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",

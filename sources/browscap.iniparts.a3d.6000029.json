@@ -9,13 +9,13 @@
         "a3dd7761b9cb382104412f732f8a3fef\t{\"Parent\":\"UC Browser 2.2 for Android\",\"JavaApplets\":false,\"RenderingEngine_Name\":\"U2\",\"RenderingEngine_Description\":\"a WebKit Fork by UC Web\",\"RenderingEngine_Maker\":\"UCWeb Inc.\"}",
         "a3db512425326b3c1bc008ef847b10a9\t{\"Parent\":\"Maxthon 3.4\",\"Platform\":\"Win2000\",\"Platform_Version\":\"5.0\",\"Platform_Description\":\"Windows 2000\"}",
         "a3dc72c14670acb72ebd81b41e872edb\t{\"Parent\":\"AliApp for iOS\",\"Platform_Version\":\"11.1\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
-        "a3deb78de2d132cb473fbe7eebe6f914\t{\"Parent\":\"2345 Browser 6.7\",\"Platform_Version\":\"5.0\"}",
+        "a3de11c71364384d14ccd737a390d09f\t{\"Parent\":\"Samsung Browser 1.6\",\"Platform_Version\":\"4.1\",\"Device_Name\":\"Galaxy S3 (Straight Talk)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SCH-S968C\",\"Device_Brand_Name\":\"Samsung\"}",
         "a3d7c1440411b6c1565a62210f3031a1\t{\"Parent\":\"Android WebView 2.0\",\"Platform_Version\":\"4.4\",\"isTablet\":true,\"Device_Name\":\"LifeTab S1033X\",\"Device_Maker\":\"Lenovo\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"LifeTab S1033X\",\"Device_Brand_Name\":\"Lenovo\"}",
         "a3d4841099e11023f7b189fa008cc90e\t{\"Parent\":\"Android WebView 1.6\",\"Platform_Version\":\"4.0\",\"Device_Name\":\"Eluga\",\"Device_Maker\":\"Panasonic\",\"Device_Code_Name\":\"dL1\",\"Device_Brand_Name\":\"Panasonic\"}",
-        "a3de11c71364384d14ccd737a390d09f\t{\"Parent\":\"Samsung Browser 1.6\",\"Platform_Version\":\"4.1\",\"Device_Name\":\"Galaxy S3 (Straight Talk)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SCH-S968C\",\"Device_Brand_Name\":\"Samsung\"}",
+        "a3deb78de2d132cb473fbe7eebe6f914\t{\"Parent\":\"2345 Browser 6.7\",\"Platform_Version\":\"5.0\"}",
+        "a3d25230680050011dd081f7b77bc496\t{\"Parent\":\"QQBrowser 6.5\",\"Platform\":\"Win2000\",\"Platform_Version\":\"5.0\",\"Platform_Description\":\"Windows 2000\"}",
         "a3dc203e29a647b8cb23042795b67550\t{\"Parent\":\"QQBrowser 7.7 for Android\",\"Browser_Bits\":\"32\",\"Platform\":\"Android\",\"Platform_Version\":\"4.0\",\"Platform_Description\":\"Android OS\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Google Inc\",\"JavaApplets\":true,\"Device_Name\":\"Galaxy Note II\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"GT-N7100\",\"Device_Brand_Name\":\"Samsung\",\"RenderingEngine_Name\":\"WebKit\",\"RenderingEngine_Description\":\"For Google Chrome, iOS (including both mobile Safari, WebViews within third-party apps, and web clips), Safari, Arora, Midori, OmniWeb, Shiira, iCab since version 4, Web, SRWare Iron, Rekonq, and in Maxthon 3.\",\"RenderingEngine_Maker\":\"Apple Inc\"}",
         "a3dfd5cb4aad33a6d616cdd04a906e66\t{\"Parent\":\"QQBrowser 4.1 for Android\",\"Browser_Bits\":\"32\",\"Platform\":\"Android\",\"Platform_Version\":\"5.0\",\"Platform_Description\":\"Android OS\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Google Inc\"}",
-        "a3d25230680050011dd081f7b77bc496\t{\"Parent\":\"QQBrowser 6.5\",\"Platform\":\"Win2000\",\"Platform_Version\":\"5.0\",\"Platform_Description\":\"Windows 2000\"}",
         "a3dac3a832afebdbe566dbf51932191b\t{\"Parent\":\"Yandex Browser 17.11 for iOS\",\"Platform_Version\":\"9.3\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
         "a3d6890f69869dbfc3be58ca6df97702\t{\"Parent\":\"Yandex Browser 17.10 for Android\",\"Platform_Version\":\"4.2\",\"isTablet\":true,\"Device_Name\":\"iDjD7\",\"Device_Maker\":\"Digma\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iDjD7\",\"Device_Brand_Name\":\"Digma\"}",
         "a3daed4757960d240e404f19053a2d2e\t{\"Parent\":\"Yandex Browser 17.1 for Android\",\"Platform_Version\":\"4.2\",\"isTablet\":true,\"Device_Name\":\"NaviPad 3G\",\"Device_Maker\":\"TeXet\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"TM-7055HD\",\"Device_Brand_Name\":\"TeXet\"}",
@@ -52,8 +52,8 @@
         "a3d0e71c3662cb4783b9c8706ab48445\t{\"Parent\":\"Daum 5.2 for iOS\",\"Platform_Version\":\"11.0\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
         "a3d756d1551cfc92ba7f99be9b2743b7\t{\"Parent\":\"Instagram App 16.0 for iOS\",\"Platform_Version\":\"11.3\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
         "a3d6b25ee7b02558ac3f0bd33538120e\t{\"Parent\":\"Lunascape 6.6\",\"Platform\":\"Win2000\",\"Platform_Version\":\"5.01\",\"Platform_Description\":\"Windows 2000\",\"RenderingEngine_Version\":\"5.0\"}",
-        "a3dc9a3ee39ab6ed041b6b4a711d3e82\t{\"Parent\":\"Firefox 30.0 for Android\",\"Platform_Version\":\"4.2\"}",
         "a3d2d64ae573a8a58ffc89c39ef1da86\t{\"Parent\":\"Firefox 50.0 for Android\",\"Platform_Version\":\"5.0\"}",
+        "a3dc9a3ee39ab6ed041b6b4a711d3e82\t{\"Parent\":\"Firefox 30.0 for Android\",\"Platform_Version\":\"4.2\"}",
         "a3dbba25121ce7b2bf6d3369601577e4\t{\"Parent\":\"Firefox 21.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Linux\",\"Platform_Description\":\"Linux\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Linux Foundation\",\"Device_Name\":\"Linux Desktop\",\"Device_Code_Name\":\"Linux Desktop\"}"
     ]
 }

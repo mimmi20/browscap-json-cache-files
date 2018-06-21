@@ -1,7 +1,7 @@
 {
     "content": [
-        "f9d3ca32f8b4e8efe6dde099ba4a7402\t{\"Parent\":\"DefaultProperties\",\"Comment\":\"Daumoa\",\"Browser\":\"Daumoa\",\"Browser_Type\":\"Bot\\/Crawler\",\"Browser_Bits\":\"0\",\"Browser_Maker\":\"Daum Communications Corp\",\"Platform_Bits\":\"0\",\"Crawler\":true,\"CssVersion\":\"0\",\"AolVersion\":\"0\"}",
         "f9d53daa70ca9384bfb5d8ce7135803a\t{\"Parent\":\"General Crawlers\",\"Browser\":\"Europe Web Archive\"}",
+        "f9d3ca32f8b4e8efe6dde099ba4a7402\t{\"Parent\":\"DefaultProperties\",\"Comment\":\"Daumoa\",\"Browser\":\"Daumoa\",\"Browser_Type\":\"Bot\\/Crawler\",\"Browser_Bits\":\"0\",\"Browser_Maker\":\"Daum Communications Corp\",\"Platform_Bits\":\"0\",\"Crawler\":true,\"CssVersion\":\"0\",\"AolVersion\":\"0\"}",
         "f9d157b60785a3b6b7ee9ce37921cf07\t{\"Parent\":\"Bing Search App 6.5 for iOS\"}",
         "f9d428d6c42f56da241da257d7972a52\t{\"Parent\":\"Amigo 33.0\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "f9d36249a07532c4b7e4f1b29ae921f4\t{\"Parent\":\"UC Browser 11.2 for Android\",\"Platform_Version\":\"5.1\",\"Device_Name\":\"Galaxy J3 4G\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-J320G\",\"Device_Brand_Name\":\"Samsung\"}",
@@ -28,8 +28,8 @@
         "f9d43084a5fc389b5c3239ad613562ba\t{\"Parent\":\"Puffin 7.0 for iOS\",\"Platform_Version\":\"9.3\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
         "f9d462ce049df554a83f51b5e4774264\t{\"Parent\":\"Puffin 5.0 for Android\",\"Platform_Version\":\"4.4\",\"Device_Name\":\"Galaxy Note 3 LTE\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-N9005\",\"Device_Brand_Name\":\"Samsung\"}",
         "f9d6c51639bb06f7436097b4a60e031a\t{\"Parent\":\"Iron 25.0\",\"Browser_Bits\":\"32\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.1\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
-        "f9d8411a2622f54ef9f8dfae2c9ed976\t{\"Parent\":\"Iron Generic\",\"Browser_Bits\":\"32\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.6\",\"Platform_Description\":\"Mac OS X\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
         "f9d05ab52bf1dd760b4635de019d2e4f\t{\"Parent\":\"Silk 59.3\",\"Platform_Version\":\"5.1\",\"isTablet\":true,\"Device_Name\":\"Fire HD 10 (2015)\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"KFTBWI\"}",
+        "f9d8411a2622f54ef9f8dfae2c9ed976\t{\"Parent\":\"Iron Generic\",\"Browser_Bits\":\"32\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.6\",\"Platform_Description\":\"Mac OS X\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
         "f9db8ce59938e033ee5351ab57e3aab8\t{\"Parent\":\"Silk 3.67\",\"Platform_Version\":\"4.4\",\"isTablet\":true,\"Device_Name\":\"Kindle Fire HDX 7 (3rd Gen)\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"KFTHWA\"}",
         "f9dddd39ee04952bde0df3c49b897de4\t{\"Parent\":\"Chrome 63.0 for Android\",\"Platform_Version\":\"7.0\",\"Device_Name\":\"V20 (Verizon)\",\"Device_Maker\":\"LG\",\"Device_Code_Name\":\"VS995\",\"Device_Brand_Name\":\"LG\"}",
         "f9db59d2539c1a931e111687c7dbbe59\t{\"Parent\":\"Chrome 56.0 for Android\",\"Platform_Version\":\"4.2\",\"isTablet\":true,\"Device_Name\":\"Amio7\",\"Device_Maker\":\"Philips\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"PI3210G\",\"Device_Brand_Name\":\"Philips\"}",

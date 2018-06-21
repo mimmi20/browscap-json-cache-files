@@ -2,8 +2,8 @@
     "content": [
         "4f4a22b450c30dcdc3d6333c218ef9cd\t{\"Parent\":\"Baidu Browser 4.6\",\"Platform_Version\":\"6.0\",\"RenderingEngine_Name\":\"Blink\",\"RenderingEngine_Description\":\"a WebKit Fork by Google\",\"RenderingEngine_Maker\":\"Google Inc\"}",
         "4f459ae77e3b92947503f191b97370a8\t{\"Parent\":\"Naver 8.0 for iOS\",\"Platform_Version\":\"9.1\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
-        "4f46ce6bd43efbf25b7d957fe4d6725d\t{\"Parent\":\"Naver 7.8 for Android\",\"Platform_Version\":\"5.0\",\"Device_Name\":\"Galaxy A5 (Korea)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-A500S\",\"Device_Brand_Name\":\"Samsung\"}",
         "4f491cc61e77eb4f66e08203bd5bd1e3\t{\"Parent\":\"Naver 6.7 for iOS\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
+        "4f46ce6bd43efbf25b7d957fe4d6725d\t{\"Parent\":\"Naver 7.8 for Android\",\"Platform_Version\":\"5.0\",\"Device_Name\":\"Galaxy A5 (Korea)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-A500S\",\"Device_Brand_Name\":\"Samsung\"}",
         "4f40fe006b81c6448526779f1990a934\t{\"Parent\":\"UC Browser 9.7 for Android\",\"Platform_Version\":\"4.1\",\"Device_Name\":\"Galaxy Fresh\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"GT-S7392\",\"Device_Brand_Name\":\"Samsung\",\"RenderingEngine_Name\":\"U3\"}",
         "4f46da41592f656269c4b6006d7bf2d5\t{\"Parent\":\"UC Browser 7.6 for Android\",\"Platform_Version\":\"3.0\",\"isTablet\":true,\"Device_Name\":\"general Tablet\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"general Tablet\"}",
         "4f431a007be427591f3b93267990776e\t{\"Parent\":\"Maxthon 4.4\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\"}",

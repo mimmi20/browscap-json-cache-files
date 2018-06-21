@@ -1,7 +1,7 @@
 {
     "content": [
-        "8a427c17798d94e26b8308500b101b25\t{\"Parent\":\"Amigo 43.0\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\"}",
         "8a490fa157f537a93b495d031cabe73e\t{\"Parent\":\"liebao browser\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"JavaApplets\":true,\"RenderingEngine_Name\":\"WebKit\",\"RenderingEngine_Description\":\"For Google Chrome, iOS (including both mobile Safari, WebViews within third-party apps, and web clips), Safari, Arora, Midori, OmniWeb, Shiira, iCab since version 4, Web, SRWare Iron, Rekonq, and in Maxthon 3.\",\"RenderingEngine_Maker\":\"Apple Inc\"}",
+        "8a427c17798d94e26b8308500b101b25\t{\"Parent\":\"Amigo 43.0\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\"}",
         "8a4828673f036ed8ec03b29a9130a507\t{\"Parent\":\"Baidu Browser 7.9 for iOS\",\"Platform_Version\":\"9.2\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
         "8a4088e6559477f4109ece78b15685ea\t{\"Parent\":\"Baidu Browser 4.6\",\"Platform_Version\":\"4.2\",\"isTablet\":true,\"Device_Name\":\"TX18\",\"Device_Maker\":\"Irbis\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"TX18\",\"Device_Brand_Name\":\"Irbis\"}",
         "8a46763299c33f7b66031166ddaf33f2\t{\"Parent\":\"Naver 8.5 for iOS\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",

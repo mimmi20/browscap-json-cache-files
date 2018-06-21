@@ -7,7 +7,7 @@
         "0c23a8bf29a191f18aee814737e2a6ec\t27\tnokia.*\\/.*symbian.*\\/uc browser[\\d]\\.[\\d].*",
         "0c23a8bf29a191f18aee814737e2a6ec\t25\tnokia [\\d][\\d][\\d][\\d] up\\.browser\\/[\\d]\\.[\\d].*",
         "0c23a8bf29a191f18aee814737e2a6ec\t20\tnokia.*\\/.* ucbrowser\\/[\\d]\\.[\\d].*\tnokia.* up\\.browser\\/[\\d]\\.[\\d].*",
-        "0c23a8bf29a191f18aee814737e2a6ec\t19\tnokia.*\\/.* ucbrowser[\\d]\\.[\\d].*\tnokia.*\\/.*uc browser[\\d]\\.[\\d].*\tnokia.*\\/uc browser[\\d]\\.[\\d].*",
+        "0c23a8bf29a191f18aee814737e2a6ec\t19\tnokia.*\\/.*uc browser[\\d]\\.[\\d].*\tnokia.*\\/.* ucbrowser[\\d]\\.[\\d].*\tnokia.*\\/uc browser[\\d]\\.[\\d].*",
         "0c23a8bf29a191f18aee814737e2a6ec\t17\tnokia.*\\/.* ucbrowser\\/.*\tnokia.* up\\.link\\/[\\d]\\.[\\d].*\tnokia.* up\\.browser\\/.*",
         "0c23a8bf29a191f18aee814737e2a6ec\t14\tnokia.* up\\.link\\/.*",
         "0c23a8bf29a191f18aee814737e2a6ec\t10\tnokia [\\d][\\d][\\d][\\d]",

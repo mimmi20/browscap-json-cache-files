@@ -9,8 +9,8 @@
         "225c9e7706dcf1489977ee387869ac88\t{\"Parent\":\"UC Browser 9.8 for Android\",\"Platform_Version\":\"4.2\",\"Device_Name\":\"Canvas Juice\",\"Device_Maker\":\"Micromax\",\"Device_Code_Name\":\"A77\",\"Device_Brand_Name\":\"Micromax\",\"RenderingEngine_Name\":\"U3\"}",
         "2253f5f9ad5e5dd79667321b3feda111\t{\"Parent\":\"UC Browser 2.4 for Android\",\"Platform_Version\":\"4.1\"}",
         "22525d2b60f49a92762131f265574a8c\t{\"Parent\":\"Maxthon 4.2 for Android\",\"Platform_Version\":\"4.4\",\"Device_Name\":\"Galaxy S4 (AT\\u0026T)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SGH-I337\",\"Device_Brand_Name\":\"Samsung\"}",
-        "2254f8364d806756483e0ef09bcb4de0\t{\"Parent\":\"Android WebView 4.0\",\"Platform_Version\":\"4.0\",\"Device_Name\":\"Sensation\",\"Device_Maker\":\"HTC\",\"Device_Code_Name\":\"Z710\",\"Device_Brand_Name\":\"HTC\"}",
         "2252a5455ba1e21bc172c4df43899442\t{\"Parent\":\"Samsung Browser 6.2\",\"Platform_Version\":\"5.1\",\"Device_Name\":\"Galaxy Note 5 CDMA + LTE (Sprint)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-N920P\",\"Device_Brand_Name\":\"Samsung\"}",
+        "2254f8364d806756483e0ef09bcb4de0\t{\"Parent\":\"Android WebView 4.0\",\"Platform_Version\":\"4.0\",\"Device_Name\":\"Sensation\",\"Device_Maker\":\"HTC\",\"Device_Code_Name\":\"Z710\",\"Device_Brand_Name\":\"HTC\"}",
         "2252a5efe401214631b6b6a4c818bac6\t{\"Parent\":\"Android WebView 2.0\",\"Platform_Version\":\"4.1\",\"Device_Name\":\"Ascend P1\",\"Device_Maker\":\"Huawei\",\"Device_Code_Name\":\"U9200\",\"Device_Brand_Name\":\"Huawei\"}",
         "22518d04e482ae776dd3732cb1ad01b1\t{\"Parent\":\"Android WebView 2.0\",\"Platform_Version\":\"4.0\",\"isTablet\":true,\"Device_Name\":\"Picasso\",\"Device_Maker\":\"Acer\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"A501\",\"Device_Brand_Name\":\"Acer\"}",
         "225bdf38b54180fdb016f5972250ad44\t{\"Parent\":\"QQBrowser 5.5 for iOS\",\"Browser_Bits\":\"32\",\"Platform\":\"iOS\",\"Platform_Version\":\"9.0\",\"Platform_Description\":\"iPod, iPhone \\u0026 iPad\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
@@ -54,8 +54,8 @@
         "225ee5040eac8576356276950885b142\t{\"Parent\":\"Iceweasel 13.0\"}",
         "22548a247eca7f881f4e1e788fd85e43\t{\"Parent\":\"Firefox 44.0\",\"Browser_Bits\":\"32\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "2254a61c92ed4c996dd58438d781a2f1\t{\"Parent\":\"Firefox 30.0\",\"Browser_Bits\":\"32\",\"Platform\":\"SunOS\",\"Platform_Description\":\"SunOS\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Oracle\",\"Device_Name\":\"general Desktop\",\"Device_Code_Name\":\"general Desktop\"}",
-        "225c466a60832b0eb91302eb6e52f9a5\t{\"Parent\":\"Firefox 22.0\",\"Browser_Bits\":\"32\",\"Platform\":\"Linux\",\"Platform_Description\":\"Linux\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Linux Foundation\",\"Device_Name\":\"Linux Desktop\",\"Device_Code_Name\":\"Linux Desktop\"}",
         "225067a2a4f2f1a882757e741b9732e9\t{\"Parent\":\"Firefox 10.0\",\"Browser_Bits\":\"32\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
+        "225c466a60832b0eb91302eb6e52f9a5\t{\"Parent\":\"Firefox 22.0\",\"Browser_Bits\":\"32\",\"Platform\":\"Linux\",\"Platform_Description\":\"Linux\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Linux Foundation\",\"Device_Name\":\"Linux Desktop\",\"Device_Code_Name\":\"Linux Desktop\"}",
         "22511acda8217f32ba357ef40be49ae4\t{\"Parent\":\"ESPN Radio 4.0\",\"Platform_Version\":\"9.1\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}"
     ]
 }

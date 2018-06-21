@@ -1,7 +1,7 @@
 {
     "content": [
-        "3d01cffaa340181a5b8563cdb9317fc6\t{\"Parent\":\"Naver 7.6 for Android\",\"Platform_Version\":\"4.4\",\"isTablet\":true,\"Device_Name\":\"general Tablet\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"general Tablet\"}",
         "3d0955d9923b81cdf547a0f37d2a688c\t{\"Parent\":\"Naver 5.8 for iOS\",\"Platform_Version\":\"8.3\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
+        "3d01cffaa340181a5b8563cdb9317fc6\t{\"Parent\":\"Naver 7.6 for Android\",\"Platform_Version\":\"4.4\",\"isTablet\":true,\"Device_Name\":\"general Tablet\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"general Tablet\"}",
         "3d03784437006166faef1973946c5266\t{\"Parent\":\"Baidu Browser HD Generic\",\"Platform_Version\":\"5.0\",\"RenderingEngine_Name\":\"Blink\",\"RenderingEngine_Description\":\"a WebKit Fork by Google\",\"RenderingEngine_Maker\":\"Google Inc\"}",
         "3d0cb734337af83c22038f400d887b97\t{\"Parent\":\"UC Browser 10.9 for Android\",\"Platform_Version\":\"4.4\",\"Device_Name\":\"Galaxy Note 3 LTE (AT\\u0026T)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-N900A\",\"Device_Brand_Name\":\"Samsung\"}",
         "3d00f1fb5451aa2c38ad578fe4652c32\t{\"Parent\":\"UC Browser 9.7 for Android\",\"Platform_Version\":\"5.1\"}",
@@ -11,8 +11,8 @@
         "3d0d2a6c2189b5ebda548d7c88c837ef\t{\"Parent\":\"UC Browser 7.1 for Android\",\"Platform_Version\":\"1.5\"}",
         "3d041012ae0c5c0d572f507b04e5373f\t{\"Parent\":\"Maxthon 4.4 for Mac\",\"Platform_Version\":\"10.10\"}",
         "3d0fada96dc6e6edec7e60eeed2adaaa\t{\"Parent\":\"Beamrise 28.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
-        "3d01a5dcaccdfe3fb9ba5d25b4a6f56e\t{\"Parent\":\"Android WebView 1.6\",\"Platform_Version\":\"4.1\",\"isTablet\":true,\"Device_Name\":\"Transformer Prime\",\"Device_Maker\":\"Asus\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"Eee Pad TF201\",\"Device_Brand_Name\":\"Asus\"}",
         "3d011f063b869790fd257b71fad67535\t{\"Parent\":\"Samsung Browser 3.2\",\"Platform_Version\":\"6.0\",\"Device_Name\":\"Galaxy A5 (Australia)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-A500Y\",\"Device_Brand_Name\":\"Samsung\"}",
+        "3d01a5dcaccdfe3fb9ba5d25b4a6f56e\t{\"Parent\":\"Android WebView 1.6\",\"Platform_Version\":\"4.1\",\"isTablet\":true,\"Device_Name\":\"Transformer Prime\",\"Device_Maker\":\"Asus\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"Eee Pad TF201\",\"Device_Brand_Name\":\"Asus\"}",
         "3d097790caae0a912c32f74ad7b9af09\t{\"Parent\":\"Yandex Browser 16.4 for Android\",\"Platform_Version\":\"4.4\",\"isTablet\":true,\"Device_Name\":\"T72ER 3G\",\"Device_Maker\":\"Oysters\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"T72ER 3G\",\"Device_Brand_Name\":\"Oysters\"}",
         "3d0ad0eb6ca653fd5bcf009e1be805ab\t{\"Parent\":\"Opera Mobile 36.0 for Android\",\"Platform_Version\":\"4.3\",\"Device_Name\":\"Xperia Z 4G LTE\",\"Device_Maker\":\"Sony\",\"Device_Code_Name\":\"C6606\",\"Device_Brand_Name\":\"Sony\"}",
         "3d067cee18eccf68f78285c8ceb905ce\t{\"Parent\":\"Opera Mobile 36.0 for Android\",\"Platform_Version\":\"4.4\",\"isTablet\":true,\"Device_Name\":\"Galaxy Tab 3 7.0 3G\",\"Device_Maker\":\"Samsung\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"SM-T211\",\"Device_Brand_Name\":\"Samsung\"}",
@@ -46,8 +46,8 @@
         "3d0bffd8a690dd21a5ba44c0eda52a5a\t{\"Parent\":\"PaleMoon 25.3\",\"Browser_Bits\":\"32\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.11\",\"Platform_Description\":\"Mac OS X\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Beta\":true,\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
         "3d0ec9eb1f7ca872c38ebd6e9cedef92\t{\"Parent\":\"SeaMonkey 2.35\",\"Browser_Bits\":\"32\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.8\",\"Platform_Description\":\"Mac OS X\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
         "3d0fe800e9ed12ef48e4e7133874cdfa\t{\"Parent\":\"Iceweasel 46.0\",\"Browser_Bits\":\"64\",\"Platform_Bits\":\"64\"}",
-        "3d00d47bc7aaa619ef10805d7ea43d79\t{\"Parent\":\"Firefox 37.0 for Android\",\"Platform_Version\":\"5.1\"}",
         "3d0cbce62374ee01682c64e529e61f8c\t{\"Parent\":\"Firefox 42.0 for FirefoxOS 2.2\",\"Device_Name\":\"Open C\",\"Device_Maker\":\"ZTE\",\"Device_Code_Name\":\"Open C\",\"Device_Brand_Name\":\"ZTE\"}",
+        "3d00d47bc7aaa619ef10805d7ea43d79\t{\"Parent\":\"Firefox 37.0 for Android\",\"Platform_Version\":\"5.1\"}",
         "3d07b1e260551a7b138b5c0c60fd5eb4\t{\"Parent\":\"Firefox 31.0\",\"Browser_Bits\":\"32\",\"Platform\":\"Win32\",\"Platform_Description\":\"Windows\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true,\"isAnonymized\":true}",
         "3d028b23150d33c1717ce80cf54d2daa\t{\"Parent\":\"Firefox 5.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "3d0552bc120bea065cac4c80cb64861b\t{\"Parent\":\"Firefox 18.1 for FirefoxOS 1.1\",\"Device_Name\":\"One Touch Fire\",\"Device_Maker\":\"Alcatel\",\"Device_Code_Name\":\"OT-4012A\",\"Device_Brand_Name\":\"Alcatel\"}",

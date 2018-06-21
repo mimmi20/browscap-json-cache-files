@@ -1,8 +1,8 @@
 {
     "content": [
         "5651ebfe4edf20d9a117c23fdfb8bcca\t{\"Parent\":\"Bing Search App 6.1 for Android\",\"Platform_Version\":\"6.0\",\"Device_Name\":\"Galaxy S6 Edge (Global)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-G925F\",\"Device_Brand_Name\":\"Samsung\"}",
-        "565981adb593b9400c6c8ba99e90d1b5\t{\"Parent\":\"Coc Coc Browser 43.0\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.6\",\"Platform_Description\":\"Mac OS X\",\"Platform_Maker\":\"Apple Inc\",\"Win32\":false,\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
         "56536d45e7b004e4bbec1f394121ced8\t{\"Parent\":\"Coc Coc Browser 51.0 for Android\",\"Platform_Version\":\"4.2\",\"Device_Name\":\"Galaxy S III\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"GT-I9300\",\"Device_Brand_Name\":\"Samsung\"}",
+        "565981adb593b9400c6c8ba99e90d1b5\t{\"Parent\":\"Coc Coc Browser 43.0\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.6\",\"Platform_Description\":\"Mac OS X\",\"Platform_Maker\":\"Apple Inc\",\"Win32\":false,\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
         "565f41355b4d1f40c5bef393f8403c6d\t{\"Parent\":\"Iridium Browser Generic\",\"Browser_Bits\":\"64\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "56521c540df61fcb49b90886cd2f09f7\t{\"Parent\":\"Baidu Browser 7.3\",\"Platform_Version\":\"5.0\"}",
         "565fecd2480247dce7223c4cfb2c506a\t{\"Parent\":\"UC Browser 11.2 for Android\",\"Browser_Modus\":\"Desktop Mode\",\"RenderingEngine_Name\":\"Blink\",\"RenderingEngine_Description\":\"a WebKit Fork by Google\",\"RenderingEngine_Maker\":\"Google Inc\"}",
@@ -17,8 +17,8 @@
         "56553e66eba40ebcf84fe43b5773f6ab\t{\"Parent\":\"QQBrowser 6.11 for Android\",\"Browser_Bits\":\"32\",\"Platform\":\"Android\",\"Platform_Version\":\"5.0\",\"Platform_Description\":\"Android OS\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Google Inc\"}",
         "565d1cc68b5a7e82db6392dbe2de2c85\t{\"Parent\":\"QQBrowser 3.2 for Android\",\"Browser_Bits\":\"32\",\"Platform\":\"Android\",\"Platform_Version\":\"7.1\",\"Platform_Description\":\"Android OS\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Google Inc\"}",
         "56594ece667c45f752ac21340f51fd4e\t{\"Parent\":\"Flixster App 7.1\",\"Platform_Version\":\"8.1\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
-        "56592a5bb9959f7b751b1b60bb1b73a4\t{\"Parent\":\"Yandex Browser 16.7\",\"Browser_Bits\":\"64\",\"Platform\":\"Linux\",\"Platform_Description\":\"Linux\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Linux Foundation\",\"Device_Name\":\"Linux Desktop\",\"Device_Code_Name\":\"Linux Desktop\"}",
         "5652b6f6676709bb7f92419463a113cc\t{\"Parent\":\"Yandex Browser 17.10 for Android\",\"Platform_Version\":\"4.3\",\"Device_Name\":\"Xperia LT29i Hayabusa\",\"Device_Maker\":\"Sony\",\"Device_Code_Name\":\"LT29i\",\"Device_Brand_Name\":\"Sony\"}",
+        "56592a5bb9959f7b751b1b60bb1b73a4\t{\"Parent\":\"Yandex Browser 16.7\",\"Browser_Bits\":\"64\",\"Platform\":\"Linux\",\"Platform_Description\":\"Linux\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Linux Foundation\",\"Device_Name\":\"Linux Desktop\",\"Device_Code_Name\":\"Linux Desktop\"}",
         "565777f3205a5db81837e24627cc072a\t{\"Parent\":\"Opera Mobile 42.0 for Android\",\"Platform_Version\":\"2.3\",\"Device_Name\":\"Viva A72\",\"Device_Maker\":\"Micromax\",\"Device_Code_Name\":\"A72\",\"Device_Brand_Name\":\"Micromax\"}",
         "565343aeb2e4acc3f11a0f432107167b\t{\"Parent\":\"Opera Mobile 25.0 for Android\",\"Platform_Version\":\"6.0\",\"Device_Name\":\"Honor 5C\",\"Device_Maker\":\"Huawei\",\"Device_Code_Name\":\"NEM-L51\",\"Device_Brand_Name\":\"Huawei\"}",
         "56539ae7962683c01e7374fc16574ac3\t{\"Parent\":\"Opera 46.0\",\"Browser_Bits\":\"32\",\"Platform\":\"Linux\",\"Platform_Description\":\"Linux\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Linux Foundation\",\"Device_Name\":\"TV\",\"Device_Type\":\"TV Device\",\"Device_Pointing_Method\":\"unknown\",\"Device_Code_Name\":\"TV\"}",
@@ -62,8 +62,8 @@
         "565ffe9d1d5bb1e6590cd53524b49c22\t{\"Parent\":\"Lunascape 6.4\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "5652c60b66b5d0837549b756b512aca6\t{\"Parent\":\"Mozilla 1.0\",\"Browser_Bits\":\"32\",\"Platform\":\"Darwin\",\"Platform_Description\":\"Darwin is a Core Component of MacOSX and iOS\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"general Desktop\",\"Device_Code_Name\":\"general Desktop\"}",
         "565c10336b95d7856c04624b3183bbcd\t{\"Parent\":\"IceCat 10.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
-        "565b0df03d367a8abc8a052877f896e3\t{\"Parent\":\"ESPN Radio 4.0 for Android\",\"Platform_Version\":\"6.0\"}",
         "565c4861c5b36c868184ce32c1d52013\t{\"Parent\":\"MusicDownloader 1.5\",\"Platform_Version\":\"8.1\"}",
+        "565b0df03d367a8abc8a052877f896e3\t{\"Parent\":\"ESPN Radio 4.0 for Android\",\"Platform_Version\":\"6.0\"}",
         "565d61fec90d50b3416e72872d02a109\t{\"Parent\":\"Reeder 2.2\",\"Platform_Version\":\"5.0\"}"
     ]
 }

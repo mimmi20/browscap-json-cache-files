@@ -2,10 +2,10 @@
     "content": [
         "1232a5099657e01d91c5ed8fca3641a5\t{\"Parent\":\"Yandex\",\"Browser\":\"YandexVideo\"}",
         "12314a0fe0a2af086f6777d2554c178f\t{\"Parent\":\"Iridium Browser 58.0\",\"Browser_Bits\":\"32\",\"Platform\":\"Win10\",\"Platform_Version\":\"6.4\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
+        "1239d66633d84f03559b8b057862bebc\t{\"Parent\":\"UC Browser 10.2 for Android\",\"Platform_Version\":\"4.1\",\"Device_Name\":\"One Touch Star 6010D\",\"Device_Maker\":\"Alcatel\",\"Device_Code_Name\":\"OT-6010D\",\"Device_Brand_Name\":\"Alcatel\"}",
+        "123e86d831dc8a01af4414fe47893c43\t{\"Parent\":\"UC Browser Mini 9.7\",\"Browser_Modus\":\"SpeedMode\",\"Platform_Version\":\"5.1\"}",
         "123cfb961136ca9e9034502918b645a6\t{\"Parent\":\"Swing Browser Generic\",\"Platform\":\"Win10\",\"Platform_Version\":\"6.4\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "1231317ea1bf9337b907459280979cd8\t{\"Parent\":\"Swing Browser Generic\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\"}",
-        "123e86d831dc8a01af4414fe47893c43\t{\"Parent\":\"UC Browser Mini 9.7\",\"Browser_Modus\":\"SpeedMode\",\"Platform_Version\":\"5.1\"}",
-        "1239d66633d84f03559b8b057862bebc\t{\"Parent\":\"UC Browser 10.2 for Android\",\"Platform_Version\":\"4.1\",\"Device_Name\":\"One Touch Star 6010D\",\"Device_Maker\":\"Alcatel\",\"Device_Code_Name\":\"OT-6010D\",\"Device_Brand_Name\":\"Alcatel\"}",
         "123e5343a9dc08b23db4e597fa9d511a\t{\"Parent\":\"DefaultProperties\",\"Comment\":\"UC Browser 9.3 for Series40\",\"Browser\":\"UC Browser\",\"Browser_Type\":\"Browser\",\"Browser_Bits\":\"32\",\"Browser_Maker\":\"UCWeb Inc.\",\"Version\":\"9.3\",\"MajorVer\":\"9\",\"MinorVer\":\"3\",\"Platform\":\"Series40\",\"Platform_Description\":\"Series 40\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Nokia\",\"Frames\":true,\"IFrames\":true,\"Tables\":true,\"Cookies\":true,\"JavaScript\":true,\"isMobileDevice\":true,\"CssVersion\":\"3\",\"AolVersion\":\"0\",\"Device_Name\":\"general Mobile Device\",\"Device_Maker\":\"Nokia\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"general Mobile Device\",\"Device_Brand_Name\":\"Nokia\",\"RenderingEngine_Name\":\"U2\",\"RenderingEngine_Description\":\"a WebKit Fork by UC Web\",\"RenderingEngine_Maker\":\"UCWeb Inc.\"}",
         "123c19e28f8b0454a52b1e5983d93df1\t{\"Parent\":\"UC Browser 8.0 for Symbian\",\"Device_Name\":\"Sport\",\"Device_Maker\":\"Nokia\",\"Device_Pointing_Method\":\"unknown\",\"Device_Code_Name\":\"5500\",\"Device_Brand_Name\":\"Nokia\"}",
         "1231035dc58dcba914a59cb72ad0bb85\t{\"Parent\":\"Comodo Dragon 23.2\",\"Platform\":\"Linux\",\"Platform_Description\":\"Linux\",\"Platform_Maker\":\"Linux Foundation\",\"Win32\":false,\"Device_Name\":\"Linux Desktop\",\"Device_Code_Name\":\"Linux Desktop\"}",
@@ -53,7 +53,7 @@
         "123341a82872b65d8bb62fdc3ae6e63b\t{\"Parent\":\"Firefox Focus 3.8 for iOS\",\"Platform_Version\":\"11.2\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
         "123803dc0e09e4b36cbf0f1b10da9165\t{\"Parent\":\"Firefox Generic\",\"Browser_Bits\":\"64\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "1230ab0088c87a3dbf244b81787c3827\t{\"Parent\":\"IceCat 13.0\",\"Browser_Bits\":\"32\",\"Platform\":\"Linux\",\"Platform_Description\":\"Linux\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Linux Foundation\",\"Device_Name\":\"Linux Desktop\",\"Device_Code_Name\":\"Linux Desktop\"}",
-        "1238f97d9f04b241a5eb8e37523f220f\t{\"Parent\":\"LG Player Generic\",\"Platform_Version\":\"5.1\"}",
-        "1236bada4fdd5bfcefe9764b53e2dcab\t{\"Parent\":\"MusicDownloader Generic\",\"Platform_Version\":\"7.1\"}"
+        "1236bada4fdd5bfcefe9764b53e2dcab\t{\"Parent\":\"MusicDownloader Generic\",\"Platform_Version\":\"7.1\"}",
+        "1238f97d9f04b241a5eb8e37523f220f\t{\"Parent\":\"LG Player Generic\",\"Platform_Version\":\"5.1\"}"
     ]
 }

@@ -58,8 +58,8 @@
         "2bca289ac8c8b8d9466df45fbe12cfb9\t{\"Parent\":\"Firefox 5.0\",\"Browser_Bits\":\"32\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
         "2bce32bfc3faf91d71ce34d68290a22f\t{\"Parent\":\"Iceowl 17.0\"}",
         "2bc1a07e0ae47704b31e174b51b33b57\t{\"Parent\":\"iLunascape 5.2\",\"Platform_Version\":\"9.1\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
-        "2bceb62b7b70eb9d2b80cc91d4a6101c\t{\"Parent\":\"AntennaPod 1.2\",\"Platform_Version\":\"8.0\"}",
         "2bc1ce2ce0ee446087c7ffd6086f547b\t{\"Parent\":\"MusicDownloader 2.0\",\"Platform_Version\":\"4.3\"}",
+        "2bceb62b7b70eb9d2b80cc91d4a6101c\t{\"Parent\":\"AntennaPod 1.2\",\"Platform_Version\":\"8.0\"}",
         "2bcf31f83086e319b45ab0bff11daaaf\t{\"Parent\":\"Samsung Generic for Java\",\"Device_Name\":\"B5722 Duos\",\"Device_Maker\":\"Samsung\",\"Device_Pointing_Method\":\"touchscreen\",\"Device_Code_Name\":\"GT-B5722\",\"Device_Brand_Name\":\"Samsung\"}"
     ]
 }

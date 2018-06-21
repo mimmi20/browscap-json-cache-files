@@ -10,9 +10,9 @@
         "96e8e293d35dfbf811e34cc1da77de74\t{\"Parent\":\"Comodo Dragon 17.4\",\"Browser_Bits\":\"64\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "96e9ca2fb2e5834601e66e3c6fd902e8\t{\"Parent\":\"Android WebView 4.0\",\"Platform_Version\":\"4.3\",\"Device_Name\":\"Galaxy S4 (AT\\u0026T)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SGH-I337\",\"Device_Brand_Name\":\"Samsung\"}",
         "96e3de4ac3316a1dccd001e071755508\t{\"Parent\":\"Facebook Groups App for iOS\"}",
-        "96e12c5b6019cd3b9037f6558f6032de\t{\"Parent\":\"ABrowse 0.6\"}",
         "96e00656ab191c5f601e02bfd516f276\t{\"Parent\":\"Samsung Browser 3.3\",\"Platform_Version\":\"5.1\",\"Device_Name\":\"Galaxy S6 Edge CDMA (Sprint)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-G925P\",\"Device_Brand_Name\":\"Samsung\"}",
         "96ecfc995f4dfee8c39a18b76be444aa\t{\"Parent\":\"Samsung Browser 3.0\",\"Platform_Version\":\"5.1\",\"Device_Name\":\"Galaxy Note 5 LTE (Canada)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-N920W8\",\"Device_Brand_Name\":\"Samsung\"}",
+        "96e12c5b6019cd3b9037f6558f6032de\t{\"Parent\":\"ABrowse 0.6\"}",
         "96e1fbf16dc8990f25c2091f7656e493\t{\"Parent\":\"QQBrowser 5.2 for iOS\",\"Browser_Bits\":\"32\",\"Platform\":\"iOS\",\"Platform_Version\":\"10.1\",\"Platform_Description\":\"iPod, iPhone \\u0026 iPad\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
         "96ec2d27a798fd4f7f8fa1be3a809ff7\t{\"Parent\":\"Yandex Browser 17.1 for Android\",\"Platform_Version\":\"5.1\",\"isTablet\":true,\"Device_Name\":\"Galaxy Tab 4 8.0 3G\",\"Device_Maker\":\"Samsung\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"SM-T331\",\"Device_Brand_Name\":\"Samsung\"}",
         "96e8cb6c0c71eb0b6b38214542506f76\t{\"Parent\":\"Yandex Browser 14.5 for iOS\",\"Platform_Version\":\"8.3\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
@@ -54,8 +54,8 @@
         "96ea73aa707bd35dae514fe73f5d73e8\t{\"Parent\":\"FossaMail 27.0\",\"Browser_Bits\":\"32\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "96ede67027d94f237898960a236f4981\t{\"Parent\":\"Fennec 8.0\",\"Browser_Bits\":\"32\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
         "96e3d28616387fde480cc01067bccc42\t{\"Parent\":\"Firefox 48.0\",\"Browser_Bits\":\"32\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
-        "96eb5b03aa3e922701875bee2d4ce230\t{\"Parent\":\"Firefox 17.0\",\"Browser_Bits\":\"32\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
         "96e0ab2461cac91b6220bdcec7fc6979\t{\"Parent\":\"Firefox 8.0\",\"Browser_Bits\":\"32\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.10\",\"Platform_Description\":\"Mac OS X\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
+        "96eb5b03aa3e922701875bee2d4ce230\t{\"Parent\":\"Firefox 17.0\",\"Browser_Bits\":\"32\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
         "96ea901b274b7be8965a1ba7dde46d51\t{\"Parent\":\"Firefox 24.0 for FirefoxOS 1.1\",\"Device_Name\":\"Open\",\"Device_Maker\":\"ZTE\",\"Device_Code_Name\":\"Open\",\"Device_Brand_Name\":\"ZTE\"}"
     ]
 }

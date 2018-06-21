@@ -1,7 +1,7 @@
 {
     "content": [
-        "ae69cfcc06a00af7e935b45acd001dda\t{\"Parent\":\"Coc Coc Browser 50.0\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "ae6de5ba2fd66cb3da79b19645ffba93\t{\"Parent\":\"Coc Coc Browser 52.0 for Android\",\"Platform_Version\":\"4.3\"}",
+        "ae69cfcc06a00af7e935b45acd001dda\t{\"Parent\":\"Coc Coc Browser 50.0\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "ae6b451e7c90d345f27f9edc89b1611a\t{\"Parent\":\"Naver 7.8 for iOS\",\"Platform_Version\":\"9.3\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
         "ae6b9130833b579a3be56f54826a26eb\t{\"Parent\":\"Naver 7.0 for iOS\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
         "ae68f4dd5a7f2103c92d97db55b99b19\t{\"Parent\":\"UC Browser 11.0 for iOS\",\"Platform_Version\":\"10.0\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",

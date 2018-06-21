@@ -1,7 +1,7 @@
 {
     "content": [
-        "5e7b77e0b7549dd99a5495cd06b87fc1\t{\"Parent\":\"Coc Coc Browser 62.0\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\"}",
         "5e76fdaa531f2e80e0d8d680c05e03c5\t{\"Parent\":\"Coc Coc Browser 49.0 for Android\"}",
+        "5e7b77e0b7549dd99a5495cd06b87fc1\t{\"Parent\":\"Coc Coc Browser 62.0\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\"}",
         "5e7ef344eb0627f2d508473bc39be128\t{\"Parent\":\"Baidu Browser 4.0\",\"Platform_Version\":\"4.4\",\"isTablet\":true,\"Device_Name\":\"general Tablet\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"general Tablet\",\"RenderingEngine_Name\":\"Blink\",\"RenderingEngine_Description\":\"a WebKit Fork by Google\",\"RenderingEngine_Maker\":\"Google Inc\"}",
         "5e7bc5e2071f2fa765794d3ddc71ca45\t{\"Parent\":\"Baidu Browser 1.8 for iOS\",\"Platform_Version\":\"8.0\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
         "5e7001abd50f6bdedbe5c1c27ae0c710\t{\"Parent\":\"PHP\"}",
@@ -37,8 +37,8 @@
         "5e78d2ad5d507b948fa704c569d3217e\t{\"Parent\":\"Chrome 42.0 for Android\",\"Platform_Version\":\"4.2\",\"Device_Name\":\"A820\",\"Device_Maker\":\"Lenovo\",\"Device_Code_Name\":\"A820\",\"Device_Brand_Name\":\"Lenovo\"}",
         "5e73cf5b3d68a5dea8295464a36c1c5a\t{\"Parent\":\"Chrome 41.0 for Android\",\"Platform_Version\":\"4.4\",\"Device_Name\":\"Galaxy S4 Mini\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"GT-I9190\",\"Device_Brand_Name\":\"Samsung\"}",
         "5e724991995802bf9fb02e4c196e1a30\t{\"Parent\":\"Chrome 34.0 for Android\",\"Platform_Version\":\"4.4\",\"Device_Name\":\"A319\",\"Device_Maker\":\"Lenovo\",\"Device_Code_Name\":\"A319\",\"Device_Brand_Name\":\"Lenovo\"}",
-        "5e703464d0f4094afb251bf7f1c59087\t{\"Parent\":\"Chrome Generic\",\"Browser_Bits\":\"32\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.1\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true,\"isAnonymized\":true}",
         "5e726d3285fd1968f6e1b102aea7250e\t{\"Parent\":\"Firefox 10.2 for iOS\",\"Platform_Version\":\"10.2\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
+        "5e703464d0f4094afb251bf7f1c59087\t{\"Parent\":\"Chrome Generic\",\"Browser_Bits\":\"32\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.1\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true,\"isAnonymized\":true}",
         "5e7c81201a5eae9aff3e71ce3b32fbc3\t{\"Parent\":\"Microsoft Zune 4.8\",\"Browser_Bits\":\"32\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.1\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
         "5e7a810886e73a22803d22bcef28ec92\t{\"Parent\":\"OneBrowser 3.5 for Android\",\"Platform_Version\":\"4.1\",\"Device_Name\":\"Galaxy S Duos\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"GT-S7562\",\"Device_Brand_Name\":\"Samsung\"}",
         "5e73a927918c2ee0d6b399b334f56195\t{\"Parent\":\"OneBrowser 3.1 for iOS\",\"Platform_Version\":\"4.3\"}",

@@ -1,7 +1,7 @@
 {
     "content": [
-        "9b7100d1292434a4fb459291349b1e6a\t{\"Parent\":\"Amigo 50.0\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\"}",
         "9b7b397a83d36b02675bd283904849ef\t{\"Parent\":\"Coc Coc Browser 53.0\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.5\",\"Platform_Description\":\"Mac OS X\",\"Platform_Maker\":\"Apple Inc\",\"Win32\":false,\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
+        "9b7100d1292434a4fb459291349b1e6a\t{\"Parent\":\"Amigo 50.0\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\"}",
         "9b7faac7acdf31f65bfe1ed5629b9d79\t{\"Parent\":\"SuperBird General\",\"Browser_Bits\":\"32\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10\",\"Platform_Description\":\"Mac OS X\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
         "9b72fa0796633653aef0b7e61d892f8d\t{\"Parent\":\"Baidu Browser 4.6\",\"Platform_Version\":\"5.0\",\"RenderingEngine_Name\":\"Blink\",\"RenderingEngine_Description\":\"a WebKit Fork by Google\",\"RenderingEngine_Maker\":\"Google Inc\"}",
         "9b7826e7cfb42951c61ca6cc40206f14\t{\"Parent\":\"Baidu Browser HD 3.4 for iOS\",\"Platform_Version\":\"8.4\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",

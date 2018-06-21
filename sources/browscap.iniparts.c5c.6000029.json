@@ -1,7 +1,7 @@
 {
     "content": [
-        "c5cb0e8ef33ffbca3a7599c80775ae40\t{\"Parent\":\"Coc Coc Browser 42.0\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\"}",
         "c5c26b6d24c5d2ff35f2a20bc3a1b36b\t{\"Parent\":\"Coc Coc Browser 62.0 for Android\",\"Platform_Version\":\"5.0\",\"Device_Name\":\"Galaxy A3 Duos\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-A300H\",\"Device_Brand_Name\":\"Samsung\"}",
+        "c5cb0e8ef33ffbca3a7599c80775ae40\t{\"Parent\":\"Coc Coc Browser 42.0\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\"}",
         "c5c189426fc3800b2a9484e1d0eac0ff\t{\"Parent\":\"UC Browser 9.2 for Android\",\"Device_Name\":\"Desire S\",\"Device_Maker\":\"HTC\",\"Device_Code_Name\":\"Desire S\",\"Device_Brand_Name\":\"HTC\"}",
         "c5ce823074e0c729d2840497009dee8d\t{\"Parent\":\"UC Browser 8.5 for Android\",\"Platform_Version\":\"4.1\"}",
         "c5c8feb27126ea1a71e48dfef245e324\t{\"Parent\":\"UC Browser 8.5 for iOS\",\"Platform_Version\":\"8.0\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
@@ -42,8 +42,8 @@
         "c5c53651dea4cc0b3a0fb5a967180c8a\t{\"Parent\":\"Microsoft Office 2013\",\"Browser_Bits\":\"32\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
         "c5cad4f05c1c132c6a7c2cda91aa0ef3\t{\"Parent\":\"OneBrowser 4.2 for Android\",\"Platform_Version\":\"2.3\",\"Device_Name\":\"Galaxy S Duos\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"GT-S7562\",\"Device_Brand_Name\":\"Samsung\"}",
         "c5cf71c98f459d663d236bda73a0058d\t{\"Parent\":\"OneBrowser 4.2 for iOS\",\"Platform_Version\":\"4.0\"}",
-        "c5c2efa7d44b906303454c98cea08632\t{\"Parent\":\"Baidu Box App 9.3 for iOS\",\"Platform_Version\":\"8.0\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
         "c5cfd61d67c10ea55c1297e2743c79fd\t{\"Parent\":\"Baidu Box App 8.4\",\"Platform_Version\":\"4.2\",\"Device_Name\":\"One X\",\"Device_Maker\":\"HTC\",\"Device_Code_Name\":\"PJ83100\",\"Device_Brand_Name\":\"HTC\"}",
+        "c5c2efa7d44b906303454c98cea08632\t{\"Parent\":\"Baidu Box App 9.3 for iOS\",\"Platform_Version\":\"8.0\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
         "c5c1b62e8495e152ec69586581d9c540\t{\"Parent\":\"Daum 6.6 for iOS\",\"Platform_Version\":\"10.1\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
         "c5c2530f028f17ae04435de569cf3fe5\t{\"Parent\":\"Mercury 7.4\",\"Platform_Version\":\"9.0\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
         "c5c4fb203c7597131bf4cba1ecf7faf3\t{\"Parent\":\"Instagram App 31.0 for Android\",\"Platform_Version\":\"4.1\",\"JavaApplets\":true,\"Device_Name\":\"Optimus L7 II\",\"Device_Maker\":\"LG\",\"Device_Code_Name\":\"P713\",\"Device_Brand_Name\":\"LG\",\"RenderingEngine_Name\":\"WebKit\",\"RenderingEngine_Description\":\"For Google Chrome, iOS (including both mobile Safari, WebViews within third-party apps, and web clips), Safari, Arora, Midori, OmniWeb, Shiira, iCab since version 4, Web, SRWare Iron, Rekonq, and in Maxthon 3.\",\"RenderingEngine_Maker\":\"Apple Inc\"}",

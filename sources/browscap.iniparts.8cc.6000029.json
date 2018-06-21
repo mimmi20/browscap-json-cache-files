@@ -2,8 +2,8 @@
     "content": [
         "8cc80b62f071fa9e74924aab52ee6ab2\t{\"Parent\":\"Bing Search App 6.0 for Android\",\"Platform_Version\":\"5.1\",\"isTablet\":true,\"Device_Name\":\"MediaPad M2 10.0\",\"Device_Maker\":\"Huawei\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"M2-A01W\",\"Device_Brand_Name\":\"Huawei\"}",
         "8ccbbe2402200949b0c6d5a8b21910dd\t{\"Parent\":\"Crosswalk App 16.0\",\"Platform_Version\":\"5.0\",\"Device_Name\":\"Galaxy A5 Duos\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-A500H\",\"Device_Brand_Name\":\"Samsung\"}",
-        "8cc258e2d1fc07d21b07d34ce2b41fcf\t{\"Parent\":\"Amigo 56.0\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\"}",
         "8cc7afa071c9a98245384fa8ba341d87\t{\"Parent\":\"ChromePlus 1.5\",\"Browser_Bits\":\"32\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10\",\"Platform_Description\":\"Mac OS X\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
+        "8cc258e2d1fc07d21b07d34ce2b41fcf\t{\"Parent\":\"Amigo 56.0\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\"}",
         "8ccdfa294cf54141c142edef3509b7c1\t{\"Parent\":\"Baidu Browser 2.5\",\"Platform_Version\":\"4.4\"}",
         "8ccbe20712afdd918dfdfda05fc68b86\t{\"Parent\":\"UC Browser 2.1 for Android\",\"Platform_Version\":\"4.1\",\"Device_Name\":\"Galaxy S III Mini NFC\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"GT-I8190N\",\"Device_Brand_Name\":\"Samsung\"}",
         "8ccdb03ed2f72893e15b82ad634e1088\t{\"Parent\":\"Maxthon 5.1 for Android\",\"Platform_Version\":\"7.0\"}",

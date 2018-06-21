@@ -2,10 +2,10 @@
     "content": [
         "d6c03f579b5ffee13333b0d820b76903\t{\"Parent\":\"Feeddler RSS Reader\",\"Browser_Bits\":\"32\",\"Platform\":\"iOS\",\"Platform_Version\":\"8.0\",\"Platform_Description\":\"iPod, iPhone \\u0026 iPad\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"isMobileDevice\":true,\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Maker\":\"Apple Inc\",\"Device_Type\":\"Tablet\",\"Device_Pointing_Method\":\"touchscreen\",\"Device_Code_Name\":\"iPad\",\"Device_Brand_Name\":\"Apple\"}",
         "d6c9a6487a46a9a1ba64db60abc7d20e\t{\"Parent\":\"UC Browser 10.0 for Android\",\"Platform_Version\":\"4.2\"}",
+        "d6cd12c2e767287825a53e4110339f8b\t{\"Parent\":\"UC Browser 9.2 for iOS\",\"Platform_Version\":\"8.2\",\"JavaApplets\":false,\"RenderingEngine_Name\":\"U2\",\"RenderingEngine_Description\":\"a WebKit Fork by UC Web\",\"RenderingEngine_Maker\":\"UCWeb Inc.\"}",
         "d6cc3647ed68259ad4729eb03988563d\t{\"Parent\":\"UC Browser 9.9 for Android\",\"Platform_Version\":\"2.2\",\"Device_Name\":\"Xperia Neo V\",\"Device_Maker\":\"Sony\",\"Device_Code_Name\":\"MT11i\",\"Device_Brand_Name\":\"Sony\"}",
         "d6cbebbf6001a7450071069dafc91674\t{\"Parent\":\"UC Browser 9.4 for Android\",\"Platform_Version\":\"4.3\",\"RenderingEngine_Name\":\"U3\"}",
         "d6c3f0ff210dca873bc0cca37a09ba06\t{\"Parent\":\"UC Browser 9.3 for Series40\",\"Device_Name\":\"112\",\"Device_Code_Name\":\"112\"}",
-        "d6cd12c2e767287825a53e4110339f8b\t{\"Parent\":\"UC Browser 9.2 for iOS\",\"Platform_Version\":\"8.2\",\"JavaApplets\":false,\"RenderingEngine_Name\":\"U2\",\"RenderingEngine_Description\":\"a WebKit Fork by UC Web\",\"RenderingEngine_Maker\":\"UCWeb Inc.\"}",
         "d6c0dac1aaa00ce7bb8018549de7f7f0\t{\"Parent\":\"Maxthon 4.6 for Android\",\"Platform_Version\":\"6.0\",\"Device_Name\":\"Redmi Note 4\",\"Device_Maker\":\"Xiaomi Tech\",\"Device_Code_Name\":\"Redmi Note 4\",\"Device_Brand_Name\":\"Xiaomi\"}",
         "d6c6f1cc0c0cff627411cb1f351cf3d9\t{\"Parent\":\"Maxthon 4.1 for Android\"}",
         "d6cde6523c6732b76dd1c1ef6fa7ad8f\t{\"Parent\":\"Android WebView 1.5\",\"Platform_Version\":\"4.0\",\"Device_Name\":\"Desire X\",\"Device_Maker\":\"HTC\",\"Device_Code_Name\":\"T328E\",\"Device_Brand_Name\":\"HTC\"}",

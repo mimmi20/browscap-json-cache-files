@@ -1,8 +1,8 @@
 {
     "content": [
         "9e2cd3d9b2ca334c257a0621ab0623bb\t{\"Parent\":\"Rippers\",\"Browser\":\"google images relinker\",\"Version\":\"2.0\",\"MajorVer\":\"2\"}",
-        "9e278be41d595e4e41e78568c790f161\t{\"Parent\":\"CM Browser\",\"Platform_Version\":\"4.2\",\"Device_Name\":\"One Touch Idol X\",\"Device_Maker\":\"Alcatel\",\"Device_Code_Name\":\"OT-6040D\",\"Device_Brand_Name\":\"Alcatel\"}",
         "9e269193c5d725a7a29ef1d553d0847b\t{\"Parent\":\"Coc Coc Browser 27.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
+        "9e278be41d595e4e41e78568c790f161\t{\"Parent\":\"CM Browser\",\"Platform_Version\":\"4.2\",\"Device_Name\":\"One Touch Idol X\",\"Device_Maker\":\"Alcatel\",\"Device_Code_Name\":\"OT-6040D\",\"Device_Brand_Name\":\"Alcatel\"}",
         "9e2eb3ed72c892705e9bd0e8e4a1ae93\t{\"Parent\":\"Baidu Browser 4.7 for iOS\",\"Platform_Version\":\"8.0\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
         "9e21b549356727e1f444896fc0d15c7a\t{\"Parent\":\"Naver 8.1 for iOS\"}",
         "9e2bd38cfa872542bc45bc0efc8bff0f\t{\"Parent\":\"UC Browser 10.8 for Android\",\"Platform_Version\":\"3.0\",\"isTablet\":true,\"Device_Name\":\"general Tablet\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"general Tablet\"}",
@@ -36,8 +36,8 @@
         "9e2ff13df0da20c39c0b968a613a9f3d\t{\"Parent\":\"Chrome 35.0 for Android\",\"Platform_Version\":\"4.2\",\"isTablet\":true,\"Device_Name\":\"TF-MID806G\",\"Device_Maker\":\"Telefunken\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"TF-MID806G\",\"Device_Brand_Name\":\"Telefunken\"}",
         "9e24c27b1865366b3e3d15a2e2ef4066\t{\"Parent\":\"Chrome 34.0 for Android\",\"Platform_Version\":\"4.1\",\"isTablet\":true,\"Device_Name\":\"FreeTAB 8001 IPS X2 3G+\",\"Device_Maker\":\"MODECOM\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"FreeTAB 8001 IPS X2 3G+\",\"Device_Brand_Name\":\"MODECOM\"}",
         "9e2dc12fc19847d4ad0308da78ab5cca\t{\"Parent\":\"Chrome 28.0 for Android\",\"Platform_Version\":\"4.2\",\"isTablet\":true,\"Device_Name\":\"MeMO Pad FHD 10\",\"Device_Maker\":\"Asus\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"ME302KL\",\"Device_Brand_Name\":\"Asus\"}",
-        "9e2d7740fed923196ac8055431b84462\t{\"Parent\":\"Chrome 22.0\",\"Browser_Bits\":\"32\",\"Platform\":\"FreeBSD\",\"Platform_Description\":\"FreeBSD\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"FreeBSD Foundation\",\"Device_Name\":\"general Desktop\",\"Device_Code_Name\":\"general Desktop\"}",
         "9e25524d4d925530160aab853f40b4fd\t{\"Parent\":\"Chrome 26.0 for Android\",\"Platform_Version\":\"4.3\",\"isTablet\":true,\"Device_Name\":\"Iconia B1-710\",\"Device_Maker\":\"Acer\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"B1-710\",\"Device_Brand_Name\":\"Acer\"}",
+        "9e2d7740fed923196ac8055431b84462\t{\"Parent\":\"Chrome 22.0\",\"Browser_Bits\":\"32\",\"Platform\":\"FreeBSD\",\"Platform_Description\":\"FreeBSD\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"FreeBSD Foundation\",\"Device_Name\":\"general Desktop\",\"Device_Code_Name\":\"general Desktop\"}",
         "9e22620072f47ca8a83f98c26fe60f82\t{\"Parent\":\"Chrome 40.0 for iOS\",\"Platform_Version\":\"10.0\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
         "9e2e3c6bc7d7d9e6ea05343ea3bf039f\t{\"Parent\":\"Android Browser 4.4\",\"Platform_Version\":\"4.4\",\"Device_Name\":\"PLAY Style\",\"Device_Maker\":\"Star\",\"Device_Code_Name\":\"PLAY Style\",\"Device_Brand_Name\":\"Star\"}",
         "9e28e639ab454dc174e38f2b2a747e03\t{\"Parent\":\"Mobile Safari UIWebView\",\"Platform_Version\":\"4.0\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",

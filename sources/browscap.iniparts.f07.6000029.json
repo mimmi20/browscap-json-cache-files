@@ -44,8 +44,8 @@
         "f07cd33908a3bb5ba1641827c5eca836\t{\"Parent\":\"PaleMoon 27.4\",\"Browser_Bits\":\"32\",\"Platform\":\"Win10\",\"Platform_Version\":\"6.4\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "f07dfd1f3c2d565ba180145fe9a73471\t{\"Parent\":\"PaleMoon 25.4\",\"Browser_Bits\":\"64\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "f074b47747936918e265c01f424e8a7b\t{\"Parent\":\"SeaMonkey 2.3\",\"Browser_Bits\":\"32\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
-        "f0774f971effefd2d3a68ec12c540398\t{\"Parent\":\"Sleipnir 2.49\",\"Browser_Bits\":\"32\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
         "f07a3e17772b39a94a129a6a322c5d7f\t{\"Parent\":\"Sleipnir 3.2 for iOS\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
+        "f0774f971effefd2d3a68ec12c540398\t{\"Parent\":\"Sleipnir 2.49\",\"Browser_Bits\":\"32\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
         "f07d0f9b33ce8f3f003647e77e360a55\t{\"Parent\":\"Firefox 57.0 for Android\",\"Platform_Version\":\"4.2\"}",
         "f0730d3c8ac8188a35abb7ee6c2dfe28\t{\"Parent\":\"Firefox 31.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}"
     ]

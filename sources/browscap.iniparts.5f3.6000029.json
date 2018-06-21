@@ -1,13 +1,13 @@
 {
     "content": [
         "5f3149d85e0b676bd470798b420f5d8b\t{\"Parent\":\"Bing Search App 5.1 for Android\",\"Platform_Version\":\"5.1\"}",
-        "5f3d179eabafc711aa9b552f56d7b576\t{\"Parent\":\"Amigo 57.0\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "5f3bd882f11723ddbd02016c65e82195\t{\"Parent\":\"Brave 0.7\",\"Browser_Bits\":\"64\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
-        "5f363da2ced54de9604ccbd10c6bac6b\t{\"Parent\":\"Naver 8.4 for Android\",\"Platform_Version\":\"7.1\",\"isTablet\":true,\"Device_Name\":\"general Tablet\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"general Tablet\"}",
+        "5f3d179eabafc711aa9b552f56d7b576\t{\"Parent\":\"Amigo 57.0\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "5f3ac26fa40319f2375bd427b45fd5b1\t{\"Parent\":\"Naver 6.9 for iOS\",\"Platform_Version\":\"8.4\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
         "5f36af02a5f8d2ea39896932aa1095f4\t{\"Parent\":\"Naver 6.3 for iOS\",\"Platform_Version\":\"5.1\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
         "5f3e918a26b63fa731e698c65b16c68c\t{\"Parent\":\"Naver 6.0 for iOS\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
         "5f3ee9bd4944846c348e5fdab5f945fb\t{\"Parent\":\"Naver 5.8 for iOS\",\"Platform_Version\":\"7.0\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
+        "5f363da2ced54de9604ccbd10c6bac6b\t{\"Parent\":\"Naver 8.4 for Android\",\"Platform_Version\":\"7.1\",\"isTablet\":true,\"Device_Name\":\"general Tablet\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"general Tablet\"}",
         "5f3359c4c2fd583aff8d00d50f4f36cd\t{\"Parent\":\"Naver Generic for Android\",\"Platform_Version\":\"4.4\"}",
         "5f3ae4c7d6ab9efe5d25ccef23c2056b\t{\"Parent\":\"UC Browser 10.8 for Android\",\"Platform_Version\":\"4.1\",\"Device_Name\":\"A88\",\"Device_Maker\":\"Micromax\",\"Device_Code_Name\":\"A88\",\"Device_Brand_Name\":\"Micromax\"}",
         "5f35a4120854aa614017b8eb14c7cee2\t{\"Parent\":\"UC Browser 10.8 for iOS\",\"Browser_Modus\":\"Chrome\",\"Platform_Version\":\"9.1\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",

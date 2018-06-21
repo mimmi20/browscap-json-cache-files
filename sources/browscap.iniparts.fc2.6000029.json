@@ -2,8 +2,8 @@
     "content": [
         "fc23f3ff4e673a19cf6894683e5fe918\t{\"Parent\":\"WordPress 4.4\"}",
         "fc224e033816c6064804a8f2dbabf39a\t{\"Parent\":\"Coc Coc Browser 38.0\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\"}",
-        "fc299a608fb831444f140fabc3b0db18\t{\"Parent\":\"Swing Browser 2.0\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "fc2ac60c931a093c82ae1397e6b68bfa\t{\"Parent\":\"UC Browser 11.4 for Android\",\"Platform_Version\":\"4.0\",\"RenderingEngine_Name\":\"Blink\",\"RenderingEngine_Description\":\"a WebKit Fork by Google\",\"RenderingEngine_Maker\":\"Google Inc\"}",
+        "fc299a608fb831444f140fabc3b0db18\t{\"Parent\":\"Swing Browser 2.0\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "fc29018dea02acf078ef1dfedd89537d\t{\"Parent\":\"UC Browser 9.9 for Android\",\"Platform_Version\":\"2.3\",\"RenderingEngine_Name\":\"U3\"}",
         "fc22449f589b66965af184a4695935a5\t{\"Parent\":\"UC Browser 9.0 for Android\",\"Platform_Version\":\"4.2\",\"Device_Name\":\"A328\",\"Device_Maker\":\"Lenovo\",\"Device_Code_Name\":\"A328\",\"Device_Brand_Name\":\"Lenovo\",\"RenderingEngine_Name\":\"U3\"}",
         "fc22127456054c015544e5512085d52e\t{\"Parent\":\"UC Browser 8.7 for Android\",\"Platform_Version\":\"4.1\"}",

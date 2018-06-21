@@ -1,8 +1,8 @@
 {
     "content": [
         "2431db44c6d4c23a9abe4b657edeb2ce\t{\"Parent\":\"General Crawlers\",\"Browser\":\"HTTP Service\"}",
-        "243f0798998f4ddfdc47f521f8d32efc\t{\"Parent\":\"Avant 2015\",\"Browser_Bits\":\"64\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "243d7f0091bc8978eae8dafdac1d642a\t{\"Parent\":\"UC Browser 10.1 for Android\",\"Platform_Version\":\"7.0\"}",
+        "243f0798998f4ddfdc47f521f8d32efc\t{\"Parent\":\"Avant 2015\",\"Browser_Bits\":\"64\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "243e08f256622bd36af255b0226c315a\t{\"Parent\":\"AOL Desktop Trident 9.2\",\"Browser_Bits\":\"32\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
         "2438e49dad7a4df2ed50ff6cab722679\t{\"Parent\":\"Flipboard App 2.0\",\"Platform_Version\":\"4.4\"}",
         "2433ed0c5fc5be058e7260e7f30a87ae\t{\"Parent\":\"2345 Explorer 8.1\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",

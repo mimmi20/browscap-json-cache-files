@@ -8,9 +8,9 @@
         "6bfc3425d9f88f388032b915cb9b59b2\t{\"Parent\":\"Baidu Browser Mini 1.0\",\"Platform_Version\":\"5.0\",\"RenderingEngine_Name\":\"T5\",\"RenderingEngine_Description\":\"a WebKit Fork by Baidu\",\"RenderingEngine_Maker\":\"Baidu\"}",
         "6bf3892ab8691f50cfcf2ea5cb4b659b\t{\"Parent\":\"Naver 8.1 for iOS\",\"Platform_Version\":\"9.0\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
         "6bffc831308cc3a2c12dbd5cfd26c33d\t{\"Parent\":\"UC Browser 11.5 for Android\",\"Platform_Version\":\"7.0\",\"Device_Name\":\"Galaxy S7 Edge (Global)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-G935F\",\"Device_Brand_Name\":\"Samsung\",\"RenderingEngine_Name\":\"Blink\",\"RenderingEngine_Description\":\"a WebKit Fork by Google\",\"RenderingEngine_Maker\":\"Google Inc\"}",
-        "6bff5793ce6502402f696ceaab677935\t{\"Parent\":\"Avant 2015\",\"Browser_Bits\":\"32\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
         "6bfe0245bb05baf9d6908a7d00e6e1fe\t{\"Parent\":\"UC Browser 10.8 for Android\",\"Platform_Version\":\"5.1\",\"Device_Name\":\"Canvas Xpress 4G\",\"Device_Maker\":\"Micromax\",\"Device_Code_Name\":\"Q413\",\"Device_Brand_Name\":\"Micromax\"}",
         "6bfef6ae8feb02b74416a46a4296f354\t{\"Parent\":\"UC Browser 10.6 for Android\",\"Platform_Version\":\"6.0\",\"RenderingEngine_Name\":\"U2\"}",
+        "6bff5793ce6502402f696ceaab677935\t{\"Parent\":\"Avant 2015\",\"Browser_Bits\":\"32\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
         "6bf430bb3ed0cee166af9a3ec64d6432\t{\"Parent\":\"UC Browser 9.4 for Android\",\"Platform_Version\":\"2.3\",\"Device_Name\":\"A35\",\"Device_Maker\":\"Micromax\",\"Device_Code_Name\":\"A35\",\"Device_Brand_Name\":\"Micromax\"}",
         "6bf69a96e186ca61d75b60db1457027a\t{\"Parent\":\"UC Browser 8.7 for Android\",\"Platform_Version\":\"4.2\"}",
         "6bf80d3f027222f611eb91334b7202a3\t{\"Parent\":\"UC Browser 2.7 for Android\",\"Platform_Version\":\"4.2\"}",
@@ -57,9 +57,9 @@
         "6bf6ed657a457c359be2f3df770ca7ef\t{\"Parent\":\"PaleMoon 27.3\",\"Browser_Bits\":\"64\",\"Platform\":\"Linux\",\"Platform_Description\":\"Linux\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Linux Foundation\",\"Device_Name\":\"Linux Desktop\",\"Device_Code_Name\":\"Linux Desktop\"}",
         "6bfb3c81fcca4cb808be31f4f0cc0b0b\t{\"Parent\":\"SeaMonkey 2.11\",\"Browser_Bits\":\"64\",\"Platform\":\"Linux\",\"Platform_Description\":\"Linux\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Linux Foundation\",\"Device_Name\":\"Linux Desktop\",\"Device_Code_Name\":\"Linux Desktop\"}",
         "6bf284a9004ac0afe78c953af31f7dc8\t{\"Parent\":\"Sleipnir 2.7\",\"Browser_Bits\":\"32\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
-        "6bf3adc44bf6e425c25b44269881bd5e\t{\"Parent\":\"Firefox 1.0 for Android\",\"Platform_Version\":\"3.2\"}",
         "6bf37ff99b1afad1ec6c36c6d4795626\t{\"Parent\":\"Firefox 16.0 for Android\",\"Platform_Version\":\"2.2\"}",
         "6bf9a26a4c6437b5c07f2a6bf84a1aa9\t{\"Parent\":\"Firefox 36.0 for Android\",\"Platform_Version\":\"4.3\",\"isTablet\":false,\"Device_Name\":\"general Mobile Phone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"general Mobile Phone\"}",
+        "6bf3adc44bf6e425c25b44269881bd5e\t{\"Parent\":\"Firefox 1.0 for Android\",\"Platform_Version\":\"3.2\"}",
         "6bff5cfb91ded83a411a2a0730dc3bb6\t{\"Parent\":\"Firefox 43.0\",\"Browser_Bits\":\"64\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "6bfd7178376758efeb1f8331ad58d577\t{\"Parent\":\"PERFECT Browser 9.1\",\"Platform_Version\":\"9.0\"}"
     ]

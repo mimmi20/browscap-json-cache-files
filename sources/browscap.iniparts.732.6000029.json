@@ -1,9 +1,9 @@
 {
     "content": [
         "7324763972b93eadbe7d7e68f74c6e64\t{\"Parent\":\"Site Monitors\",\"Browser\":\"Yottaa Monitor\",\"Browser_Maker\":\"Yottaa\"}",
+        "732fc3d2eaae7ec7bbe9848a5aa0e7cb\t{\"Parent\":\"Coc Coc Browser 60.0 for Android\",\"Platform_Version\":\"4.0\",\"Device_Name\":\"Galaxy S III\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"GT-I9300\",\"Device_Brand_Name\":\"Samsung\"}",
         "73224e37a68942f50046ddb7c0da2c01\t{\"Parent\":\"Coc Coc Browser 63.0\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.1\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "732f274068ac37d3215a1a23814c93c3\t{\"Parent\":\"DefaultProperties\",\"Comment\":\"Coc Coc Browser 55.0\",\"Browser\":\"Coc Coc Browser\",\"Browser_Type\":\"Browser\",\"Browser_Bits\":\"32\",\"Browser_Maker\":\"Coc Coc Company Limited\",\"Version\":\"55.0\",\"MajorVer\":\"55\",\"Platform\":\"Win32\",\"Platform_Description\":\"Windows\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true,\"Frames\":true,\"IFrames\":true,\"Tables\":true,\"Cookies\":true,\"JavaScript\":true,\"CssVersion\":\"3\",\"AolVersion\":\"0\",\"Device_Name\":\"Windows Desktop\",\"Device_Type\":\"Desktop\",\"Device_Pointing_Method\":\"mouse\",\"Device_Code_Name\":\"Windows Desktop\",\"RenderingEngine_Name\":\"Blink\",\"RenderingEngine_Description\":\"a WebKit Fork by Google\",\"RenderingEngine_Maker\":\"Google Inc\"}",
-        "732fc3d2eaae7ec7bbe9848a5aa0e7cb\t{\"Parent\":\"Coc Coc Browser 60.0 for Android\",\"Platform_Version\":\"4.0\",\"Device_Name\":\"Galaxy S III\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"GT-I9300\",\"Device_Brand_Name\":\"Samsung\"}",
         "73251bb0df1e0f4afd7d0924c5cc0f0b\t{\"Parent\":\"Baidu Browser 6.4\",\"Platform_Version\":\"4.4\"}",
         "732024bdd1f65abec6158e71d9b33146\t{\"Parent\":\"Baidu Browser 4.7\",\"Platform_Version\":\"4.2\"}",
         "7329e862622493db5fbf9e2581b1b533\t{\"Parent\":\"Baidu Browser 4.1\",\"Platform_Version\":\"4.2\"}",
@@ -65,7 +65,7 @@
         "7326bd47c7aaa435533ef40e3f4a3652\t{\"Parent\":\"Pinterest App 4.2 for Darwin\",\"Platform_Version\":\"8.4\"}",
         "7328d1df071f2cdfb65e24aed0e4ff94\t{\"Parent\":\"Lunascape 4.0\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "7326e6d4410f5330fb7e9d384e620571\t{\"Parent\":\"Firefox 53.0\",\"Browser_Bits\":\"32\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.9\",\"Platform_Description\":\"Mac OS X\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
-        "732cc64ea578f3c401cbaf2b113cd788\t{\"Parent\":\"Firefox 32.0 for Android\",\"Platform_Version\":\"4.4\"}",
-        "7327213534af7b93cddc1242a54f2ff1\t{\"Parent\":\"Firefox 51.0\",\"Browser_Bits\":\"32\",\"Platform\":\"Ubuntu\",\"Platform_Version\":\"12.04\",\"Platform_Description\":\"Ubuntu Linux\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Canonical Foundation\",\"Device_Name\":\"Linux Desktop\",\"Device_Code_Name\":\"Linux Desktop\"}"
+        "7327213534af7b93cddc1242a54f2ff1\t{\"Parent\":\"Firefox 51.0\",\"Browser_Bits\":\"32\",\"Platform\":\"Ubuntu\",\"Platform_Version\":\"12.04\",\"Platform_Description\":\"Ubuntu Linux\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Canonical Foundation\",\"Device_Name\":\"Linux Desktop\",\"Device_Code_Name\":\"Linux Desktop\"}",
+        "732cc64ea578f3c401cbaf2b113cd788\t{\"Parent\":\"Firefox 32.0 for Android\",\"Platform_Version\":\"4.4\"}"
     ]
 }

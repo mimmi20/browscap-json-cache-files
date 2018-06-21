@@ -1,8 +1,8 @@
 {
     "content": [
         "5835e300b84059739bd4814b32062ac5\t{\"Parent\":\"python-requests 1.1\",\"Browser_Bits\":\"64\",\"Platform\":\"Linux\",\"Platform_Description\":\"Linux\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Linux Foundation\"}",
-        "58398296ff0e3bdc29c7f0e5221efd7c\t{\"Parent\":\"Amigo 50.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win10\",\"Platform_Version\":\"6.4\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "5836b99fd040afe32b038921b44714c4\t{\"Parent\":\"Coc Coc Browser 50.0\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.11\",\"Platform_Description\":\"Mac OS X\",\"Platform_Maker\":\"Apple Inc\",\"Win32\":false,\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
+        "58398296ff0e3bdc29c7f0e5221efd7c\t{\"Parent\":\"Amigo 50.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win10\",\"Platform_Version\":\"6.4\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "583fa4d2f1a7f3855b45dd8a2545cc6d\t{\"Parent\":\"Baidu Browser 4.2\",\"Platform_Version\":\"7.0\",\"RenderingEngine_Name\":\"Blink\",\"RenderingEngine_Description\":\"a WebKit Fork by Google\",\"RenderingEngine_Maker\":\"Google Inc\"}",
         "583d86479cc732cbb502fdb7b6085f85\t{\"Parent\":\"UC Browser 10.2 for Android\",\"Platform_Version\":\"4.2\",\"Device_Name\":\"GSmart T4\",\"Device_Maker\":\"Gigabyte\",\"Device_Code_Name\":\"GSmart T4\",\"Device_Brand_Name\":\"Gigabyte\",\"RenderingEngine_Name\":\"U2\"}",
         "583089395895714f242a6a64bb0c0cfb\t{\"Parent\":\"UC Browser 10.1 for Android\",\"Platform_Version\":\"5.0\",\"Device_Name\":\"Galaxy Note\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"GT-N7000\",\"Device_Brand_Name\":\"Samsung\"}",

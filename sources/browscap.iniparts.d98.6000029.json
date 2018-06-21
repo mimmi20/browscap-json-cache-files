@@ -30,8 +30,8 @@
         "d98c707fa94d376e1f31caa0f2279f0f\t{\"Parent\":\"Puffin 7.0 for Android\",\"Platform_Version\":\"4.3\",\"Device_Name\":\"Galaxy S4\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"GT-I9505\",\"Device_Brand_Name\":\"Samsung\"}",
         "d98315b389e3b9923634363f262565e4\t{\"Parent\":\"Puffin 4.4 for iOS\",\"Platform_Version\":\"11.1\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
         "d98ae90c5e8edc869e156297015b448e\t{\"Parent\":\"Iron 49.0\",\"Browser_Bits\":\"32\",\"Platform\":\"Win10\",\"Platform_Version\":\"6.4\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
-        "d98b68c9902b0ca9c72e0262edc3783d\t{\"Parent\":\"Iron 29.0\",\"Browser_Bits\":\"32\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "d98701414df86da9484476a18bf7a79b\t{\"Parent\":\"MobileIron 1.7 for iOS\",\"Platform_Version\":\"8.0\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
+        "d98b68c9902b0ca9c72e0262edc3783d\t{\"Parent\":\"Iron 29.0\",\"Browser_Bits\":\"32\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "d9879f2a7b979f13c2f03d69ba06cb85\t{\"Parent\":\"Iron 4.0\",\"Browser_Bits\":\"32\",\"Platform\":\"Linux\",\"Platform_Description\":\"Linux\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Linux Foundation\",\"Beta\":true,\"Device_Name\":\"Linux Desktop\",\"Device_Code_Name\":\"Linux Desktop\"}",
         "d9883973b0315c619e9b473773e40f0c\t{\"Parent\":\"Silk 64.2\",\"Platform_Version\":\"4.1\",\"isTablet\":true,\"Device_Name\":\"Kindle Fire 7\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"KFOT\"}",
         "d98f2d1819d17fd43322886f4520ace1\t{\"Parent\":\"Silk 3.22\",\"Browser_Modus\":\"Desktop Mode\"}",
@@ -64,8 +64,8 @@
         "d98750419d9bd90cb7ea2f4367d59fcb\t{\"Parent\":\"Firefox 10.0\",\"Browser_Bits\":\"64\",\"Platform\":\"OpenBSD\",\"Platform_Description\":\"OpenBSD\",\"Platform_Bits\":\"64\",\"Device_Name\":\"general Desktop\",\"Device_Code_Name\":\"general Desktop\"}",
         "d98a7ab879d8f61e213a3c5d85a4c031\t{\"Parent\":\"GoodReader Generic\",\"Platform_Version\":\"8.4\"}",
         "d987246f65e217d17697bcca0baf8314\t{\"Parent\":\"Lenovo\"}",
-        "d98d9f84c385497ea8a3d01b1217ced0\t{\"Parent\":\"ESPN Radio 4.5\",\"Platform_Version\":\"9.1\"}",
         "d98dbe8b39b906d1ad4a12d37ad1a4bb\t{\"Parent\":\"FancyMusic 1.5\",\"Browser_Bits\":\"32\",\"Platform\":\"iOS\",\"Platform_Version\":\"9.1\",\"Platform_Description\":\"iPod, iPhone \\u0026 iPad\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
+        "d98d9f84c385497ea8a3d01b1217ced0\t{\"Parent\":\"ESPN Radio 4.5\",\"Platform_Version\":\"9.1\"}",
         "d987c9104b94791b92b1e2cadf455e53\t{\"Parent\":\"TenFourFox 38.1\",\"Platform_Version\":\"10.6\"}"
     ]
 }

@@ -1,7 +1,7 @@
 {
     "content": [
-        "860a8538b3f80e033f6b903280a09985\t{\"Parent\":\"Amigo 33.0\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\"}",
         "86075c53336556f86059381ba5218b59\t{\"Parent\":\"Coc Coc Browser 34.0\"}",
+        "860a8538b3f80e033f6b903280a09985\t{\"Parent\":\"Amigo 33.0\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\"}",
         "860cb5fcb1c8baa0560a83192d5a7e09\t{\"Parent\":\"UC Browser 9.7 for Android\",\"Platform_Version\":\"4.4\",\"Device_Name\":\"Canvas 2 Colors\",\"Device_Maker\":\"Micromax\",\"Device_Code_Name\":\"A120\",\"Device_Brand_Name\":\"Micromax\"}",
         "86067df4e841060623301ead5fea162b\t{\"Parent\":\"UC Browser 9.2 for Android\",\"Platform_Version\":\"4.0\",\"Device_Name\":\"Live\",\"Device_Maker\":\"SonyEricsson\",\"Device_Code_Name\":\"WT19i\",\"Device_Brand_Name\":\"SonyEricsson\",\"RenderingEngine_Name\":\"U3\"}",
         "860fadf0f6a4e8fe6743040dc418c772\t{\"Parent\":\"Comodo Dragon 42.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",

@@ -1,13 +1,13 @@
 {
     "content": [
         "571c4410d606b96ac868d257cc69b104\t{\"Parent\":\"Chromium 23.0\",\"Platform\":\"Ubuntu\",\"Platform_Version\":\"11.10\",\"Platform_Description\":\"Ubuntu Linux\",\"Platform_Maker\":\"Canonical Foundation\"}",
-        "571b716359b6575e9542237f872a79c7\t{\"Parent\":\"Kinza 2.3\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\"}",
         "57160999bfce533434dcf12ae281af25\t{\"Parent\":\"WhiteHat Aviator 32.0\",\"Browser_Bits\":\"32\",\"Platform\":\"macOS\",\"Platform_Version\":\"10.12\",\"Platform_Description\":\"macOS\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
+        "571b716359b6575e9542237f872a79c7\t{\"Parent\":\"Kinza 2.3\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\"}",
         "5715983d1b18b3cd4030bd6869545956\t{\"Parent\":\"Naver 8.4 for Android\"}",
         "5715801562e73a32dcbfa61f47315f41\t{\"Parent\":\"Tenta Browser for Android\",\"Platform_Version\":\"4.4\"}",
         "5711c0d4b0dde234d70c1c472d858ee3\t{\"Parent\":\"UC Browser 11.2 for Android\",\"JavaApplets\":true,\"RenderingEngine_Name\":\"WebKit\",\"RenderingEngine_Description\":\"For Google Chrome, iOS (including both mobile Safari, WebViews within third-party apps, and web clips), Safari, Arora, Midori, OmniWeb, Shiira, iCab since version 4, Web, SRWare Iron, Rekonq, and in Maxthon 3.\",\"RenderingEngine_Maker\":\"Apple Inc\"}",
-        "5711364833a96e5f5d25104cc2a879a3\t{\"Parent\":\"UC Browser Mini 9.6\",\"Browser_Modus\":\"SpeedMode\",\"Platform_Version\":\"4.4\",\"Device_Name\":\"ONE LTE HD\",\"Device_Maker\":\"Innjoo\",\"Device_Code_Name\":\"ONE LTE HD\",\"Device_Brand_Name\":\"Innjoo\"}",
         "571b406a38a6942e7da5a5616982bf00\t{\"Parent\":\"UC Browser 10.3 for Android\",\"Platform_Version\":\"2.3\",\"Device_Name\":\"Bolt A62\",\"Device_Maker\":\"Micromax\",\"Device_Code_Name\":\"A62\",\"Device_Brand_Name\":\"Micromax\"}",
+        "5711364833a96e5f5d25104cc2a879a3\t{\"Parent\":\"UC Browser Mini 9.6\",\"Browser_Modus\":\"SpeedMode\",\"Platform_Version\":\"4.4\",\"Device_Name\":\"ONE LTE HD\",\"Device_Maker\":\"Innjoo\",\"Device_Code_Name\":\"ONE LTE HD\",\"Device_Brand_Name\":\"Innjoo\"}",
         "571f1edc6ae07b8939c45f82fe8903b7\t{\"Parent\":\"UC Browser 2.9 for Android\",\"Platform_Version\":\"4.0\",\"JavaApplets\":false,\"RenderingEngine_Name\":\"U3\",\"RenderingEngine_Description\":\"a WebKit Fork by UC Web\",\"RenderingEngine_Maker\":\"UCWeb Inc.\"}",
         "571c574cdfc151869facc147b99ee7cb\t{\"Parent\":\"UC Browser 2.8 for iOS\",\"Platform_Version\":\"9.2\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
         "57140c2aceef13557b79a84ab3dfc018\t{\"Parent\":\"Comodo Dragon 24.2\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\"}",

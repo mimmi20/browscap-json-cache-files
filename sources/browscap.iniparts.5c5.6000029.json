@@ -1,7 +1,7 @@
 {
     "content": [
-        "5c5b524d517757475123f17dcdcaea72\t{\"Parent\":\"Amigo 53.0\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "5c54eea4c56f1aa2d1de6caa93ecf49d\t{\"Parent\":\"Coc Coc Browser 33.0\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\"}",
+        "5c5b524d517757475123f17dcdcaea72\t{\"Parent\":\"Amigo 53.0\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "5c519963234a49bbb7b964e531a54c31\t{\"Parent\":\"Baidu Browser 6.0 for iOS\"}",
         "5c529735691b80931aea5ad49d777c2e\t{\"Parent\":\"Google App for Android\",\"Browser_Bits\":\"32\",\"Platform\":\"Android\",\"Platform_Version\":\"4.4\",\"Platform_Description\":\"Android OS\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Google Inc\",\"isTablet\":true,\"Device_Name\":\"Galaxy Tab 3 7.0 3G\",\"Device_Maker\":\"Samsung\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"SM-T211\",\"Device_Brand_Name\":\"Samsung\"}",
         "5c59d2c596c66150e867b0f0e843fed4\t{\"Parent\":\"UC Browser 10.8 for Android\",\"Platform_Version\":\"5.0\",\"isTablet\":true,\"Device_Name\":\"Galaxy Tab S 8.4 LTE\",\"Device_Maker\":\"Samsung\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"SM-T705\",\"Device_Brand_Name\":\"Samsung\"}",
@@ -13,9 +13,9 @@
         "5c53f62acb8584d33fdb4f7ea2aceec2\t{\"Parent\":\"UC Browser 2.7 for Android\",\"Platform_Version\":\"4.3\",\"JavaApplets\":false,\"RenderingEngine_Name\":\"U3\",\"RenderingEngine_Description\":\"a WebKit Fork by UC Web\",\"RenderingEngine_Maker\":\"UCWeb Inc.\"}",
         "5c5697366a837864913b7e69710d987f\t{\"Parent\":\"Flipboard App 3.2\"}",
         "5c59251bbfb5813b65c941edae29c29a\t{\"Parent\":\"Comodo Dragon 22.1 (as Chrome)\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.1\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
-        "5c5c36015b5ce928cb23b607cedacf51\t{\"Parent\":\"APUSBrowser 1.1\",\"Browser_Bits\":\"64\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "5c5193d49e7e2c518d9ce213f115ca9c\t{\"Parent\":\"Samsung Browser 7.0\",\"Platform_Version\":\"5.1\",\"Device_Name\":\"Galaxy S6 Edge Plus CDMA+LTE (Sprint)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-G928P\",\"Device_Brand_Name\":\"Samsung\"}",
         "5c578db40ecd62607e5ec3df12e61f5b\t{\"Parent\":\"Samsung Browser 6.4\",\"Platform_Version\":\"5.0\",\"Device_Name\":\"Galaxy S5 LTE\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-G900F\",\"Device_Brand_Name\":\"Samsung\"}",
+        "5c5c36015b5ce928cb23b607cedacf51\t{\"Parent\":\"APUSBrowser 1.1\",\"Browser_Bits\":\"64\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "5c55e5fd145f1490bbf9b90f0cea5698\t{\"Parent\":\"Android WebView 1.6\",\"Platform_Version\":\"4.4\",\"Device_Name\":\"SMART E5\",\"Device_Maker\":\"eFOX\",\"Device_Code_Name\":\"SMART E5\",\"Device_Brand_Name\":\"eFOX\"}",
         "5c591888776e432b1239a48420b69f75\t{\"Parent\":\"Android WebView 1.6\",\"Platform_Version\":\"4.1\",\"Device_Name\":\"Cynus T2\",\"Device_Maker\":\"Mobistel\",\"Device_Code_Name\":\"Cynus T2\",\"Device_Brand_Name\":\"Elson\"}",
         "5c576e548c9125e4dbf5b3432bcb9336\t{\"Parent\":\"Yandex Browser 15.2 for Android\",\"Platform_Version\":\"4.1\",\"isTablet\":true,\"Device_Name\":\"Galaxy Tab 3 7.0 3G\",\"Device_Maker\":\"Samsung\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"SM-T211\",\"Device_Brand_Name\":\"Samsung\"}",

@@ -6,15 +6,15 @@
         "6c1aa43ace2783c6a26837dbc40b4a77\t{\"Parent\":\"Baidu Browser HD 4.0 for iOS\",\"Platform_Version\":\"11.0\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
         "6c1a9d578f4343fad6624eabe16471ae\t{\"Parent\":\"Naver 6.8 for iOS\",\"Platform_Version\":\"8.1\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
         "6c1c705e314c2417843e565cd47b3bfe\t{\"Parent\":\"UC Browser 11.0 for Android\",\"Platform_Version\":\"4.4\",\"Device_Name\":\"Galaxy Grand Prime Dual\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-G530H\",\"Device_Brand_Name\":\"Samsung\"}",
-        "6c12fda2231d64f1187eab0730540312\t{\"Parent\":\"UC Browser Mini 9.4\",\"Browser_Modus\":\"SpeedMode\",\"Platform_Version\":\"5.0\",\"Device_Name\":\"Galaxy Gran Prime Duos TV\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-G530BT\",\"Device_Brand_Name\":\"Samsung\"}",
         "6c13f9d21ba86e998329a588460f8d7d\t{\"Parent\":\"UC Browser 10.7 for Android\",\"Platform_Version\":\"4.2\",\"Device_Name\":\"A516\",\"Device_Maker\":\"Lenovo\",\"Device_Code_Name\":\"A516\",\"Device_Brand_Name\":\"Lenovo\"}",
+        "6c12fda2231d64f1187eab0730540312\t{\"Parent\":\"UC Browser Mini 9.4\",\"Browser_Modus\":\"SpeedMode\",\"Platform_Version\":\"5.0\",\"Device_Name\":\"Galaxy Gran Prime Duos TV\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-G530BT\",\"Device_Brand_Name\":\"Samsung\"}",
         "6c1c27b5e605ca9d148ed6ee5d7f7aa6\t{\"Parent\":\"UC Browser 9.5 for Android\",\"Platform_Version\":\"2.3\",\"Device_Name\":\"Bolt A27\",\"Device_Maker\":\"Micromax\",\"Device_Code_Name\":\"A27\",\"Device_Brand_Name\":\"Micromax\"}",
         "6c1887ca8d4e71626beaa4c5b7d01cb0\t{\"Parent\":\"UC Browser 8.4 for Symbian\",\"Device_Name\":\"N71\",\"Device_Maker\":\"Nokia\",\"Device_Pointing_Method\":\"unknown\",\"Device_Code_Name\":\"N71\",\"Device_Brand_Name\":\"Nokia\"}",
         "6c1160aa0a33d2390353b914741ff2d2\t{\"Parent\":\"Comodo Dragon 22.1\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\"}",
         "6c1e6819e42f46da4f291396f232961d\t{\"Parent\":\"Tizen Browser 2.1\",\"Platform_Version\":\"2.3\",\"Device_Name\":\"Z1\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-Z130H\",\"Device_Brand_Name\":\"Samsung\"}",
+        "6c1f02a698408ee0b72d1e6ee857704e\t{\"Parent\":\"Samsung Browser 4.2\",\"Platform_Version\":\"5.1\",\"Device_Name\":\"Galaxy S5 LTE (T-Mobile)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-G900T\",\"Device_Brand_Name\":\"Samsung\"}",
         "6c1d7290f08f067d194f810f6b8b6ed7\t{\"Parent\":\"Android WebView 2.0\",\"Platform_Version\":\"4.1\",\"Device_Name\":\"Xperia E\",\"Device_Maker\":\"Sony\",\"Device_Code_Name\":\"C1505\",\"Device_Brand_Name\":\"Sony\"}",
         "6c13e4fdee62eb5c86c2befc83a90adf\t{\"Parent\":\"Android WebView 1.5\",\"Platform_Version\":\"4.3\",\"isTablet\":true,\"Device_Name\":\"U30GT\",\"Device_Maker\":\"Cube\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"U30GT\",\"Device_Brand_Name\":\"Cube\"}",
-        "6c1f02a698408ee0b72d1e6ee857704e\t{\"Parent\":\"Samsung Browser 4.2\",\"Platform_Version\":\"5.1\",\"Device_Name\":\"Galaxy S5 LTE (T-Mobile)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-G900T\",\"Device_Brand_Name\":\"Samsung\"}",
         "6c1f1c9db93d93845528f387539206af\t{\"Parent\":\"Android WebView 1.0\",\"Platform_Version\":\"4.0\",\"isTablet\":true,\"Device_Name\":\"Picasso_E\",\"Device_Maker\":\"Acer\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"A200\",\"Device_Brand_Name\":\"Acer\"}",
         "6c107b1f213948027dcf7ff42d928a7c\t{\"Parent\":\"QQBrowser 7.3\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"BackgroundSounds\":true,\"VBScript\":true,\"JavaApplets\":true,\"ActiveXControls\":true,\"RenderingEngine_Name\":\"Trident\",\"RenderingEngine_Version\":\"7.0\",\"RenderingEngine_Description\":\"For Internet Explorer since version 4.0 and embedded WebBrowser controls (such as Internet Explorer shells, Maxthon and some media players).\",\"RenderingEngine_Maker\":\"Microsoft Corporation\"}",
         "6c1dc2477d6b3dad970bfe40c6d9289f\t{\"Parent\":\"Yandex Browser 16.2 for iOS\",\"Platform_Version\":\"7.0\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
@@ -67,7 +67,7 @@
         "6c1b6dc70485c1ff26394d55cd1c844f\t{\"Parent\":\"iTunes 1.2\",\"Browser_Bits\":\"32\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.4\",\"Platform_Description\":\"Mac OS X\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\"}",
         "6c19f820b97589e233e3de14bcf7a54f\t{\"Parent\":\"AOL App\",\"Platform_Version\":\"10.0\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
         "6c1e5dbd643b61e42e3b874a7e9abb72\t{\"Parent\":\"TopPodcasts Generic\",\"Platform_Version\":\"8.2\"}",
-        "6c153990b6bf6165d51a7de760c544e4\t{\"Parent\":\"PodcastOne Generic\",\"Platform_Version\":\"7.0\"}",
-        "6c1b38ef144af3715eaff904aacc8d99\t{\"Parent\":\"Sports Talk 1050\",\"Platform_Version\":\"6.1\"}"
+        "6c1b38ef144af3715eaff904aacc8d99\t{\"Parent\":\"Sports Talk 1050\",\"Platform_Version\":\"6.1\"}",
+        "6c153990b6bf6165d51a7de760c544e4\t{\"Parent\":\"PodcastOne Generic\",\"Platform_Version\":\"7.0\"}"
     ]
 }

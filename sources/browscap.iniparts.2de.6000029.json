@@ -56,7 +56,7 @@
         "2de3f13e9b94a2888edfb02ff6e7b57b\t{\"Parent\":\"UnisterPortale\",\"Browser\":\"Core_Class_HttpClient_Cached\"}",
         "2de424da4dfcf2e90548966bdb6ae67a\t{\"Parent\":\"Firefox 44.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "2de5a60f923b6442889bcf50c6743863\t{\"Parent\":\"Firefox 35.0\",\"Browser_Bits\":\"32\",\"Platform\":\"macOS\",\"Platform_Version\":\"10.13\",\"Platform_Description\":\"macOS\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
-        "2de7e6d5530ce364ed9cd65ffa49bf81\t{\"Parent\":\"Firefox 21.0\",\"Browser_Bits\":\"32\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.6\",\"Platform_Description\":\"Mac OS X\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
-        "2de71782a1b448052b2c4dd7e2087783\t{\"Parent\":\"Firefox 9.0\",\"isAnonymized\":true,\"Device_Name\":\"general Desktop\",\"Device_Code_Name\":\"general Desktop\"}"
+        "2de71782a1b448052b2c4dd7e2087783\t{\"Parent\":\"Firefox 9.0\",\"isAnonymized\":true,\"Device_Name\":\"general Desktop\",\"Device_Code_Name\":\"general Desktop\"}",
+        "2de7e6d5530ce364ed9cd65ffa49bf81\t{\"Parent\":\"Firefox 21.0\",\"Browser_Bits\":\"32\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.6\",\"Platform_Description\":\"Mac OS X\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}"
     ]
 }

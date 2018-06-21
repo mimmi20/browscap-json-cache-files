@@ -2,9 +2,9 @@
     "content": [
         "86109f080f01343aee12a14f21544a95\t{\"Parent\":\"python-requests 2.6\",\"Browser_Bits\":\"64\",\"Platform\":\"Linux\",\"Platform_Description\":\"Linux\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Linux Foundation\"}",
         "8619c0eda2117c5a48925a46142c7d5b\t{\"Parent\":\"Kinza 2.7\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\"}",
+        "861ed80ed8a14511229925f3f100b816\t{\"Parent\":\"Coc Coc Browser 38.0\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\"}",
         "861d5bff95b186308d0efbda4b2cb719\t{\"Parent\":\"CM Browser\",\"Platform_Version\":\"4.4\",\"JavaApplets\":false,\"Device_Name\":\"Desire 820\",\"Device_Maker\":\"HTC\",\"Device_Code_Name\":\"Desire 820\",\"Device_Brand_Name\":\"HTC\",\"RenderingEngine_Name\":\"Blink\",\"RenderingEngine_Description\":\"a WebKit Fork by Google\",\"RenderingEngine_Maker\":\"Google Inc\"}",
         "86183c06ce5faff04df93944b5ea5050\t{\"Parent\":\"Amigo 36.0\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\"}",
-        "861ed80ed8a14511229925f3f100b816\t{\"Parent\":\"Coc Coc Browser 38.0\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\"}",
         "861d175dbf537653006036df1553efcd\t{\"Parent\":\"Baidu Browser 5.3 for iOS\",\"Platform_Version\":\"8.0\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
         "86180a8da47f210c68e34b97214f9042\t{\"Parent\":\"UC Browser 10.0 for iOS\",\"Platform_Version\":\"11.1\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
         "8616f444010c8ccf695fce73e794188e\t{\"Parent\":\"Maxthon 4.5 for iOS\",\"Platform_Version\":\"9.2\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",

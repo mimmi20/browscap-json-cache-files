@@ -1,16 +1,16 @@
 {
     "content": [
-        "13d0231c533d04c222e27bbb04d2cbf3\t{\"Parent\":\"Comodo Spider\",\"Version\":\"1.2\",\"MajorVer\":\"1\",\"MinorVer\":\"2\"}",
         "13d3565fc66076fff4d7dd9560c2b002\t{\"Parent\":\"General Crawlers\",\"Browser\":\"Arachnida Web Crawler\"}",
+        "13d0231c533d04c222e27bbb04d2cbf3\t{\"Parent\":\"Comodo Spider\",\"Version\":\"1.2\",\"MajorVer\":\"1\",\"MinorVer\":\"2\"}",
         "13d7cc51a03b0dfadfed14fc2ab36251\t{\"Parent\":\"UC Browser 10.4 for Android\",\"Platform_Version\":\"4.1\",\"isTablet\":true,\"Device_Name\":\"Surfer 7.34 3G\",\"Device_Maker\":\"Explay\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"Surfer 7.34 3G\",\"Device_Brand_Name\":\"Explay\"}",
         "13d11f2a91f3cb3f01f7ea0ef0306b20\t{\"Parent\":\"UC Browser 9.0 for Android\",\"Platform_Version\":\"4.3\"}",
         "13da4bec62afa3bd6b9a03e2fa8f2ad6\t{\"Parent\":\"UC Browser 8.3 for iOS\",\"Platform_Version\":\"6.1\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
         "13d026ed0ce37a7c5b6357bf4a93f60d\t{\"Parent\":\"Mobicip for iOS\",\"Platform_Version\":\"9.2\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
         "13dad002071716468062c385f078ccf7\t{\"Parent\":\"Facebook App for Android\",\"Platform_Version\":\"5.1\",\"Device_Name\":\"Tribute 5 (MetroPCS)\",\"Device_Maker\":\"LG\",\"Device_Code_Name\":\"MS330\",\"Device_Brand_Name\":\"LG\"}",
         "13dab05d3241270bc524d62fddc4b5fe\t{\"Parent\":\"Facebook App for Android\",\"Platform_Version\":\"4.2\",\"Device_Name\":\"Canvas Knight\",\"Device_Maker\":\"Micromax\",\"Device_Code_Name\":\"A350\",\"Device_Brand_Name\":\"Micromax\"}",
-        "13d6ae5f2ed4364d88e649e54a4d9c35\t{\"Parent\":\"Android WebView 2.1\",\"Platform_Version\":\"4.3\",\"isTablet\":true,\"Device_Name\":\"Noon\",\"Device_Maker\":\"Odys\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"Noon\",\"Device_Brand_Name\":\"Odys\"}",
         "13d4f240d83dc3248aa63a267b007fac\t{\"Parent\":\"Samsung Browser 4.2\",\"Platform_Version\":\"4.4\",\"Device_Name\":\"Galaxy A5 Duos\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-A500G\",\"Device_Brand_Name\":\"Samsung\"}",
         "13d5dbe154253fb397412e18de244c9b\t{\"Parent\":\"Samsung Browser 3.4\",\"Platform_Version\":\"4.4\",\"Device_Name\":\"Galaxy A5 (Australia)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-A500Y\",\"Device_Brand_Name\":\"Samsung\"}",
+        "13d6ae5f2ed4364d88e649e54a4d9c35\t{\"Parent\":\"Android WebView 2.1\",\"Platform_Version\":\"4.3\",\"isTablet\":true,\"Device_Name\":\"Noon\",\"Device_Maker\":\"Odys\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"Noon\",\"Device_Brand_Name\":\"Odys\"}",
         "13dd00386b4d0cd1d5e1bf234636388f\t{\"Parent\":\"QQBrowser 6.4 for Android\",\"Browser_Bits\":\"32\",\"Platform\":\"Android\",\"Platform_Version\":\"7.1\",\"Platform_Description\":\"Android OS\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Google Inc\"}",
         "13d1521435461e98b30a2dafc326e0a7\t{\"Parent\":\"Yandex Browser 18.1 for Android\",\"Platform_Version\":\"4.1\",\"isTablet\":true,\"Device_Name\":\"iP1020-8GB\",\"Device_Maker\":\"DEX\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iP1020-8GB\",\"Device_Brand_Name\":\"DEX\"}",
         "13dbbe624dc128b296efec8c597d81f1\t{\"Parent\":\"Yandex Browser 17.6 for Android\",\"Platform_Version\":\"4.1\",\"Device_Name\":\"A398t+\",\"Device_Maker\":\"Lenovo\",\"Device_Code_Name\":\"A398t+\",\"Device_Brand_Name\":\"Lenovo\"}",

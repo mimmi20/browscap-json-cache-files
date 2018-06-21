@@ -1,7 +1,7 @@
 {
     "content": [
-        "8fe3c09ac20c0f27aae94bb886c4fb04\t{\"Parent\":\"Amigo 43.0\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\"}",
         "8fecbcaab9672a98e40676838fe1b4cb\t{\"Parent\":\"WhiteHat Aviator 37.0\",\"Browser_Bits\":\"32\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
+        "8fe3c09ac20c0f27aae94bb886c4fb04\t{\"Parent\":\"Amigo 43.0\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\"}",
         "8fe7c0a12418a58e6d593ad953492500\t{\"Parent\":\"Baidu Browser 7.9\",\"JavaApplets\":true,\"RenderingEngine_Name\":\"WebKit\",\"RenderingEngine_Description\":\"For Google Chrome, iOS (including both mobile Safari, WebViews within third-party apps, and web clips), Safari, Arora, Midori, OmniWeb, Shiira, iCab since version 4, Web, SRWare Iron, Rekonq, and in Maxthon 3.\",\"RenderingEngine_Maker\":\"Apple Inc\"}",
         "8fe38e601df93696307ec07ce60814de\t{\"Parent\":\"Naver 8.0 for iOS\",\"Platform_Version\":\"11.2\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
         "8fe31acc9a59be3879d77ba6f5fcdf7c\t{\"Parent\":\"UC Browser 10.5 for Android\",\"Platform_Version\":\"4.4\",\"Device_Name\":\"L70 Dual\",\"Device_Maker\":\"LG\",\"Device_Code_Name\":\"D325\",\"Device_Brand_Name\":\"LG\"}",

@@ -57,8 +57,8 @@
         "46e9266d4941647085ee3fdef85a8da9\t{\"Parent\":\"Iceweasel 41.0\",\"Platform_Bits\":\"64\"}",
         "46ef2a0182955f3b63fa124ab39c9f87\t{\"Parent\":\"Iceweasel 39.0\",\"Browser_Bits\":\"64\",\"Platform_Bits\":\"64\"}",
         "46e1d62be6938896ea1b3e24b3d1c3e6\t{\"Parent\":\"Firefox 41.0\",\"Browser_Bits\":\"64\",\"Platform\":\"FreeBSD\",\"Platform_Description\":\"FreeBSD\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"FreeBSD Foundation\",\"Device_Name\":\"general Desktop\",\"Device_Code_Name\":\"general Desktop\"}",
-        "46e2a7e2637fb976c8bea25086a5981b\t{\"Parent\":\"Firefox 21.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "46e39af83aadbced7043d59fba08d28a\t{\"Parent\":\"Firefox 5.0\",\"Browser_Bits\":\"32\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
+        "46e2a7e2637fb976c8bea25086a5981b\t{\"Parent\":\"Firefox 21.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "46e7a6160fda185c14004d56d3486001\t{\"Parent\":\"Firefox 0.9\",\"Browser_Bits\":\"32\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "46eb91fdebd3edae965649cc8bc420a5\t{\"Parent\":\"GSmart\"}",
         "46e83e5c8fbfa66962ac76aec5ae0b51\t{\"Parent\":\"Netscape 9.0\",\"Browser_Bits\":\"32\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}"

@@ -60,7 +60,7 @@
         "1889c4efd11d93f386316fea334bc3b1\t{\"Parent\":\"Fennec 25.0\",\"Device_Pointing_Method\":\"unknown\"}",
         "1884207d50a2c5fcb41b7a3bb5f340b0\t{\"Parent\":\"Waterfox 50.1\",\"Browser_Bits\":\"32\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.6\",\"Platform_Description\":\"Mac OS X\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
         "18856dcfa2cef85ab20a155f3ccd3af4\t{\"Parent\":\"Firefox 32.0 for Android\",\"Platform_Version\":\"4.3\",\"isTablet\":false,\"Device_Name\":\"general Mobile Phone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"general Mobile Phone\"}",
-        "188754b923ca0339494eb3168aaacc7f\t{\"Parent\":\"Firefox 23.0\",\"Browser_Bits\":\"32\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.1\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
-        "1888a3b25cd253aa4362d5ae3362e270\t{\"Parent\":\"Firefox 5.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}"
+        "1888a3b25cd253aa4362d5ae3362e270\t{\"Parent\":\"Firefox 5.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
+        "188754b923ca0339494eb3168aaacc7f\t{\"Parent\":\"Firefox 23.0\",\"Browser_Bits\":\"32\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.1\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}"
     ]
 }

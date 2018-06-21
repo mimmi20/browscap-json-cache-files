@@ -1,7 +1,7 @@
 {
     "content": [
-        "c429761b65ac54e2cf335d18b59aac08\t{\"Parent\":\"Amigo 46.0\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\"}",
         "c42eed35e2f8fbe343d8f33698978743\t{\"Parent\":\"Coc Coc Browser 53.0\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.4\",\"Platform_Description\":\"Mac OS X\",\"Platform_Maker\":\"Apple Inc\",\"Win32\":false,\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
+        "c429761b65ac54e2cf335d18b59aac08\t{\"Parent\":\"Amigo 46.0\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\"}",
         "c42fed441750fa684ea8dcd1cf12c6bd\t{\"Parent\":\"Baidu Browser 7.7\",\"Platform_Version\":\"4.2\",\"isTablet\":true,\"Device_Name\":\"M723G\",\"Device_Maker\":\"Supra\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"M723G\",\"Device_Brand_Name\":\"Supra\"}",
         "c42651a47fb77800a0dac1b62ff411fe\t{\"Parent\":\"Baidu Browser 7.7 for iOS\"}",
         "c42e8c9bed17368a97ade019949925e0\t{\"Parent\":\"Swing Browser 3.1\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\"}",
@@ -12,10 +12,10 @@
         "c429da8a200a50b3db7a787d89e41659\t{\"Parent\":\"Samsung Browser 6.4\",\"Platform_Version\":\"6.0\",\"Device_Name\":\"Galaxy Note 5 Duos (China)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-N9200\",\"Device_Brand_Name\":\"Samsung\"}",
         "c42558b05115c55e14a7173df9960be8\t{\"Parent\":\"WeChat App 6.6\",\"Browser_Bits\":\"32\",\"Platform\":\"iOS\",\"Platform_Version\":\"9.3\",\"Platform_Description\":\"iPod, iPhone \\u0026 iPad\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Maker\":\"Apple Inc\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\",\"Device_Brand_Name\":\"Apple\"}",
         "c42e3b1a0356f89424cd1eca64371f94\t{\"Parent\":\"Facebook Messenger App for iOS\",\"Platform_Version\":\"10.0\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
+        "c4239360c6409214d265c3557e8ec60e\t{\"Parent\":\"Samsung Browser 6.0\",\"Platform_Version\":\"6.0\",\"Device_Name\":\"Galaxy A5 Duos\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-A5000\",\"Device_Brand_Name\":\"Samsung\"}",
         "c42e89c9cdf88a38b120f76f96d13090\t{\"Parent\":\"Android WebView 2.1\",\"Platform_Version\":\"4.0\",\"Device_Name\":\"Eluga\",\"Device_Maker\":\"Panasonic\",\"Device_Code_Name\":\"dL1\",\"Device_Brand_Name\":\"Panasonic\"}",
         "c42213e5f04aeb36d55bc5a3c45e8eec\t{\"Parent\":\"Android WebView 2.0\",\"Platform_Version\":\"4.0\",\"isTablet\":true,\"Device_Name\":\"Xoom 2\",\"Device_Maker\":\"Motorola\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"Xoom 2\",\"Device_Brand_Name\":\"Motorola\"}",
         "c4212c9a1d65aeb6e4a13b51d26a13b0\t{\"Parent\":\"Android WebView 1.5\",\"Platform_Version\":\"4.1\",\"isTablet\":true,\"Device_Name\":\"A210\",\"Device_Maker\":\"Acer\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"A210\",\"Device_Brand_Name\":\"Acer\"}",
-        "c4239360c6409214d265c3557e8ec60e\t{\"Parent\":\"Samsung Browser 6.0\",\"Platform_Version\":\"6.0\",\"Device_Name\":\"Galaxy A5 Duos\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-A5000\",\"Device_Brand_Name\":\"Samsung\"}",
         "c42ac58a847807cc6f41e365ded5484c\t{\"Parent\":\"QQBrowser 6.4\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\"}",
         "c42129377a58a65df411dc18021570f8\t{\"Parent\":\"Yandex Browser 15.4 for iOS\",\"Platform_Version\":\"10.3\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
         "c42183c7fdbea44d9a3668fae9086301\t{\"Parent\":\"Yandex Browser Generic for iOS\",\"Platform_Version\":\"10.0\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",

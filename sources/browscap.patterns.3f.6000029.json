@@ -1,6 +1,6 @@
 {
     "content": [
-        "3f0571b5bc64683c31236ab03d6576fc\t29\tcyberdog\\/[\\d]\\.[\\d] \\(macintosh; [\\d][\\d]k\\).*\tcyberdog\\/[\\d]\\.[\\d] \\(macintosh; ppc\\).*",
+        "3f0571b5bc64683c31236ab03d6576fc\t29\tcyberdog\\/[\\d]\\.[\\d] \\(macintosh; ppc\\).*\tcyberdog\\/[\\d]\\.[\\d] \\(macintosh; [\\d][\\d]k\\).*",
         "3f24e567591e9cbab2a7d2f1f748a1d4\t10\tlemon b[\\d][\\d][\\d].*",
         "3f2a6f3eaf3f121e509b1e407fd12b74\t14\taboutthedomain.*",
         "3f606030ef267f1671a89288cd6c9fd2\t18\tmaxon o[\\d]\\-x[\\d] ver[\\d]\\.[\\d].*",

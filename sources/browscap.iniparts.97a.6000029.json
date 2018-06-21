@@ -1,12 +1,12 @@
 {
     "content": [
-        "97a15bf6640a60eb082f3bd476254d8e\t{\"Parent\":\"CM Browser\",\"Platform_Version\":\"4.4\",\"JavaApplets\":false,\"Device_Name\":\"Xperia T2 Ultra LTE\",\"Device_Maker\":\"Sony\",\"Device_Code_Name\":\"D5303\",\"Device_Brand_Name\":\"Sony\",\"RenderingEngine_Name\":\"Blink\",\"RenderingEngine_Description\":\"a WebKit Fork by Google\",\"RenderingEngine_Maker\":\"Google Inc\"}",
         "97a3842b3dc782d8cb416bc77714d0ff\t{\"Parent\":\"WhiteHat Aviator 35.0\",\"Browser_Bits\":\"32\",\"Platform\":\"Win2000\",\"Platform_Version\":\"5.0\",\"Platform_Description\":\"Windows 2000\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
+        "97a15bf6640a60eb082f3bd476254d8e\t{\"Parent\":\"CM Browser\",\"Platform_Version\":\"4.4\",\"JavaApplets\":false,\"Device_Name\":\"Xperia T2 Ultra LTE\",\"Device_Maker\":\"Sony\",\"Device_Code_Name\":\"D5303\",\"Device_Brand_Name\":\"Sony\",\"RenderingEngine_Name\":\"Blink\",\"RenderingEngine_Description\":\"a WebKit Fork by Google\",\"RenderingEngine_Maker\":\"Google Inc\"}",
         "97a65f4c71025ae3d4e99494f3d8fc80\t{\"Parent\":\"Baidu Browser HD 3.5 for iOS\",\"Platform_Version\":\"10.1\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
         "97a9ea6fabdb8d00aa8ea4a83ff83c3d\t{\"Parent\":\"Naver 7.8 for iOS\"}",
         "97a72e98febc877276013e59299be3a2\t{\"Parent\":\"Naver 5.6 for iOS\",\"Platform_Version\":\"8.3\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
-        "97a830fbb3d6ebd28e19b0dee4f59ffa\t{\"Parent\":\"360 Secure Browser for iOS\",\"Platform_Version\":\"10.1\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
         "97a453287883e66fc0d60292bff062cb\t{\"Parent\":\"UC Browser 11.2 for Android\",\"Platform_Version\":\"5.1\"}",
+        "97a830fbb3d6ebd28e19b0dee4f59ffa\t{\"Parent\":\"360 Secure Browser for iOS\",\"Platform_Version\":\"10.1\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
         "97abda816ff8cfc8ad72e25b23ca650b\t{\"Parent\":\"UC Browser 10.6 for Android\",\"Platform_Version\":\"5.1\",\"RenderingEngine_Name\":\"Blink\",\"RenderingEngine_Description\":\"a WebKit Fork by Google\",\"RenderingEngine_Maker\":\"Google Inc\"}",
         "97a7053f480d89e071bce7110b88afeb\t{\"Parent\":\"UC Browser 10.0 for Android\",\"Platform_Version\":\"5.0\",\"Device_Name\":\"Galaxy S4 (AT\\u0026T)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SGH-I337\",\"Device_Brand_Name\":\"Samsung\"}",
         "97a45689b07183384dd740a76a662b1f\t{\"Parent\":\"UC Browser 8.9 for Symbian\",\"Device_Name\":\"6290\",\"Device_Maker\":\"Nokia\",\"Device_Pointing_Method\":\"unknown\",\"Device_Code_Name\":\"6290\",\"Device_Brand_Name\":\"Nokia\"}",

@@ -16,7 +16,7 @@
         "46b024a26028924d1655a3307b079baa\t22\tevernote clip resolver.*",
         "46b38785fb5ab268a06c1b964c6ce20f\t15\tsophosagent\\/[\\d]\\.[\\d].*",
         "46c48bec0d282018b9d167eef7711b2c\t33\tup\\.browser\\/[\\d]\\.[\\d]\\.[\\d][\\d]\\-nz[\\d][\\d] up\\.link\\/.*\\.[\\d]",
-        "46c48bec0d282018b9d167eef7711b2c\t31\tup\\.browser\\/[\\d]\\.[\\d]\\.[\\d][\\d]\\-sc[\\d][\\d] up\\.link\\/.*\tup\\.browser\\/[\\d]\\.[\\d]\\.[\\d][\\d]\\-ds[\\d][\\d] up\\.link\\/.*",
+        "46c48bec0d282018b9d167eef7711b2c\t31\tup\\.browser\\/[\\d]\\.[\\d]\\.[\\d][\\d]\\-ds[\\d][\\d] up\\.link\\/.*\tup\\.browser\\/[\\d]\\.[\\d]\\.[\\d][\\d]\\-sc[\\d][\\d] up\\.link\\/.*",
         "46c48bec0d282018b9d167eef7711b2c\t14\tup\\.browser\\/[\\d]\\.[\\d].*",
         "46e1fbe50ecf5f23ba3e0c2b6e6c67e5\t52\tt\\-mobile.* mozilla\\/.* \\(compatible; msie .*\\..*; windows ce; .*\\)",
         "46e1fbe50ecf5f23ba3e0c2b6e6c67e5\t44\tt\\-mobile dash mozilla\\/[\\d]\\.[\\d] \\(.*msnbot\\-mobile\\/[\\d]\\.[\\d].*",

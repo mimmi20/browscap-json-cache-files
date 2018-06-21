@@ -2,8 +2,8 @@
     "content": [
         "2f0be7a15d78560b6bbb2340e6d27744\t{\"Parent\":\"General Crawlers\",\"Browser\":\"Optimizer Bot\"}",
         "2f0e09d72cd974bda69c5a78a141e6b0\t{\"Parent\":\"CloudEndure Scanner\"}",
-        "2f07afd48c531c8bf7879041fe0611ee\t{\"Parent\":\"Avast SafeZone 1.51\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\"}",
         "2f075a95a376d9984d044ae62a1472ac\t{\"Parent\":\"Coc Coc Browser 60.0 for iOS\",\"Platform_Version\":\"10.1\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
+        "2f07afd48c531c8bf7879041fe0611ee\t{\"Parent\":\"Avast SafeZone 1.51\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\"}",
         "2f0950c3a792f9682d795529db976b3c\t{\"Parent\":\"UC Browser 10.4 for Android\",\"Platform_Version\":\"5.0\",\"Device_Name\":\"Unite 2\",\"Device_Maker\":\"Micromax\",\"Device_Code_Name\":\"A106\",\"Device_Brand_Name\":\"Micromax\",\"RenderingEngine_Name\":\"U2\"}",
         "2f02586ec751bbfadc6502155006bb30\t{\"Parent\":\"UC Browser 9.9 for Android\",\"Platform_Version\":\"2.3\",\"Device_Name\":\"A34\",\"Device_Maker\":\"Micromax\",\"Device_Code_Name\":\"A34\",\"Device_Brand_Name\":\"Micromax\",\"RenderingEngine_Name\":\"U3\"}",
         "2f0276dcd34f50b730f32d981481f2e4\t{\"Parent\":\"UC Browser 3.7 for Android\",\"Platform_Version\":\"2.3\",\"RenderingEngine_Name\":\"U2\",\"RenderingEngine_Description\":\"a WebKit Fork by UC Web\",\"RenderingEngine_Maker\":\"UCWeb Inc.\"}",

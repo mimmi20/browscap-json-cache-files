@@ -43,8 +43,8 @@
         "9f3152e0e0ee42236e84f4819330809d\t{\"Parent\":\"Microsoft Office 2016\",\"Browser_Bits\":\"64\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true,\"CssVersion\":\"3\",\"RenderingEngine_Version\":\"7.0\"}",
         "9f3cec52bd47874c556970c4c32d77ea\t{\"Parent\":\"OneBrowser 3.0 for iOS\",\"Platform_Version\":\"8.0\"}",
         "9f357af88ddcdc656eadf5dee9cbbbab\t{\"Parent\":\"FlyFlow 2.5\",\"Platform_Version\":\"4.1\",\"Device_Name\":\"Galaxy S III\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"GT-I9300\",\"Device_Brand_Name\":\"Samsung\"}",
-        "9f3437cf1fd78c5ff2dd41feffbec9bc\t{\"Parent\":\"Instagram App 24.0 for Android\",\"Platform_Version\":\"4.4\"}",
         "9f3ff6c136ec6030e1be4070dda98975\t{\"Parent\":\"Instagram App 17.0 for iOS\",\"Platform_Version\":\"11.2\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
+        "9f3437cf1fd78c5ff2dd41feffbec9bc\t{\"Parent\":\"Instagram App 24.0 for Android\",\"Platform_Version\":\"4.4\"}",
         "9f3076fc39f491c8afe0d3931d6444a1\t{\"Parent\":\"Lunascape 5.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true,\"RenderingEngine_Version\":\"5.0\"}",
         "9f3ba167954caa85be529f1153d72531\t{\"Parent\":\"Lunascape 4.7\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true,\"RenderingEngine_Version\":\"4.0\"}",
         "9f32c7f5406027fd7f18e4b45bcbe9bf\t{\"Parent\":\"PaleMoon 27.5\",\"Browser_Bits\":\"32\",\"Platform\":\"Win10\",\"Platform_Version\":\"6.4\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
@@ -56,7 +56,7 @@
         "9f3cd898b70009681573376486980604\t{\"Parent\":\"Firefox 23.0\",\"Browser_Bits\":\"32\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10\",\"Platform_Description\":\"Mac OS X\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
         "9f3b2d563ff33cd8c9a124dd56957e6c\t{\"Parent\":\"IceCat 13.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Linux\",\"Platform_Description\":\"Linux\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Linux Foundation\",\"Device_Name\":\"Linux Desktop\",\"Device_Code_Name\":\"Linux Desktop\"}",
         "9f3ebf008ba4b4a8728c7a8b02d607a5\t{\"Parent\":\"LG\"}",
-        "9f3a1e411f37ad5b41b2b24d3d5fec73\t{\"Parent\":\"ESPN Radio 4.5\",\"Platform_Version\":\"8.0\"}",
-        "9f3b430feee67f42e2bfd5f75641f263\t{\"Parent\":\"FancyMusic 1.4\",\"Browser_Bits\":\"32\",\"Platform\":\"iOS\",\"Platform_Version\":\"5.1\",\"Platform_Description\":\"iPod, iPhone \\u0026 iPad\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\"}"
+        "9f3b430feee67f42e2bfd5f75641f263\t{\"Parent\":\"FancyMusic 1.4\",\"Browser_Bits\":\"32\",\"Platform\":\"iOS\",\"Platform_Version\":\"5.1\",\"Platform_Description\":\"iPod, iPhone \\u0026 iPad\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\"}",
+        "9f3a1e411f37ad5b41b2b24d3d5fec73\t{\"Parent\":\"ESPN Radio 4.5\",\"Platform_Version\":\"8.0\"}"
     ]
 }

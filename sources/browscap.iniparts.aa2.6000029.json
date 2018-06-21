@@ -2,8 +2,8 @@
     "content": [
         "aa2976fa23f23c7204cbfb4abe2bba65\t{\"Parent\":\"Coc Coc Browser 36.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "aa2d7b66b015d6c40b1ddff50974e054\t{\"Parent\":\"Baidu Browser 4.3\",\"Platform_Version\":\"4.2\"}",
-        "aa24a76c46f9ebe1f5ef41f6066c3193\t{\"Parent\":\"UC Browser Mini 9.5\",\"Browser_Modus\":\"SpeedMode\",\"Platform_Version\":\"4.3\"}",
         "aa237aa53841b9f3a76c51785a97e1d6\t{\"Parent\":\"UC Browser 10.2 for Android\",\"Platform_Version\":\"3.2\",\"Device_Name\":\"A101\",\"Device_Maker\":\"Micromax\",\"Device_Code_Name\":\"A101\",\"Device_Brand_Name\":\"Micromax\"}",
+        "aa24a76c46f9ebe1f5ef41f6066c3193\t{\"Parent\":\"UC Browser Mini 9.5\",\"Browser_Modus\":\"SpeedMode\",\"Platform_Version\":\"4.3\"}",
         "aa2a9a8502f847754e6e82f94acab709\t{\"Parent\":\"UC Browser 10.3 for iOS\",\"Platform_Version\":\"10.1\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
         "aa29a30856bbcf1baf5629cd8e1bda7e\t{\"Parent\":\"UC Browser 9.0 for Android\",\"Platform_Version\":\"2.3\",\"Device_Name\":\"Xperia U\",\"Device_Maker\":\"SonyEricsson\",\"Device_Code_Name\":\"ST25i\",\"Device_Brand_Name\":\"SonyEricsson\",\"RenderingEngine_Name\":\"U3\"}",
         "aa2fd6a474bac445fa662c9f0b31745b\t{\"Parent\":\"UC Browser 8.1 for Android\",\"Platform_Version\":\"4.0\",\"JavaApplets\":true,\"RenderingEngine_Name\":\"WebKit\",\"RenderingEngine_Description\":\"For Google Chrome, iOS (including both mobile Safari, WebViews within third-party apps, and web clips), Safari, Arora, Midori, OmniWeb, Shiira, iCab since version 4, Web, SRWare Iron, Rekonq, and in Maxthon 3.\",\"RenderingEngine_Maker\":\"Apple Inc\"}",

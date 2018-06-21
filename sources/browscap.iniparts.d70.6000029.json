@@ -1,8 +1,8 @@
 {
     "content": [
         "d70942e8a7b486f0166771f7dc5fd4f1\t{\"Parent\":\"Exalead CloudView\"}",
-        "d701522587273510da043bd0b11501c8\t{\"Parent\":\"ChromePlus 1.6\",\"Browser_Bits\":\"32\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
         "d7078cff39202c28c313b8663fe58fbc\t{\"Parent\":\"CoolNovo 2.0\",\"Browser_Bits\":\"32\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
+        "d701522587273510da043bd0b11501c8\t{\"Parent\":\"ChromePlus 1.6\",\"Browser_Bits\":\"32\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
         "d701abe09350ebcbb1e63a9e0b94986a\t{\"Parent\":\"Baidu Browser HD 4.8 for iOS\",\"Platform_Version\":\"9.1\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
         "d70d42d5b9b17612b1a3e773ffca2d77\t{\"Parent\":\"Naver 6.0 for iOS\",\"Platform_Version\":\"8.2\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
         "d703fe6cc92bb744cceffcf160e10b38\t{\"Parent\":\"UR Browser 55.0\",\"Browser_Bits\":\"32\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.7\",\"Platform_Description\":\"Mac OS X\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
@@ -14,8 +14,8 @@
         "d702dfd5aa783d864beebb3fd502f444\t{\"Parent\":\"Comodo Dragon 36.6\",\"Browser_Bits\":\"64\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "d7086498602a64abda411e149a290b0d\t{\"Parent\":\"Comodo Dragon 26.0\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\"}",
         "d706d2a88d4a4d59c2e7730d7a84c770\t{\"Parent\":\"Samsung Browser 6.2\",\"Platform_Version\":\"8.0\"}",
-        "d70f66d6444a28d22dd83f2ccbe6974f\t{\"Parent\":\"Android WebView 1.5\",\"Platform_Version\":\"5.1\"}",
         "d70b785e19839e55c5fd70faa2a531f3\t{\"Parent\":\"Samsung Browser 5.4\",\"Platform_Version\":\"5.1\",\"Device_Name\":\"Galaxy S6 Edge Plus CDMA+LTE (US Cellular)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-G928R\",\"Device_Brand_Name\":\"Samsung\"}",
+        "d70f66d6444a28d22dd83f2ccbe6974f\t{\"Parent\":\"Android WebView 1.5\",\"Platform_Version\":\"5.1\"}",
         "d70c296120426ca75fcee5fc08c971b1\t{\"Parent\":\"QQBrowser 5.0 for Android\",\"Browser_Bits\":\"32\",\"Platform\":\"Android\",\"Platform_Version\":\"4.1\",\"Platform_Description\":\"Android OS\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Google Inc\",\"JavaApplets\":true,\"Device_Name\":\"Galaxy S II\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"GT-I9100\",\"Device_Brand_Name\":\"Samsung\",\"RenderingEngine_Name\":\"WebKit\",\"RenderingEngine_Description\":\"For Google Chrome, iOS (including both mobile Safari, WebViews within third-party apps, and web clips), Safari, Arora, Midori, OmniWeb, Shiira, iCab since version 4, Web, SRWare Iron, Rekonq, and in Maxthon 3.\",\"RenderingEngine_Maker\":\"Apple Inc\"}",
         "d70403cc9c9dd0c3b39c838ffbbfc6e1\t{\"Parent\":\"Yandex Browser 16.6 for iOS\",\"Platform_Version\":\"8.3\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
         "d70480bef4e71d7e01e344b8ae8e08f5\t{\"Parent\":\"Opera Mobile 38.0 for Android\",\"Platform_Version\":\"4.4\",\"Device_Name\":\"EVO Tech 3 Quad\",\"Device_Maker\":\"Fly\",\"Device_Code_Name\":\"IQ4414\",\"Device_Brand_Name\":\"Fly\"}",

@@ -68,7 +68,7 @@
         "de42ec308f62562e15f753450704952e\t{\"Parent\":\"Firefox 32.0\",\"Browser_Bits\":\"32\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true,\"isAnonymized\":true}",
         "de4e7e5943fa573093770cbe13a2c9ed\t{\"Parent\":\"Firefox 30.0\",\"Browser_Bits\":\"32\",\"Platform\":\"Win10\",\"Platform_Version\":\"6.4\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "de41cf112032aba6c63106ec0e14259f\t{\"Parent\":\"Firefox 17.0\",\"Browser_Bits\":\"32\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.11\",\"Platform_Description\":\"Mac OS X\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
-        "de467f0fec315d7fb0aa0e20806b8edb\t{\"Parent\":\"Firefox Focus Generic for iOS\",\"Platform_Version\":\"9.0\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
-        "de487d630af949bb37d43196b87f853f\t{\"Parent\":\"Firefox 3.0\",\"Browser_Bits\":\"64\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.1\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}"
+        "de487d630af949bb37d43196b87f853f\t{\"Parent\":\"Firefox 3.0\",\"Browser_Bits\":\"64\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.1\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
+        "de467f0fec315d7fb0aa0e20806b8edb\t{\"Parent\":\"Firefox Focus Generic for iOS\",\"Platform_Version\":\"9.0\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}"
     ]
 }

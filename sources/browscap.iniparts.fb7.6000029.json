@@ -1,11 +1,11 @@
 {
     "content": [
-        "fb7b9a4920f14b8d47729e5ff6b54ff9\t{\"Parent\":\"Search Engines\",\"Browser\":\"NavissoBot\"}",
         "fb753e34ec1032af99b47921350bce85\t{\"Parent\":\"TagInspector Bot\",\"Browser_Bits\":\"32\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
+        "fb7b9a4920f14b8d47729e5ff6b54ff9\t{\"Parent\":\"Search Engines\",\"Browser\":\"NavissoBot\"}",
         "fb72adef3b3614bd60a96c607a506156\t{\"Parent\":\"Ezooms\"}",
         "fb737dff32168c4adec29d011697b7b7\t{\"Parent\":\"Bing Search App 6.5 for Android\",\"Platform_Version\":\"6.0\",\"Device_Name\":\"G4\",\"Device_Maker\":\"LG\",\"Device_Code_Name\":\"H818\",\"Device_Brand_Name\":\"LG\"}",
-        "fb7395675860f3d485ed85f1720bb664\t{\"Parent\":\"Coc Coc Browser 56.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "fb7471385559c718ab92f1d117a79d8d\t{\"Parent\":\"Coc Coc Browser 61.0 for Android\",\"Platform_Version\":\"4.3\",\"Device_Name\":\"Galaxy S III\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"GT-I9300\",\"Device_Brand_Name\":\"Samsung\"}",
+        "fb7395675860f3d485ed85f1720bb664\t{\"Parent\":\"Coc Coc Browser 56.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "fb73e2d81d134a4da8f5cf3183953e74\t{\"Parent\":\"Coc Coc Browser 25.0\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\"}",
         "fb72046c17565c8e73f8eeff3820e0bc\t{\"Parent\":\"Baidu Browser 6.1\",\"Platform_Version\":\"4.1\",\"JavaApplets\":true,\"Device_Name\":\"One Touch XPop\",\"Device_Maker\":\"Alcatel\",\"Device_Code_Name\":\"OT-5035D\",\"Device_Brand_Name\":\"Alcatel\",\"RenderingEngine_Name\":\"WebKit\",\"RenderingEngine_Description\":\"For Google Chrome, iOS (including both mobile Safari, WebViews within third-party apps, and web clips), Safari, Arora, Midori, OmniWeb, Shiira, iCab since version 4, Web, SRWare Iron, Rekonq, and in Maxthon 3.\",\"RenderingEngine_Maker\":\"Apple Inc\"}",
         "fb7cb7f12767b3dfd284cd4aec3d0c0a\t{\"Parent\":\"UC Browser 11.3 for Android\",\"Platform_Version\":\"5.0\",\"Device_Name\":\"Galaxy Note 3 LTE (AT\\u0026T)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-N900A\",\"Device_Brand_Name\":\"Samsung\"}",

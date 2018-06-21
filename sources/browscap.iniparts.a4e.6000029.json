@@ -1,11 +1,11 @@
 {
     "content": [
         "a4e3f110bb24073b47d9a835258e3bb8\t{\"Parent\":\"Chromium 54.0\",\"Platform\":\"Ubuntu Touch\",\"Platform_Version\":\"15.04\",\"Platform_Description\":\"Ubuntu Linux for Mobile\",\"Platform_Maker\":\"Canonical Foundation\",\"isMobileDevice\":true,\"Device_Name\":\"general Mobile Device\",\"Device_Type\":\"Mobile Device\",\"Device_Pointing_Method\":\"unknown\",\"Device_Code_Name\":\"general Mobile Device\"}",
-        "a4e8110bd4e12aed9f62ce7f979a6e5e\t{\"Parent\":\"Amigo 50.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "a4e1a226cc011f91989a665898698fc9\t{\"Parent\":\"Coc Coc Browser 62.0 for iOS\",\"Platform_Version\":\"8.0\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
         "a4e3476e54d3dbcd8ea7c453fa5a5fff\t{\"Parent\":\"Coc Coc Browser 55.0 for Android\",\"Platform_Version\":\"5.0\"}",
         "a4e16da6391cd2084005c9df144006ca\t{\"Parent\":\"Coc Coc Browser 49.0 for Android\",\"Platform_Version\":\"4.1\"}",
         "a4e255e731dd95f4674d1f9117eea1d3\t{\"Parent\":\"Coc Coc Browser 38.0\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\"}",
+        "a4e8110bd4e12aed9f62ce7f979a6e5e\t{\"Parent\":\"Amigo 50.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "a4e916c567006e26683a3de818c6a903\t{\"Parent\":\"Baidu Browser HD 5.4 for iOS\",\"Platform_Version\":\"8.0\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
         "a4e5db0607ee03b679e4977247e1e8e8\t{\"Parent\":\"Google App for Android\",\"Browser_Bits\":\"32\",\"Platform\":\"Android\",\"Platform_Version\":\"4.2\",\"Platform_Description\":\"Android OS\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Google Inc\",\"isTablet\":true,\"Device_Name\":\"Galaxy Tab 2 7.0\",\"Device_Maker\":\"Samsung\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"GT-P3110\",\"Device_Brand_Name\":\"Samsung\"}",
         "a4eeab1f7c717fb62088b4be6203d6f8\t{\"Parent\":\"UC Browser 10.4 for iOS\",\"Browser_Modus\":\"Chrome\",\"Platform_Version\":\"9.2\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",

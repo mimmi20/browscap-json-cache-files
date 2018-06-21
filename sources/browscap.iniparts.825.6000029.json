@@ -2,8 +2,8 @@
     "content": [
         "825cf6ef40baf45fd5117bf768f3e900\t{\"Parent\":\"Facebook\",\"Browser\":\"Facebookscraper\",\"Version\":\"1.0\",\"MajorVer\":\"1\"}",
         "825f6cdf74be33eb96ffacb279e6488b\t{\"Parent\":\"Coc Coc Browser 66.0 for iOS\",\"Platform_Version\":\"9.1\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
-        "8255b97ea4c0f93c64fe60f19e1d77a1\t{\"Parent\":\"Naver 8.2 for Android\",\"Platform_Version\":\"5.0\",\"isTablet\":true,\"Device_Name\":\"general Tablet\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"general Tablet\"}",
         "825c023dc7723f0b9e49138d57126ad5\t{\"Parent\":\"Naver 5.8 for iOS\",\"Platform_Version\":\"10.1\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
+        "8255b97ea4c0f93c64fe60f19e1d77a1\t{\"Parent\":\"Naver 8.2 for Android\",\"Platform_Version\":\"5.0\",\"isTablet\":true,\"Device_Name\":\"general Tablet\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"general Tablet\"}",
         "825549182a1dea45914b094e7422b18a\t{\"Parent\":\"UC Browser 10.10 for Android\",\"Platform_Version\":\"4.4\",\"Device_Name\":\"Galaxy S4\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"GT-I9500\",\"Device_Brand_Name\":\"Samsung\"}",
         "8251249ae8b70dd030b5dd1a8dd56fe7\t{\"Parent\":\"UC Browser 10.1 for Android\",\"Platform_Version\":\"5.0\",\"Device_Name\":\"Canvas Nitro 4G\",\"Device_Maker\":\"Micromax\",\"Device_Code_Name\":\"E455\",\"Device_Brand_Name\":\"Micromax\"}",
         "825022e1a66f98c8e94150d9da9dd8f2\t{\"Parent\":\"UC Browser 9.8 for Android\",\"Platform_Version\":\"2.3\",\"Device_Name\":\"Bolt A62\",\"Device_Maker\":\"Micromax\",\"Device_Code_Name\":\"A62\",\"Device_Brand_Name\":\"Micromax\"}",

@@ -46,8 +46,8 @@
         "a1139f203a5082a6847bda7e59ea8aea\t{\"Parent\":\"Thunderbird 24.6\",\"Browser_Bits\":\"32\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
         "a11fa83d095e2ae3300c42b51e887791\t{\"Parent\":\"Sleipnir 4.1\",\"Browser_Bits\":\"32\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
         "a11f2f7e6e7190af95141dc5d3b005bb\t{\"Parent\":\"Sleipnir Generic for iOS\",\"Platform_Version\":\"7.1\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
-        "a11c7de04b5883bcfb742cbaae9bf919\t{\"Parent\":\"Firefox Focus 4.1 for Android\",\"Platform_Version\":\"5.0\"}",
         "a11161284feb7581fe646e501b7e3b93\t{\"Parent\":\"Firefox Focus 3.9 for iOS\"}",
+        "a11c7de04b5883bcfb742cbaae9bf919\t{\"Parent\":\"Firefox Focus 4.1 for Android\",\"Platform_Version\":\"5.0\"}",
         "a11fa243f59e7a43dee107cbace0c816\t{\"Parent\":\"Firefox 0.9\",\"Browser_Bits\":\"32\",\"Platform\":\"FreeBSD\",\"Platform_Description\":\"FreeBSD\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"FreeBSD Foundation\",\"Device_Name\":\"general Desktop\",\"Device_Code_Name\":\"general Desktop\"}"
     ]
 }

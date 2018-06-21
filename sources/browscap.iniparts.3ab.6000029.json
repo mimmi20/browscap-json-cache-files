@@ -2,8 +2,8 @@
     "content": [
         "3ab38a46be3ee23bdb6b9f5c2d1eacd7\t{\"Parent\":\"W3C\",\"Browser\":\"W3C-checklink\"}",
         "3ab414c356f1f39a1035409a987108f7\t{\"Parent\":\"UC Browser 10.6 for Android\",\"Platform_Version\":\"3.2\",\"isTablet\":true,\"Device_Name\":\"Smart Tab 7\",\"Device_Maker\":\"ZTE\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"Smart Tab 7\",\"Device_Brand_Name\":\"Vodafone\"}",
-        "3ab81ea2eff909f133c005593ef58200\t{\"Parent\":\"UC Browser 9.2 for Android\",\"Platform_Version\":\"4.4\",\"Device_Name\":\"A328\",\"Device_Maker\":\"Lenovo\",\"Device_Code_Name\":\"A328\",\"Device_Brand_Name\":\"Lenovo\",\"RenderingEngine_Name\":\"U3\"}",
         "3ab990039eeeaa17f59124290d2da933\t{\"Parent\":\"UC Browser 9.0 for iOS\"}",
+        "3ab81ea2eff909f133c005593ef58200\t{\"Parent\":\"UC Browser 9.2 for Android\",\"Platform_Version\":\"4.4\",\"Device_Name\":\"A328\",\"Device_Maker\":\"Lenovo\",\"Device_Code_Name\":\"A328\",\"Device_Brand_Name\":\"Lenovo\",\"RenderingEngine_Name\":\"U3\"}",
         "3ab916c2f7d15250e4a3da63ab935973\t{\"Parent\":\"UC Browser 8.9 for Android\"}",
         "3ab476d5e299d95277e93292354909a0\t{\"Parent\":\"AOL Desktop Trident 10.1\",\"Browser_Bits\":\"32\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
         "3ab99453efcf2377808b8fda7a72ab6f\t{\"Parent\":\"Comodo Dragon 46.5\",\"Browser_Bits\":\"64\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",

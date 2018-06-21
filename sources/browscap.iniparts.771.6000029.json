@@ -1,8 +1,8 @@
 {
     "content": [
         "771580987ce63fb8ceb43c21f3334bf9\t{\"Parent\":\"python-requests 2.10\",\"Browser_Bits\":\"32\",\"Platform\":\"Darwin\",\"Platform_Description\":\"Darwin is a Core Component of MacOSX and iOS\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
-        "7717189b64cd71a9333e3a5368a2c922\t{\"Parent\":\"Kinza 2.9\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "771424bd1802dc064a57ce0ffaf505a9\t{\"Parent\":\"SuperBird 23.0\",\"Browser_Bits\":\"32\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
+        "7717189b64cd71a9333e3a5368a2c922\t{\"Parent\":\"Kinza 2.9\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "771bd7a7c8da8554884561c376cb121a\t{\"Parent\":\"Iridium Browser 40.0\",\"Browser_Bits\":\"64\",\"Platform\":\"OpenBSD\",\"Platform_Description\":\"OpenBSD\",\"Platform_Bits\":\"64\",\"Device_Name\":\"general Desktop\",\"Device_Code_Name\":\"general Desktop\"}",
         "77122ed3258054ea741718d2eb8452f9\t{\"Parent\":\"Coc Coc Browser 68.0\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\"}",
         "771c7be4efc7a0ba67bb78155a97e279\t{\"Parent\":\"UC Browser 10.6 for Android\",\"Platform_Version\":\"4.4\",\"Device_Name\":\"Galaxy Note 3 LTE (AT\\u0026T)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-N900A\",\"Device_Brand_Name\":\"Samsung\"}",

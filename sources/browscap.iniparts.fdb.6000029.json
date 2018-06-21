@@ -2,14 +2,14 @@
     "content": [
         "fdb57cd0700bebda8c8d28b96a393bad\t{\"Parent\":\"Social Networking\",\"Browser\":\"Slackbot-Link-Expanding\",\"Browser_Maker\":\"slack.com\"}",
         "fdb656e444164b38e13e1c939d83b416\t{\"Parent\":\"Chromium 56.0\",\"Platform\":\"Ubuntu\",\"Platform_Version\":\"11.10\",\"Platform_Description\":\"Ubuntu Linux\",\"Platform_Maker\":\"Canonical Foundation\"}",
-        "fdbec60a4e984cb672bbb72216b3edeb\t{\"Parent\":\"Amigo 47.0\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
-        "fdbdb6c07fd4d3b6a6ba06a84969623a\t{\"Parent\":\"Coc Coc Browser 59.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "fdb30fcc84518a4e9579886be0b60525\t{\"Parent\":\"Coc Coc Browser 61.0 for Android\",\"Platform_Version\":\"4.1\",\"Device_Name\":\"Galaxy S III\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"GT-I9300\",\"Device_Brand_Name\":\"Samsung\"}",
+        "fdbdb6c07fd4d3b6a6ba06a84969623a\t{\"Parent\":\"Coc Coc Browser 59.0\",\"Browser_Bits\":\"64\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
+        "fdbec60a4e984cb672bbb72216b3edeb\t{\"Parent\":\"Amigo 47.0\",\"Platform\":\"Win10\",\"Platform_Version\":\"10.0\",\"Platform_Description\":\"Windows 10\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "fdbcd03add94aa457f87d1086024175c\t{\"Parent\":\"Baidu Browser HD 5.3 for iOS\",\"Platform_Version\":\"10.3\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
         "fdb3ce5891f68659fed6b77cf8677afc\t{\"Parent\":\"Naver 5.6 for iOS\",\"Platform_Version\":\"5.1\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
         "fdb788ec2bf4639c114441ce516155b5\t{\"Parent\":\"UC Browser 3.2 for Android\",\"Platform_Version\":\"5.1\",\"Device_Name\":\"Galaxy A5 LTE (2016, Europe)\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-A510F\",\"Device_Brand_Name\":\"Samsung\"}",
-        "fdb2959d3f696c92debd4213dbbd1345\t{\"Parent\":\"Chedot 9.0\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "fdb85cb94b279b8463a67d005a69c2ba\t{\"Parent\":\"Comodo Dragon 23.1\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\"}",
+        "fdb2959d3f696c92debd4213dbbd1345\t{\"Parent\":\"Chedot 9.0\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "fdbdcb015ba9f473e700198edf18c611\t{\"Parent\":\"Facebook App for iOS\",\"Platform_Version\":\"6.1\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
         "fdbd232bef1610c0c912f10d45e12cbf\t{\"Parent\":\"Android WebView 1.6\",\"Platform_Version\":\"4.2\",\"isTablet\":true,\"Device_Name\":\"Iconia A1-810\",\"Device_Maker\":\"Acer\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"A1-810\",\"Device_Brand_Name\":\"Acer\"}",
         "fdb4602c3d169dd0ef5c3165661c0e06\t{\"Parent\":\"QQBrowser 9.1\",\"Platform\":\"Win7\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"Windows 7\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
@@ -62,7 +62,7 @@
         "fdb300be134d31991d16d7b0b8e25523\t{\"Parent\":\"Iceweasel 37.0\",\"Browser_Bits\":\"64\",\"Platform_Bits\":\"64\"}",
         "fdb3895acf7b08557ec000f5c05653b9\t{\"Parent\":\"Firefox Focus 3.3 for iOS\",\"Platform_Version\":\"10.2\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
         "fdbc9ed06a6ccb4ff3c3e8f1f0132bdd\t{\"Parent\":\"Firefox Focus 3.1 for iOS\",\"Platform_Version\":\"10.0\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
-        "fdbde7b9110c8f0b658056f9ed157b39\t{\"Parent\":\"ESPN Radio Generic for iOS\",\"Platform_Version\":\"4.3\"}",
-        "fdb3b5a78f307fa9419ff546ecc09185\t{\"Parent\":\"FancyMusic Generic\",\"Browser_Bits\":\"32\",\"Platform\":\"iOS\",\"Platform_Version\":\"9.0\",\"Platform_Description\":\"iPod, iPhone \\u0026 iPad\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}"
+        "fdb3b5a78f307fa9419ff546ecc09185\t{\"Parent\":\"FancyMusic Generic\",\"Browser_Bits\":\"32\",\"Platform\":\"iOS\",\"Platform_Version\":\"9.0\",\"Platform_Description\":\"iPod, iPhone \\u0026 iPad\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
+        "fdbde7b9110c8f0b658056f9ed157b39\t{\"Parent\":\"ESPN Radio Generic for iOS\",\"Platform_Version\":\"4.3\"}"
     ]
 }

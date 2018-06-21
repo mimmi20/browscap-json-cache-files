@@ -1,7 +1,7 @@
 {
     "content": [
-        "3c4da42f5a007e2e54f7b8b6eb96eec4\t{\"Parent\":\"DomainAppender Bot\"}",
         "3c4032753dd872b8f067817f17ec17c7\t{\"Parent\":\"General Crawlers\",\"Browser\":\"LookSeek\"}",
+        "3c4da42f5a007e2e54f7b8b6eb96eec4\t{\"Parent\":\"DomainAppender Bot\"}",
         "3c446b42883282945b6e83e951a13eb1\t{\"Parent\":\"Rippers\",\"Browser\":\"eStyleSearch\"}",
         "3c4dc7d619c31cbc906f209fbe36af20\t{\"Parent\":\"Chromium 16.0\",\"Browser_Bits\":\"64\",\"Platform_Bits\":\"64\"}",
         "3c4302efd4cbbec86ad48359af2ed371\t{\"Parent\":\"UC Browser 10.0 for Android\",\"Platform_Version\":\"7.1\",\"RenderingEngine_Name\":\"U2\"}",
@@ -16,9 +16,9 @@
         "3c438a885c2a1bbb8a2436a72408d3db\t{\"Parent\":\"QQBrowser 8.2\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.1\",\"Platform_Description\":\"Windows XP\",\"BackgroundSounds\":true,\"VBScript\":true,\"JavaApplets\":true,\"ActiveXControls\":true,\"CssVersion\":\"2\",\"RenderingEngine_Name\":\"Trident\",\"RenderingEngine_Description\":\"For Internet Explorer since version 4.0 and embedded WebBrowser controls (such as Internet Explorer shells, Maxthon and some media players).\",\"RenderingEngine_Maker\":\"Microsoft Corporation\"}",
         "3c4a88f4285a3be525266b8f31a6adc7\t{\"Parent\":\"Flixster App 7.2\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
         "3c4771d8ccfda4f8a17bdbfd1cf798db\t{\"Parent\":\"Yandex Browser 18.1 for Android\",\"Platform_Version\":\"6.0\",\"isTablet\":true,\"Device_Name\":\"TZ857\",\"Device_Maker\":\"Irbis\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"TZ857\",\"Device_Brand_Name\":\"Irbis\"}",
-        "3c4153c0e0c12630e74525772de7668b\t{\"Parent\":\"Yandex Browser 13.10\",\"Browser_Bits\":\"64\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
-        "3c4a2a0b5fb6af467634dd3bd062405e\t{\"Parent\":\"Yandex Browser 14.10 for Android\"}",
         "3c46544778779f0aa7b7f0591524cc20\t{\"Parent\":\"Yandex Browser 14.10 for iOS\",\"Platform_Version\":\"9.2\",\"Device_Name\":\"iPod Touch\",\"Device_Code_Name\":\"iPod Touch\"}",
+        "3c4a2a0b5fb6af467634dd3bd062405e\t{\"Parent\":\"Yandex Browser 14.10 for Android\"}",
+        "3c4153c0e0c12630e74525772de7668b\t{\"Parent\":\"Yandex Browser 13.10\",\"Browser_Bits\":\"64\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "3c4abb8657a6a059e8bd2c9daa27fdba\t{\"Parent\":\"Opera Mobile 44.0 for Android\",\"Platform_Version\":\"4.2\",\"Device_Name\":\"Nubia Z5 mini\",\"Device_Maker\":\"ZTE\",\"Device_Code_Name\":\"NX402\",\"Device_Brand_Name\":\"ZTE\"}",
         "3c4c91ec782db70410bff50d89948ada\t{\"Parent\":\"Opera Mobile 44.0 for Android\",\"Platform_Version\":\"6.0\",\"isTablet\":true,\"Device_Name\":\"general Tablet\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"general Tablet\"}",
         "3c4a496047a17a5b698470915833c236\t{\"Parent\":\"Opera Mobile 31.0 for Android\",\"Platform_Version\":\"7.0\",\"Device_Name\":\"Redmi Note 4\",\"Device_Maker\":\"Xiaomi Tech\",\"Device_Code_Name\":\"Redmi Note 4\",\"Device_Brand_Name\":\"Xiaomi\"}",

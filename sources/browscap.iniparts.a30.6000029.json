@@ -10,8 +10,8 @@
         "a303a24156aa31a5418756dce2cebf42\t{\"Parent\":\"Comodo Dragon 33.1\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.1\",\"Platform_Description\":\"Windows XP\"}",
         "a30eca000e5fc92f77e8bd6b219db808\t{\"Parent\":\"Beamrise 29.0\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\"}",
         "a305d05e31114ccddaa7f5ff92f5bb98\t{\"Parent\":\"Android WebView 2.1\",\"Platform_Version\":\"4.1\",\"Device_Name\":\"One S\",\"Device_Maker\":\"HTC\",\"Device_Code_Name\":\"PJ401\",\"Device_Brand_Name\":\"HTC\"}",
-        "a30a8c6b06c0fc028a63ef50a903767a\t{\"Parent\":\"QQBrowser 6.0 for Android\",\"Browser_Bits\":\"32\",\"Platform\":\"Android\",\"Platform_Version\":\"5.0\",\"Platform_Description\":\"Android OS\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Google Inc\"}",
         "a30e43a178572400de589ef230ffb342\t{\"Parent\":\"QQBrowser 7.2 for iOS\",\"Browser_Bits\":\"32\",\"Platform\":\"iOS\",\"Platform_Version\":\"6.1\",\"Platform_Description\":\"iPod, iPhone \\u0026 iPad\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
+        "a30a8c6b06c0fc028a63ef50a903767a\t{\"Parent\":\"QQBrowser 6.0 for Android\",\"Browser_Bits\":\"32\",\"Platform\":\"Android\",\"Platform_Version\":\"5.0\",\"Platform_Description\":\"Android OS\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Google Inc\"}",
         "a30918d3b4ff689e0084945de90a975b\t{\"Parent\":\"Yandex Browser 17.10 for Android\",\"Platform_Version\":\"6.0\",\"Device_Name\":\"Galaxy A5 Duos\",\"Device_Maker\":\"Samsung\",\"Device_Code_Name\":\"SM-A500H\",\"Device_Brand_Name\":\"Samsung\"}",
         "a308f7ce484790e9f270db9bad9779bb\t{\"Parent\":\"Yandex Browser 17.10 for Android\",\"Platform_Version\":\"4.1\",\"Device_Name\":\"MultiPhone 4044 Duo\",\"Device_Maker\":\"Prestigio\",\"Device_Code_Name\":\"PAP4044DUO\",\"Device_Brand_Name\":\"Prestigio\"}",
         "a3090c5335b780c5a35f9ee52bfb936a\t{\"Parent\":\"Yandex Browser 16.9 for Android\",\"Platform_Version\":\"4.1\",\"isTablet\":true,\"Device_Name\":\"U20GT_WS\",\"Device_Maker\":\"Cube\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"U20GT_WS\",\"Device_Brand_Name\":\"Cube\"}",
@@ -60,8 +60,8 @@
         "a30a123870db372bb0ea94194ce6d1e3\t{\"Parent\":\"IceDragon 21.0\",\"Platform\":\"WinVista\",\"Platform_Version\":\"6.0\",\"Platform_Description\":\"Windows Vista\"}",
         "a30ce106545506f302546d435a717495\t{\"Parent\":\"Firefox 34.0\",\"Browser_Bits\":\"32\",\"Platform\":\"macOS\",\"Platform_Version\":\"10.13\",\"Platform_Description\":\"macOS\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
         "a300854654970b1fd2cbb814501d78fd\t{\"Parent\":\"Firefox 22.0\",\"Browser_Bits\":\"32\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
-        "a307ad9407f308b44c561a591b3cf0a1\t{\"Parent\":\"Firefox Focus 1.1 for Android\",\"Platform_Version\":\"8.0\"}",
         "a3024f1a6c0d7ef9e278fa8804169e1e\t{\"Parent\":\"Firefox Focus 3.6 for iOS\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
+        "a307ad9407f308b44c561a591b3cf0a1\t{\"Parent\":\"Firefox Focus 1.1 for Android\",\"Platform_Version\":\"8.0\"}",
         "a304964a956100b6e9beec3c3874c6ec\t{\"Parent\":\"MultiZilla 1.6\",\"Browser_Bits\":\"32\",\"Platform\":\"Linux\",\"Platform_Description\":\"Linux\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Linux Foundation\",\"Device_Name\":\"Linux Desktop\",\"Device_Code_Name\":\"Linux Desktop\"}"
     ]
 }

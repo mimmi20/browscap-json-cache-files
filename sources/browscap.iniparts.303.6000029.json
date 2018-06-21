@@ -1,8 +1,8 @@
 {
     "content": [
         "3035e20877fb82573dd4e45a2703cefc\t{\"Parent\":\"Search Engines\",\"Browser\":\"IDBot\",\"Browser_Maker\":\"id-search.xyz\"}",
-        "3031e579ced5694dc81b99675fc719b7\t{\"Parent\":\"Amigo 56.0\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\"}",
         "303b59eb588f40b517ec8c5a77485ab1\t{\"Parent\":\"Coc Coc Browser 39.0\"}",
+        "3031e579ced5694dc81b99675fc719b7\t{\"Parent\":\"Amigo 56.0\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\"}",
         "3032d79743ae39a87ca456d625be771f\t{\"Parent\":\"Baidu Browser 5.6\",\"Platform_Version\":\"4.1\",\"isTablet\":true,\"Device_Name\":\"M723G\",\"Device_Maker\":\"Supra\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"M723G\",\"Device_Brand_Name\":\"Supra\"}",
         "303fdd16b16304430f37a04c8a942f2c\t{\"Parent\":\"Baidu Browser 4.1\",\"Platform_Version\":\"7.1\",\"RenderingEngine_Name\":\"Blink\",\"RenderingEngine_Description\":\"a WebKit Fork by Google\",\"RenderingEngine_Maker\":\"Google Inc\"}",
         "303bbba8e5947375132062c37e1dfc7b\t{\"Parent\":\"Matome 4.0\",\"Platform_Version\":\"2.3\"}",
@@ -58,8 +58,8 @@
         "3030ce73b87e8d25147484fdf228c4d3\t{\"Parent\":\"IE 9.0\",\"Comment\":\"IE 9.0 in IE 7.0 Compatibility Mode\",\"Browser_Bits\":\"64\",\"Browser_Modus\":\"IE 7.0 Compatibility Mode\",\"Platform\":\"Win64\",\"Platform_Description\":\"Windows\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "3032ba2e61db4088ddd56c70161ab95f\t{\"Parent\":\"SeaMonkey 2.16\",\"Browser_Bits\":\"32\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "3036eb442905e6ff86f33169b6d903a9\t{\"Parent\":\"Sleipnir 2.6\",\"Browser_Bits\":\"32\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true,\"RenderingEngine_Version\":\"unknown\"}",
-        "3031479ae0285103a3637f62d7b71213\t{\"Parent\":\"Firefox Focus 2.3 for Android\",\"isTablet\":true,\"Device_Name\":\"general Tablet\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"general Tablet\"}",
         "3032d856aa5b5616e2f1140d09a5486c\t{\"Parent\":\"Firefox 3.1\",\"Browser_Bits\":\"32\",\"Platform\":\"NetBSD\",\"Platform_Description\":\"NetBSD\",\"Platform_Bits\":\"32\",\"Device_Name\":\"general Desktop\",\"Device_Code_Name\":\"general Desktop\"}",
+        "3031479ae0285103a3637f62d7b71213\t{\"Parent\":\"Firefox Focus 2.3 for Android\",\"isTablet\":true,\"Device_Name\":\"general Tablet\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"general Tablet\"}",
         "3032eb682c232bc30b4c8c3567da570d\t{\"Parent\":\"luakit\",\"Version\":\"1.8\",\"MajorVer\":\"1\",\"MinorVer\":\"8\"}",
         "303f9a3e2979fd6a356a2ddb7b0fcf72\t{\"Parent\":\"TenFourFox 24.7\",\"Platform_Version\":\"10.9\"}"
     ]

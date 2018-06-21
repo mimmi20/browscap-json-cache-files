@@ -49,7 +49,7 @@
         "f699cbc4096713ee0c4d5a02b55d4126\t{\"Parent\":\"Thunderbird 52.4\",\"Browser_Bits\":\"32\",\"Platform\":\"macOS\",\"Platform_Version\":\"10.13\",\"Platform_Description\":\"macOS\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
         "f6958a44bb5f4b691a4740a55849ac47\t{\"Parent\":\"Firefox 19.0 for Android\",\"Platform_Version\":\"2.1\"}",
         "f69cfb2efab98be6e39c772c2ad14503\t{\"Parent\":\"Firefox 57.0 for Android\",\"Platform_Version\":\"7.0\"}",
-        "f696e436a40a917f2f34888c3edd7c53\t{\"Parent\":\"Firefox Focus 2.5 for Android\",\"Platform_Version\":\"5.0\",\"isTablet\":true,\"Device_Name\":\"general Tablet\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"general Tablet\"}",
-        "f6900cae3298fe7e1ab741f2eafe4171\t{\"Parent\":\"Firefox Focus 2.0 for iOS\",\"Platform_Version\":\"10.0\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}"
+        "f6900cae3298fe7e1ab741f2eafe4171\t{\"Parent\":\"Firefox Focus 2.0 for iOS\",\"Platform_Version\":\"10.0\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
+        "f696e436a40a917f2f34888c3edd7c53\t{\"Parent\":\"Firefox Focus 2.5 for Android\",\"Platform_Version\":\"5.0\",\"isTablet\":true,\"Device_Name\":\"general Tablet\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"general Tablet\"}"
     ]
 }

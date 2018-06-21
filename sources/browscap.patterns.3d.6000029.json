@@ -1,7 +1,7 @@
 {
     "content": [
         "3d281db0ee9012c016c9bba991a7945c\t62\tapplecoremedia\\/[\\d]\\.[\\d].* \\(iphone.*cpu os [\\d]_[\\d].* like mac os x.*\\), player fm.*",
-        "3d281db0ee9012c016c9bba991a7945c\t60\tapplecoremedia\\/[\\d]\\.[\\d].* \\(ipod.*cpu os [\\d]_[\\d].* like mac os x.*\\), player fm.*\tapplecoremedia\\/[\\d]\\.[\\d].* \\(iphone.*cpu os [\\d].* like mac os x.*\\), player fm.*\tapplecoremedia\\/[\\d]\\.[\\d].* \\(ipad.*cpu os [\\d]_[\\d].* like mac os x.*\\), player fm.*",
+        "3d281db0ee9012c016c9bba991a7945c\t60\tapplecoremedia\\/[\\d]\\.[\\d].* \\(ipad.*cpu os [\\d]_[\\d].* like mac os x.*\\), player fm.*\tapplecoremedia\\/[\\d]\\.[\\d].* \\(ipod.*cpu os [\\d]_[\\d].* like mac os x.*\\), player fm.*\tapplecoremedia\\/[\\d]\\.[\\d].* \\(iphone.*cpu os [\\d].* like mac os x.*\\), player fm.*",
         "3d281db0ee9012c016c9bba991a7945c\t58\tapplecoremedia\\/[\\d]\\.[\\d].* \\(ipad.*cpu os [\\d].* like mac os x.*\\), player fm.*\tapplecoremedia\\/[\\d]\\.[\\d].* \\(ipod.*cpu os [\\d].* like mac os x.*\\), player fm.*",
         "3d281db0ee9012c016c9bba991a7945c\t57\tapplecoremedia\\/[\\d]\\.[\\d].* \\(iphone.*cpu.*os.* like mac os x.*\\), player fm.*",
         "3d281db0ee9012c016c9bba991a7945c\t56\tapplecoremedia\\/[\\d]\\.[\\d].* \\(.*cpu os [\\d]_[\\d].* like mac os x.*\\), player fm.*",
@@ -9,7 +9,7 @@
         "3d281db0ee9012c016c9bba991a7945c\t54\tapplecoremedia\\/[\\d]\\.[\\d].* \\(.*cpu os [\\d].* like mac os x.*\\), player fm.*",
         "3d281db0ee9012c016c9bba991a7945c\t53\tapplecoremedia\\/[\\d]\\.[\\d].* \\(apple tv.*cpu os [\\d]_[\\d].* like mac os x.*\\).*",
         "3d281db0ee9012c016c9bba991a7945c\t51\tapplecoremedia\\/[\\d]\\.[\\d].* \\(.*cpu.*os.* like mac os x.*\\), player fm.*\tapplecoremedia\\/[\\d]\\.[\\d].* \\(iphone.*cpu os [\\d]_[\\d].* like mac os x.*\\).*",
-        "3d281db0ee9012c016c9bba991a7945c\t49\tapplecoremedia\\/[\\d]\\.[\\d].* \\(iphone.*cpu os [\\d].* like mac os x.*\\).*\tapplecoremedia\\/[\\d]\\.[\\d].* \\(ipod.*cpu os [\\d]_[\\d].* like mac os x.*\\).*\tapplecoremedia\\/[\\d]\\.[\\d].* \\(ipad.*cpu os [\\d]_[\\d].* like mac os x.*\\).*",
+        "3d281db0ee9012c016c9bba991a7945c\t49\tapplecoremedia\\/[\\d]\\.[\\d].* \\(ipad.*cpu os [\\d]_[\\d].* like mac os x.*\\).*\tapplecoremedia\\/[\\d]\\.[\\d].* \\(iphone.*cpu os [\\d].* like mac os x.*\\).*\tapplecoremedia\\/[\\d]\\.[\\d].* \\(ipod.*cpu os [\\d]_[\\d].* like mac os x.*\\).*",
         "3d281db0ee9012c016c9bba991a7945c\t48\tapplecoremedia\\/[\\d]\\.[\\d].* \\(apple tv.*cpu.*os.* like mac os x.*\\).*",
         "3d281db0ee9012c016c9bba991a7945c\t47\tapplecoremedia\\/[\\d]\\.[\\d].* \\(ipad.*cpu os [\\d].* like mac os x.*\\).*\tapplecoremedia\\/[\\d]\\.[\\d].* \\(ipod.*cpu os [\\d].* like mac os x.*\\).*",
         "3d281db0ee9012c016c9bba991a7945c\t46\tapplecoremedia\\/[\\d]\\.[\\d].* \\(iphone.*cpu.*os.* like mac os x.*\\).*",

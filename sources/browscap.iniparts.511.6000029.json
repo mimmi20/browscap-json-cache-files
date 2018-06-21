@@ -1,8 +1,8 @@
 {
     "content": [
         "51100f3b1d840eb3d44e64db69221a6b\t{\"Parent\":\"General Crawlers\",\"Browser\":\"UnWrap\"}",
-        "511b124fb8068ccb06ec47fd1a613d9a\t{\"Parent\":\"Avast SafeZone 1.48\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "5118caa364408818fa847b78ef239671\t{\"Parent\":\"Coc Coc Browser 64.0 for Android\",\"Platform_Version\":\"4.3\"}",
+        "511b124fb8068ccb06ec47fd1a613d9a\t{\"Parent\":\"Avast SafeZone 1.48\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "511e563ef1c233cfb10e7cb6e4200515\t{\"Parent\":\"Baidu Browser 4.1\",\"Platform_Version\":\"4.1\",\"JavaApplets\":true,\"RenderingEngine_Name\":\"WebKit\",\"RenderingEngine_Description\":\"For Google Chrome, iOS (including both mobile Safari, WebViews within third-party apps, and web clips), Safari, Arora, Midori, OmniWeb, Shiira, iCab since version 4, Web, SRWare Iron, Rekonq, and in Maxthon 3.\",\"RenderingEngine_Maker\":\"Apple Inc\"}",
         "511dc5a66ad12a2e9a3022719203b3f5\t{\"Parent\":\"Naver 6.1 for iOS\"}",
         "511df41eecf460ff8475d2e6b47afffb\t{\"Parent\":\"UC Browser 9.5 for Android\",\"Platform_Version\":\"4.2\",\"Device_Name\":\"Canvas Juice\",\"Device_Maker\":\"Micromax\",\"Device_Code_Name\":\"A77\",\"Device_Brand_Name\":\"Micromax\",\"RenderingEngine_Name\":\"U3\"}",

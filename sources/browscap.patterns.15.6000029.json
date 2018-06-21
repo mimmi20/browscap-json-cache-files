@@ -8,7 +8,7 @@
         "158c5124ae8ee9f3f11a80c0beeb90db\t17\tmot\\-a[\\d][\\d][\\d]\\/.* mib\\/[\\d]\\.[\\d].*",
         "159115c78bd71c86ed4f72f2d9b0b8af\t103\tnokia[\\d][\\d][\\d]t_td\\/.* \\(symbianos\\/.*; series[\\d][\\d]\\/.* mozilla\\/[\\d]\\.[\\d]; .*\\) applewebkit.* \\(.*khtml.*like.*gecko.*\\)nokiabrowser\\/[\\d]\\.[\\d].*safari\\/.*",
         "159dfe654972cb1e09d78b89a0cc38ff\t35\topera%[\\d][\\d]coast\\/[\\d]\\.[\\d][\\d].* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d][\\d].*",
-        "159dfe654972cb1e09d78b89a0cc38ff\t34\topera%[\\d][\\d]coast\\/[\\d]\\.[\\d].* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d][\\d].*\topera%[\\d][\\d]coast\\/[\\d]\\.[\\d][\\d].* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d].*",
+        "159dfe654972cb1e09d78b89a0cc38ff\t34\topera%[\\d][\\d]coast\\/[\\d]\\.[\\d][\\d].* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d].*\topera%[\\d][\\d]coast\\/[\\d]\\.[\\d].* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d][\\d].*",
         "159dfe654972cb1e09d78b89a0cc38ff\t33\topera%[\\d][\\d]coast\\/[\\d]\\.[\\d].* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d].*",
         "159dfe654972cb1e09d78b89a0cc38ff\t32\topera%[\\d][\\d]coast\\/[\\d]\\.[\\d][\\d].* cfnetwork\\/[\\d][\\d][\\d].*",
         "159dfe654972cb1e09d78b89a0cc38ff\t31\topera%[\\d][\\d]coast\\/[\\d]\\.[\\d].* cfnetwork\\/[\\d][\\d][\\d].*",

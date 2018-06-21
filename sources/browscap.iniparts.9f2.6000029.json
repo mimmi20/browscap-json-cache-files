@@ -55,8 +55,8 @@
         "9f25c18bfe7d67778850c5f1763f160c\t{\"Parent\":\"Firefox 5.0\",\"Browser_Bits\":\"32\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"64\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win64\":true}",
         "9f2b09a09689e645719bf6fac2e501a8\t{\"Parent\":\"CometBird 3.6\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "9f24c5b9bd128b57db5cce2094cb0633\t{\"Parent\":\"PodCruncher 3.2\",\"Platform_Version\":\"4.3\"}",
-        "9f26a92d33c34b7c40ff784a059627b8\t{\"Parent\":\"AudioBoom\",\"Platform_Version\":\"5.1\"}",
         "9f24c2e4789ed8a8208ad3e880d55c17\t{\"Parent\":\"FancyMusic Generic\",\"Browser_Bits\":\"32\",\"Platform\":\"iOS\",\"Platform_Version\":\"8.1\",\"Platform_Description\":\"iPod, iPhone \\u0026 iPad\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
+        "9f26a92d33c34b7c40ff784a059627b8\t{\"Parent\":\"AudioBoom\",\"Platform_Version\":\"5.1\"}",
         "9f244a31bb30e14725c5a0e5e5b24572\t{\"Parent\":\"TenFourFox 24.3\",\"Platform_Version\":\"10.10\"}"
     ]
 }

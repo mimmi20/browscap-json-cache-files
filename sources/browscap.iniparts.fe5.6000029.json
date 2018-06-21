@@ -18,8 +18,8 @@
         "fe5c336583f1b1004e4dd32235ebcd7c\t{\"Parent\":\"Yandex Browser 14.12 for Android\",\"Platform_Version\":\"4.3\",\"Device_Name\":\"Ascend Y530\",\"Device_Maker\":\"Huawei\",\"Device_Code_Name\":\"Y530-U00\",\"Device_Brand_Name\":\"Huawei\"}",
         "fe5231f7256c5423de6cc9bd9f83c75b\t{\"Parent\":\"Opera Mobile 22.0 for Android\",\"Platform_Version\":\"4.2\",\"Device_Name\":\"Xperia L\",\"Device_Maker\":\"Sony\",\"Device_Code_Name\":\"C2105\",\"Device_Brand_Name\":\"Sony\"}",
         "fe57025a0cad5659328d6b1299e496f0\t{\"Parent\":\"Opera 16.0\",\"Browser_Bits\":\"32\",\"Platform\":\"Win2000\",\"Platform_Version\":\"5.0\",\"Platform_Description\":\"Windows 2000\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
-        "fe57d007607539fa997afdb0c166ab1a\t{\"Parent\":\"Iron 39.0\",\"Browser_Bits\":\"32\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
         "fe5f38b3ed4f1cb56b1bbfdb913047f8\t{\"Parent\":\"MobileIron 1.7 for iOS\",\"Platform_Version\":\"9.2\",\"Device_Name\":\"iPhone\",\"Device_Type\":\"Mobile Phone\",\"Device_Code_Name\":\"iPhone\"}",
+        "fe57d007607539fa997afdb0c166ab1a\t{\"Parent\":\"Iron 39.0\",\"Browser_Bits\":\"32\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Microsoft Corporation\",\"Win32\":true}",
         "fe5078022b0073cd93abfc79f0c8a6ff\t{\"Parent\":\"Chrome 65.0 for Android\",\"Platform_Version\":\"4.4\",\"Device_Name\":\"Canvas Nitro 2\",\"Device_Maker\":\"Micromax\",\"Device_Code_Name\":\"E311\",\"Device_Brand_Name\":\"Micromax\"}",
         "fe550a313b8e7fa09ff3c0230159f71e\t{\"Parent\":\"Chrome 62.0 for Android\",\"Platform_Version\":\"8.1\",\"isTablet\":true,\"Device_Name\":\"general Tablet\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"general Tablet\"}",
         "fe537feab90931a0fb6ece9fa1be314d\t{\"Parent\":\"Chrome 60.0 for Android\",\"Platform_Version\":\"4.1\",\"Device_Name\":\"Xperia P\",\"Device_Maker\":\"Sony\",\"Device_Code_Name\":\"LT22i\",\"Device_Brand_Name\":\"Sony\"}",
@@ -46,7 +46,7 @@
         "fe52bce0cee6daf51c669c61d0185bc8\t{\"Parent\":\"Firefox 20.0\",\"Browser_Bits\":\"32\",\"Platform\":\"MacOSX\",\"Platform_Version\":\"10.8\",\"Platform_Description\":\"Mac OS X\",\"Platform_Bits\":\"32\",\"Platform_Maker\":\"Apple Inc\",\"Device_Name\":\"Macintosh\",\"Device_Maker\":\"Apple Inc\",\"Device_Code_Name\":\"Macintosh\",\"Device_Brand_Name\":\"Apple\"}",
         "fe5a9f346bd261bbad9a170eed71dd36\t{\"Parent\":\"CometBird 9.0\",\"Platform\":\"Win8\",\"Platform_Version\":\"6.2\",\"Platform_Description\":\"Windows 8\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
         "fe5b596441a8bc3b103cc142a7efd0ed\t{\"Parent\":\"CometBird 9.0\",\"Platform\":\"WinXP\",\"Platform_Version\":\"5.2\",\"Platform_Description\":\"Windows XP\",\"Platform_Bits\":\"64\",\"Win32\":false,\"Win64\":true}",
-        "fe5260cf393f5bce5aeac5555ee8366d\t{\"Parent\":\"RSSRadio\",\"Platform_Version\":\"4.3\"}",
-        "fe5d5e5900f957abcafc5f3d523e80e5\t{\"Parent\":\"TopPodcasts Generic\",\"Platform_Version\":\"4.0\"}"
+        "fe5d5e5900f957abcafc5f3d523e80e5\t{\"Parent\":\"TopPodcasts Generic\",\"Platform_Version\":\"4.0\"}",
+        "fe5260cf393f5bce5aeac5555ee8366d\t{\"Parent\":\"RSSRadio\",\"Platform_Version\":\"4.3\"}"
     ]
 }

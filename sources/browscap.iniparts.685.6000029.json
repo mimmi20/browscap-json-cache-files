@@ -1,8 +1,8 @@
 {
     "content": [
         "68534920c621a5a2909d011e33570756\t{\"Parent\":\"General Crawlers\",\"Browser\":\"Forum Poster\",\"Browser_Maker\":\"forumposter.us\"}",
-        "6855b669e0a74ad6ad23e6087f5619ac\t{\"Parent\":\"CM Browser\",\"Platform_Version\":\"4.4\",\"JavaApplets\":false,\"Device_Name\":\"Tornado 348\",\"Device_Maker\":\"KAZAM\",\"Device_Code_Name\":\"Tornado 348\",\"Device_Brand_Name\":\"KAZAM\",\"RenderingEngine_Name\":\"Blink\",\"RenderingEngine_Description\":\"a WebKit Fork by Google\",\"RenderingEngine_Maker\":\"Google Inc\"}",
         "6853c5ba19ab1b307178460b7ac99709\t{\"Parent\":\"Qword Browser 35.0\",\"Platform\":\"Win8.1\",\"Platform_Version\":\"6.3\",\"Platform_Description\":\"Windows 8.1\"}",
+        "6855b669e0a74ad6ad23e6087f5619ac\t{\"Parent\":\"CM Browser\",\"Platform_Version\":\"4.4\",\"JavaApplets\":false,\"Device_Name\":\"Tornado 348\",\"Device_Maker\":\"KAZAM\",\"Device_Code_Name\":\"Tornado 348\",\"Device_Brand_Name\":\"KAZAM\",\"RenderingEngine_Name\":\"Blink\",\"RenderingEngine_Description\":\"a WebKit Fork by Google\",\"RenderingEngine_Maker\":\"Google Inc\"}",
         "6852d59288123ddf0b3031294da6ffa4\t{\"Parent\":\"Baidu Browser 3.1\",\"Platform_Version\":\"4.4\",\"isTablet\":true,\"Device_Name\":\"T72M 3G\",\"Device_Maker\":\"Oysters\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"T72M 3G\",\"Device_Brand_Name\":\"Oysters\"}",
         "685c267a29ae2e515f1a545d280b2929\t{\"Parent\":\"Baidu Browser HD Generic for iOS\",\"Platform_Version\":\"9.1\",\"isTablet\":true,\"Device_Name\":\"iPad\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"iPad\"}",
         "685b1094d7c60f07373ee81c11cbac0c\t{\"Parent\":\"UC Browser 3.6 for Android\",\"Platform_Version\":\"5.0\",\"isTablet\":true,\"Device_Name\":\"Galaxy Tab S 8.4 LTE\",\"Device_Maker\":\"Samsung\",\"Device_Type\":\"Tablet\",\"Device_Code_Name\":\"SM-T705\",\"Device_Brand_Name\":\"Samsung\"}",
