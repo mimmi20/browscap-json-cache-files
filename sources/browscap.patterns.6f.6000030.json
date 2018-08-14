@@ -1,0 +1,28 @@
+{
+    "content": [
+        "6f07cf495385ed73868cb030bce3c0ed\t28\tmotorola\\-t[\\d][\\d]\\/.* up\\.browser\\/[\\d]\\.[\\d].*",
+        "6f136d76e1e03a74989490d9e2f655ef\t32\tsamsung\\-sgh\\-t[\\d][\\d][\\d]\\/.* up\\.browser\\/[\\d]\\.[\\d].*",
+        "6f1a1c88f461368a13f344e1832ac69f\t47\thtc\\-.*\\/.* mozilla\\/.* \\(compatible; msie .*\\..*; windows ce.*\\).*",
+        "6f6a72454aceedf0e896bb8045af3ca7\t35\topera%[\\d][\\d]coast\\/[\\d]\\.[\\d][\\d].* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d][\\d].*",
+        "6f6a72454aceedf0e896bb8045af3ca7\t34\topera%[\\d][\\d]coast\\/[\\d]\\.[\\d][\\d].* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d].*\topera%[\\d][\\d]coast\\/[\\d]\\.[\\d].* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d][\\d].*",
+        "6f6a72454aceedf0e896bb8045af3ca7\t33\topera%[\\d][\\d]coast\\/[\\d]\\.[\\d].* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d].*",
+        "6f6a72454aceedf0e896bb8045af3ca7\t32\topera%[\\d][\\d]coast\\/[\\d]\\.[\\d][\\d].* cfnetwork\\/[\\d][\\d][\\d].*",
+        "6f6a72454aceedf0e896bb8045af3ca7\t31\topera%[\\d][\\d]coast\\/[\\d]\\.[\\d].* cfnetwork\\/[\\d][\\d][\\d].*",
+        "6f6a72454aceedf0e896bb8045af3ca7\t29\topera%[\\d][\\d]coast\\/[\\d]\\.[\\d][\\d].* cfnetwork\\/.*",
+        "6f6a72454aceedf0e896bb8045af3ca7\t28\topera%[\\d][\\d]coast\\/[\\d]\\.[\\d].* cfnetwork\\/.*",
+        "6fa9d5745b49c17de71f65c36fe5453e\t29\treeder\\/.* cfnetwork\\/[\\d][\\d][\\d].*\\(x[\\d][\\d]_[\\d][\\d]\\).*",
+        "6fa9d5745b49c17de71f65c36fe5453e\t24\treeder\\/.* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d][\\d].*",
+        "6fa9d5745b49c17de71f65c36fe5453e\t23\treeder\\/.* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d].*",
+        "6fa9d5745b49c17de71f65c36fe5453e\t21\treeder\\/.* cfnetwork\\/[\\d][\\d][\\d].*",
+        "6fa9d5745b49c17de71f65c36fe5453e\t18\treeder\\/.* cfnetwork\\/.*",
+        "6fb7e43d482b1847f2b9cc804faedd98\t11\tsitechecker",
+        "6fbeca9569a25b9eb2077d0981cb133b\t12\twww_browser\\/.*",
+        "6fc0b2eabc33d8a150c91afc687d6d1e\t26\tsamsung\\-.* polaris\\/[\\d]\\..* mmp\\/[\\d]\\..*",
+        "6fc0b2eabc33d8a150c91afc687d6d1e\t21\tsamsung\\-.* jasmine\\/[\\d]\\.[\\d].* ",
+        "6fc0b2eabc33d8a150c91afc687d6d1e\t20\tsamsung\\-.* jasmine\\/[\\d]\\.[\\d].*",
+        "6fd16fd380a7afa1abdfff1e9f1d86a4\t11\tbitlybot\\/[\\d]\\..*",
+        "6fde9eda70760bfd68ccd113ceb7e4eb\t5\tnabot.*",
+        "6fe21a239a8c40752cf1ab6c118141a5\t23\tsie\\-s[\\d][\\d]\\/.* up\\.browser\\/[\\d]\\.[\\d].*",
+        "6fe68efeadbf5322d4c36c332a3085cf\t98\tlg\\-d[\\d][\\d][\\d].*mozilla\\/[\\d]\\.[\\d] \\(.*linux.*android.[\\d]\\.[\\d].*lg\\-d[\\d][\\d][\\d].*\\) applewebkit.* \\(.*khtml.*like.*gecko.*\\).*version\\/.*chrome\\/[\\d][\\d]\\.[\\d].*safari.*"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "content": [
+        "f706b41e6c93cd9cbb840d40891ff190\t8\tmiro\\/[\\d]\\.[\\d].*",
+        "f7163a5de55afcef7a5f79e4f7b73bd5\t12\tsec\\-sghe[\\d][\\d][\\d] .*",
+        "f7180f5100eae03daa591ef8db64495b\t21\tsogou develop spider\\/.*",
+        "f7180f5100eae03daa591ef8db64495b\t20\tsogou web spider\\/[\\d]\\.[\\d].*",
+        "f7180f5100eae03daa591ef8db64495b\t19\tsogou orion spider\\/.*",
+        "f7180f5100eae03daa591ef8db64495b\t17\tsogou head spider.*\tsogou push spider.*",
+        "f7180f5100eae03daa591ef8db64495b\t16\tsogou pic spider.*\tsogou web spider.*\tsogou js robot\\(.*\\)",
+        "f7180f5100eae03daa591ef8db64495b\t15\tsogou pic agent",
+        "f7180f5100eae03daa591ef8db64495b\t12\tsogou spider.*",
+        "f71ceb4658c881ce8decf92ee4a7e389\t47\tsamsung\\-gt\\-s[\\d][\\d][\\d][\\d].* opera\\/.*\\(j[\\d]me\\/midp.*opera mini\\/[\\d]\\.[\\d].*",
+        "f738d72099274813187a7e964bfc059f\t10\tnokia[\\d][\\d][\\d][\\d].*\\/.*",
+        "f743c6c84fc42a21130f7990f396f296\t10\tm[\\d]gate\\/[\\d]\\.[\\d].*",
+        "f7474cb0f948a1d1ae2475fbc00f6688\t19\tlg\\-m[\\d][\\d][\\d][\\d] mic\\/wap[\\d]\\.[\\d].*",
+        "f76053074d2db4bdf085e856847d210d\t34\tsuperpages url verification engine",
+        "f7807200e339a8cb982bc2edf9ebe242\t21\tlg\\-.* polaris\\/[\\d]\\..* mmp\\/[\\d]\\..*",
+        "f78aebc8fc342f0d9537977a9adcf98f\t8\tseasydl\\/.*",
+        "f7affb2ebbf6d984d19e302b4d43da15\t29\tlenovo\\-e[\\d][\\d][\\d]\\/.*\\/wap[\\d]\\.[\\d]\\.[\\d] profile",
+        "f7de27a75cac08aebaa64edd675de045\t14\tvirus_detector.*",
+        "f7e172bf91926f8a8df973c6918cae76\t68\thtc_tytn mozilla\\/[\\d]\\.[\\d] \\(.*compatible.*;.*msie [\\d]\\..*; windows ce; iemobile.[\\d]\\.[\\d][\\d].*\\)",
+        "f7e172bf91926f8a8df973c6918cae76\t67\thtc_tytn mozilla\\/[\\d]\\.[\\d] \\(.*compatible.*;.*msie [\\d]\\..*; windows ce; iemobile.[\\d]\\.[\\d].*\\)\thtc_tytn mozilla\\/[\\d]\\.[\\d] \\(.*compatible.*;.*msie [\\d]\\.[\\d]; windows ce; iemobile.[\\d]\\..*\\)",
+        "f7fb54cf438882a82e9a849624228bcf\t31\tpodcastone\\/[\\d]\\.[\\d].* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d][\\d].*",
+        "f7fb54cf438882a82e9a849624228bcf\t30\tpodcastone\\/[\\d]\\.[\\d].* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d].*",
+        "f7fb54cf438882a82e9a849624228bcf\t28\tpodcastone\\/[\\d]\\.[\\d].* cfnetwork\\/[\\d][\\d][\\d].*",
+        "f7fb54cf438882a82e9a849624228bcf\t25\tpodcastone\\/[\\d]\\.[\\d].* cfnetwork\\/.*"
+    ]
+}
