@@ -1,0 +1,22 @@
+{
+    "content": [
+        "dc140c63e4364a5b72a32d600452880e\t8\ticarus[\\d]j.*",
+        "dc19c62d51bf78043c7d6d4b58e0ee35\t10\tnewsme\\/[\\d]\\.[\\d].*",
+        "dc40e42bc575e2539359188ac93d40db\t24\twindows\\-media\\-player\\/[\\d][\\d]\\..*",
+        "dc4738b7b62b4a2ff695e94fbcd429b4\t23\tlg\\-f[\\d][\\d][\\d][\\d] up\\.browser\\/[\\d]\\.[\\d].*",
+        "dc47cf7c6af0be9e80ba79745678406c\t26\txda_diamond_pro opera.[\\d]\\.[\\d][\\d].*",
+        "dc47cf7c6af0be9e80ba79745678406c\t25\txda_diamond_pro opera.[\\d]\\.[\\d].*",
+        "dc62de918ab78b498020d1e451c98341\t22\tlg\\-gt[\\d][\\d][\\d] teleca\\/wap[\\d]\\.[\\d].*",
+        "dc7000071d28e8548e8ca3836c62ca98\t15\telinks\\/.* \\(.*linux.*\\)",
+        "dc82f626406aa357896b3b79eacc8ad3\t33\tespn%[\\d][\\d]radio\\/[\\d]\\.[\\d].* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d][\\d].*",
+        "dc82f626406aa357896b3b79eacc8ad3\t32\tespn%[\\d][\\d]radio\\/[\\d]\\.[\\d].* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d].*",
+        "dc82f626406aa357896b3b79eacc8ad3\t30\tespn%[\\d][\\d]radio\\/[\\d]\\.[\\d].* cfnetwork\\/[\\d][\\d][\\d].*",
+        "dc82f626406aa357896b3b79eacc8ad3\t27\tespn%[\\d][\\d]radio\\/[\\d]\\.[\\d].* cfnetwork\\/.*",
+        "dc8f26e487b8fe96504a4c0a0dcb3061\t26\tsec\\-schn[\\d][\\d][\\d] up\\.browser\\/[\\d]\\.[\\d].*",
+        "dca0260202e548ff59b196b14518e59b\t28\tkaklebot \\- www\\.kakle\\.com\\/[\\d]\\.[\\d]",
+        "dcc2ffa0546bde964069309a68b90757\t29\tsamsung\\-e[\\d][\\d][\\d][\\d]\\/.* up\\.browser\\/[\\d]\\.[\\d].*",
+        "dcc53a4fe03afb39f5d619a38180f034\t8\tfeedspot.*",
+        "dccee81acc8101a0e79ae82d0a53465e\t7\tpeerbot.*",
+        "dcea4ad1be1276e64cf522a074f9d3c5\t18\tblackberry[\\d][\\d][\\d][\\d]\\/[\\d]\\.[\\d].*"
+    ]
+}

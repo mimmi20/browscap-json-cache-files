@@ -1,0 +1,22 @@
+{
+    "content": [
+        "7603641b07c3396aa32a7de24602667e\t45\tgoogleearth\\/.*\\(.*windows;microsoft windows \\([\\d]\\.[\\d].*\\).*\\).*",
+        "7636edbae9bde9bf6d457fcfcda9c36a\t10\tbloglovin\\/.*",
+        "7654edccd36fd3e59b271dfdbf1d1bbb\t19\tsoftwing_tear_agent.*",
+        "7666c7d7a69ec249b4b71822f0399fe3\t7\tahc\\/[\\d]\\.[\\d].*",
+        "769ea629be079f928ded2c9b63a4372d\t10\tuipbot\\/[\\d]\\.[\\d].*",
+        "76b12bca922a8c155ce0dc1711a1d489\t9\tmbcrawler.*",
+        "76b227c21338841199f9704e94404d36\t26\tlge\\-mx[\\d][\\d][\\d][\\d]\\/.* up\\.browser\\/[\\d]\\.[\\d].*",
+        "76b4944bef5835f738116634b8b93d1a\t9\tpajaczek\\/.*",
+        "76b9019023b343dad0a079238cc689cd\t29\tgoodreader[\\d]\\/.* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d][\\d].*",
+        "76b9019023b343dad0a079238cc689cd\t28\tgoodreader[\\d]\\/.* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d].*",
+        "76b9019023b343dad0a079238cc689cd\t26\tgoodreader[\\d]\\/.* cfnetwork\\/[\\d][\\d][\\d].*",
+        "76b9019023b343dad0a079238cc689cd\t23\tgoodreader[\\d]\\/.* cfnetwork\\/.*",
+        "76c781c34e8937a6548e7bc0134dfa6e\t13\tnetid\\.com bot.*",
+        "76db399f6a8ad644725d69a8e4b40956\t72\tsimpy\\/.* \\(simpy; http\\:\\/\\/www\\.simpy\\.com\\/.ref\\=bot; feedback at simpy dot com\\)",
+        "76f1ff5a838447f8e662319395e15352\t17\tmot\\-a[\\d][\\d][\\d]\\/.* mib\\/[\\d]\\.[\\d].*",
+        "76f5b91f8dd5dddb62b2747a3c6065f7\t56\tdopodd[\\d][\\d][\\d]\\/mozilla\\/[\\d]\\.[\\d] \\(.*compatible.*;.*msie [\\d]\\.[\\d][\\d]; windows ce.*\\)",
+        "76fa7cb14f481535f17cb216b8b80853\t15\ttwiends crawler.*",
+        "76fe022d146dffc93697d03bc8e3cf51\t22\tsamsung\\-sgh\\-x[\\d][\\d][\\d]c\\/[\\d]\\.[\\d] .*"
+    ]
+}

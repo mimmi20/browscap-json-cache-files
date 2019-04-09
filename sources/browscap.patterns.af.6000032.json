@@ -1,0 +1,22 @@
+{
+    "content": [
+        "af1bd883820c82fdf5f077d6ca055f5d\t18\tsamsung\\-gt\\-s[\\d][\\d][\\d][\\d]y\\/.*",
+        "af282817ecf0c1441acf46b89119beef\t21\tsamsungi[\\d][\\d][\\d][\\d].*symbianos.*",
+        "af4abb8de2579b191fc3f18c1bdc444c\t16\tinfowars android.*",
+        "af4eac6bd7c3c18f8dc79bd986948043\t31\tsamsung\\-sgh\\-x[\\d][\\d][\\d].* up\\.browser\\/[\\d]\\.[\\d].*",
+        "af5ce0388d8e6f630a06f4d2933eb579\t26\trestify\\/[\\d]\\.[\\d].* \\(.*darwin.*\\) node\\/.*",
+        "af5ce0388d8e6f630a06f4d2933eb579\t20\trestify\\/[\\d]\\.[\\d].* \\(.*\\) node\\/.*",
+        "af66d1f08440e8b2f73ad3f28b686ca8\t14\tdomainstatsbot.*",
+        "af6d3a723bc502d836dbe09234b138fb\t7\twnmbot\\/.*",
+        "af87cb4634dd924749a1a5497913238d\t10\tshowyoubot.*",
+        "af8bfce5fc4b9a2800583560b00eff64\t24\tnokia[\\d][\\d][\\d][\\d]\\/.* ucbrowser\\/[\\d]\\.[\\d].*",
+        "af8bfce5fc4b9a2800583560b00eff64\t10\tnokia[\\d][\\d][\\d][\\d]\\/.*",
+        "af91d71e81c9803d90bf04e391c75d85\t10\tadbeat_bot.*",
+        "af9d83836ecf1f49c598bcb1995b3c98\t4\twget.*",
+        "afa1f826cefac819d210d98b8a0eff92\t10\ttwikle\\/[\\d]\\.[\\d].*",
+        "afa695ef5590c7d809792349920bf2e0\t24\tsie\\-s[\\d][\\d]c\\/.* up\\.browser\\/[\\d]\\.[\\d].*",
+        "afbe7d1e6ec2bf0e096753ecd980de1b\t14\tlg\\/u[\\d][\\d][\\d][\\d]\\/v[\\d]\\.[\\d] .*",
+        "afbe7d1e6ec2bf0e096753ecd980de1b\t13\tlg\\/u[\\d][\\d][\\d][\\d]\\/v[\\d]\\.[\\d]",
+        "afc7ad3dfce6838aa0172f88a337fc15\t31\tsamsung\\-sgh\\-t[\\d][\\d][\\d].* up\\.browser\\/[\\d]\\.[\\d].*"
+    ]
+}
