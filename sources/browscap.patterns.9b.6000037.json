@@ -1,0 +1,20 @@
+{
+    "content": [
+        "9b0e81b900ee25bf2a6fa1c88357baf0\t15\tmot\\-v[\\d]\\/.* mib\\/[\\d]\\.[\\d].*",
+        "9b1ae4305d8947b622d0dddbd7664f95\t47\tk\\-meleon\\/[\\d]\\.[\\d] \\(.*windows nt [\\d]\\.[\\d].*\\) gecko.* mozilla\\/[\\d]\\.[\\d]",
+        "9b20dd56a2f9183d100ba55451a61bb6\t19\tclipish\\/.* cfnetwork\\/.*",
+        "9b22cfe1607a8b67b95095b58e1fb4a6\t83\tvms_mosaic\\/[\\d]\\.[\\d] \\(motif;openvms v[\\d]\\.[\\d] compaq professional workstation \\) libwww\\/.*_mosaic",
+        "9b4898b03b69ed9664a6a346f8486f6c\t48\thtc_hd_mini_t[\\d][\\d][\\d][\\d] opera\\/[\\d]\\.[\\d][\\d].* \\(windows nt [\\d]\\.[\\d]; u.*\\)",
+        "9b4898b03b69ed9664a6a346f8486f6c\t47\thtc_hd_mini_t[\\d][\\d][\\d][\\d] opera\\/[\\d]\\.[\\d].* \\(windows nt [\\d]\\.[\\d]; u.*\\)",
+        "9b4898b03b69ed9664a6a346f8486f6c\t28\thtc_hd_mini_t[\\d][\\d][\\d][\\d] opera\\/[\\d]\\.[\\d][\\d].*",
+        "9b4898b03b69ed9664a6a346f8486f6c\t27\thtc_hd_mini_t[\\d][\\d][\\d][\\d] opera\\/[\\d]\\.[\\d].*",
+        "9b91e3a716f640d9e9b6acedfdae7106\t100\thtc_desires_s[\\d][\\d][\\d]e.mozilla\\/[\\d]\\.[\\d]\\(.*linux.*android.[\\d]\\.[\\d].*build\\/.*\\) applewebkit.* \\(.*khtml.*like.*gecko.*\\) version\\/[\\d]\\.[\\d].*safari.*",
+        "9ba6249799f72fa982f6ea7db7089ea4\t10\tnewsgator\\/.*",
+        "9bac326605c8979aa8f7e21151664b40\t23\trestify\\/.* \\(.*darwin.*\\) node\\/.*",
+        "9bac326605c8979aa8f7e21151664b40\t17\trestify\\/.* \\(.*\\) node\\/.*",
+        "9bceae0dda7233646a487feb1da2ac9d\t8\tsteeler\\/.*",
+        "9bd31637aa51ff070ce53da740420df8\t27\tsamsung\\-b[\\d][\\d][\\d][\\d]\\/uc browser[\\d]\\.[\\d].*",
+        "9bd4f5111bcee264dc81752e78093a12\t22\tgosquared\\-thumbnailer\\/.*",
+        "9bee116bacff3d9f0931fdc0776a7e92\t15\tnetnewswire\\/[\\d]\\.[\\d].*"
+    ]
+}

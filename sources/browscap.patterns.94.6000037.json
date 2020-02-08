@@ -1,0 +1,18 @@
+{
+    "content": [
+        "94025a8fdbbe9977efb5f43309a30410\t17\tfollowsite\\.com \\(.*\\)",
+        "94157d66f891fc3df5112159e174c76c\t21\tlg[\\d][\\d][\\d]\\/.* up\\.browser\\/[\\d]\\.[\\d].*",
+        "941d36af0bd0986acd3dc3fd73603901\t9\tnokiae[\\d][\\d].*\\/.*",
+        "9426aabf5075e72cfefe2ff06e3065bb\t7\tfacebot.*",
+        "94679639fbff388d5ea792f2c54d1afd\t64\txda_star; [\\d][\\d][\\d]x[\\d][\\d][\\d] \\(.*compatible.*;.*msie [\\d]\\.[\\d]; windows ce; iemobile.[\\d]\\.[\\d].*",
+        "946c754b58b5136e513b33cbee9af0e7\t11\ty\\!j\\-brg\\/gsc.*",
+        "94728fff5719c8ec1cab6b8cbb83a2d6\t8\twisebot\\/.*",
+        "9496f4ed134d13a470d18a33b2574fb3\t26\tnokia[\\d][\\d][\\d][\\d]fold\\/.* applewebkit.*",
+        "94d8bbaa5a5655fb32e0c6ad5d0cd664\t12\tapplenewsbot.*",
+        "94e0907f19416adbfd9ba6979d3c0053\t58\toncheck linkchecker von www\\.scientec\\.de fuer www\\.onsinn\\.de",
+        "94e9d556243a31553ac0de8484880b83\t10\tnokia[\\d][\\d][\\d][\\d]\\/.*",
+        "94f2f18bce0f7b213d6b3a3a662cb525\t12\tnsplayer\\/[\\d][\\d]\\..*",
+        "94f3b1fa55424842feff6f80d57d3ed6\t10\twebpatrol\\/.*",
+        "94f698a47bff5795825d2fd8c2ae617a\t22\tnokian[\\d][\\d]\\/uc browser[\\d]\\.[\\d].*"
+    ]
+}

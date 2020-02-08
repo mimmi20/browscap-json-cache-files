@@ -1,0 +1,25 @@
+{
+    "content": [
+        "7011b9842bec10937dbaf06f11d6991a\t10\tnokia[\\d][\\d][\\d][\\d]\\/.*",
+        "7015643a287e33878bee9586d1babc06\t7\tmot\\-e[\\d]\\/.*",
+        "70196d2828b07f3480354232d7701bbd\t35\tfancymusic [\\d]\\.[\\d].* \\(iphone.*iphone os.[\\d].[\\d].*",
+        "70196d2828b07f3480354232d7701bbd\t33\tfancymusic [\\d]\\.[\\d].* \\(ipod.*iphone os.[\\d].[\\d].*",
+        "70196d2828b07f3480354232d7701bbd\t32\tfancymusic .* \\(iphone.*iphone os.[\\d].[\\d].*",
+        "70196d2828b07f3480354232d7701bbd\t31\tfancymusic [\\d]\\.[\\d].* \\(iphone.*iphone os.*",
+        "70196d2828b07f3480354232d7701bbd\t30\tfancymusic .* \\(ipod.*iphone os.[\\d].[\\d].*",
+        "70196d2828b07f3480354232d7701bbd\t29\tfancymusic [\\d]\\.[\\d].* \\(ipod.*iphone os.*\tfancymusic [\\d]\\.[\\d].* \\(.*iphone os.[\\d].[\\d].*",
+        "70196d2828b07f3480354232d7701bbd\t28\tfancymusic .* \\(iphone.*iphone os.*",
+        "70196d2828b07f3480354232d7701bbd\t26\tfancymusic .* \\(ipod.*iphone os.*\tfancymusic .* \\(.*iphone os.[\\d].[\\d].*",
+        "70196d2828b07f3480354232d7701bbd\t25\tfancymusic [\\d]\\.[\\d].* \\(.*iphone os.*",
+        "70196d2828b07f3480354232d7701bbd\t22\tfancymusic .* \\(.*iphone os.*",
+        "705b3152f1504b6b740eff7e12f59635\t18\tsemanticdiscovery\\/.*",
+        "707f2643ec09211be84949bd75dc311c\t53\tmot\\-e[\\d][\\d][\\d]\\/.* mozilla\\/[\\d]\\.[\\d] \\(.*compatible.*;.*msie [\\d]\\.[\\d].* opera [\\d]\\.[\\d][\\d].*",
+        "707f2643ec09211be84949bd75dc311c\t52\tmot\\-e[\\d][\\d][\\d]\\/.* mozilla\\/[\\d]\\.[\\d] \\(.*compatible.*;.*msie [\\d]\\.[\\d].* opera [\\d]\\.[\\d].*",
+        "70a2bc2db58e5d2fd93b4bef4a111fa4\t18\tmot\\-a[\\d][\\d][\\d]i\\/.* mib\\/[\\d]\\.[\\d].*",
+        "70a9d7876f4adeaf15396391ac891f39\t27\tlg\\-gt[\\d][\\d][\\d]\\/v[\\d][\\d]g teleca\\/wap[\\d]\\.[\\d].*",
+        "70c98a366347b8ac4633f348dad6a13d\t32\tsamsung\\-sgh\\-p[\\d][\\d][\\d].*\\/.* up\\.browser\\/[\\d]\\.[\\d].*",
+        "70c98a366347b8ac4633f348dad6a13d\t16\tsamsung\\-sgh\\-p[\\d][\\d][\\d].*",
+        "70dffbf707508299257989c049134abb\t12\tsec\\-sghp[\\d][\\d][\\d] .*",
+        "70e4a27c33cb243042dc69b50dcd5398\t16\tcheckmarknetwork.*"
+    ]
+}

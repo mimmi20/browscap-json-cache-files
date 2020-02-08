@@ -1,0 +1,29 @@
+{
+    "content": [
+        "5100025a518e4834bcf32ffd5bac6b61\t31\tsamsung\\-sgh\\-t[\\d][\\d][\\d].* up\\.browser\\/[\\d]\\.[\\d].*",
+        "510519fe2158c9a8bfcbba824cd41d26\t24\txing\\-contenttabreceiver\\/.*",
+        "5107ddbcc23644ce08aab98f1865de41\t19\tj\\-phone\\/[\\d]\\.[\\d]\\/j\\-sh[\\d][\\d]\\/.*",
+        "5107ddbcc23644ce08aab98f1865de41\t18\tj\\-phone\\/[\\d]\\.[\\d]\\/v[\\d][\\d][\\d]t\\/.*",
+        "510abfb8a391a5c6c9a81a285cc077e7\t3\tlwp.*",
+        "51254ec5fcacd0de4b4eb863acf4cc39\t25\tlg\\-lg[\\d][\\d][\\d]c\\/.* up\\.browser\\/[\\d]\\.[\\d].*",
+        "51393dad1cc81bb36d0ccf17e186b15f\t30\tespn%[\\d][\\d]radio\\/.* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d][\\d].*",
+        "51393dad1cc81bb36d0ccf17e186b15f\t29\tespn%[\\d][\\d]radio\\/.* cfnetwork\\/[\\d][\\d][\\d]\\.[\\d].*",
+        "51393dad1cc81bb36d0ccf17e186b15f\t27\tespn%[\\d][\\d]radio\\/.* cfnetwork\\/[\\d][\\d][\\d].*",
+        "51393dad1cc81bb36d0ccf17e186b15f\t24\tespn%[\\d][\\d]radio\\/.* cfnetwork\\/.*",
+        "51416cff8aa711ad23475d4aa4c85f39\t58\tflamingo_searchengine \\(\\+http\\:\\/\\/www\\.flamingosearch\\.com\\/bot\\)",
+        "514aa2f9a6018038ee5fd3ca5cb0dc16\t18\tblackberry[\\d][\\d][\\d][\\d]\\/[\\d]\\.[\\d].*",
+        "519bbdb8322076bc853b1f2707f8fa6b\t10\tnokia[\\d][\\d][\\d][\\d]\\/.*",
+        "51a0ce732829b0f7006fb49a2628df54\t9\ttmcrawler",
+        "51b12fb04d85885570dab3c44f037414\t12\tdatagnionbot.*",
+        "51d3442f7bd201578a7e02a45afaa0a9\t23\tsie\\-s[\\d][\\d]\\/.* up\\.browser\\/[\\d]\\.[\\d].*",
+        "51d9c0124bd5470964ef1f93a41b6df0\t22\tsleipnir\\/[\\d]\\.[\\d].*cfnetwork\\/.*",
+        "51dc57bdd6a8695fe2a3b438f8442945\t44\tdalvik\\/.* \\(.*linux.*android.*miui\\/v[\\d]\\.[\\d].*\\) .*newsarticle\\/.*",
+        "51dc57bdd6a8695fe2a3b438f8442945\t39\tdalvik\\/.* \\(.*linux.*android.*miui.*\\) .*newsarticle\\/.*",
+        "51dc57bdd6a8695fe2a3b438f8442945\t32\tdalvik\\/.* \\(.*linux.*android.[\\d]\\.[\\d].*\\) .*fbav\\/.*",
+        "51dc57bdd6a8695fe2a3b438f8442945\t28\tdalvik\\/.* \\(.*linux.*android.*\\) .*fbav\\/.*",
+        "51dc57bdd6a8695fe2a3b438f8442945\t21\tdalvik\\/.* \\(.*linux.*android.*",
+        "51e9e953ec0582104fe427e2bdec0e64\t9\tnutscrape",
+        "51ebde770bdb7233735d1fbc50a9aa81\t73\tpalmcentro\\/v[\\d][\\d][\\d][\\d] mozilla\\/[\\d]\\.[\\d] \\(.*compatible.*;.*msie [\\d]\\.[\\d];.*windows [\\d][\\d].*; palmsource\\/.*",
+        "51f0e4bb96c4891aed88560c707af6bc\t39\tsamsung\\-gt\\-b[\\d][\\d][\\d][\\d].*\\/.* shp\\/vpp\\/r[\\d] dolfin\\/[\\d]\\.[\\d].*"
+    ]
+}

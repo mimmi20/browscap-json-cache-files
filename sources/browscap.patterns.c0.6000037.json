@@ -1,0 +1,33 @@
+{
+    "content": [
+        "c0083eb69be3d8232f35a8886aab90d1\t15\twordpress\\-b\\-\\/[\\d]\\..*",
+        "c01e8f1f5f803721cc61598d29f37576\t17\titunes\\-iphone\\/[\\d]\\.[\\d].*",
+        "c0224e0e5c3f90998cdfdbc2e87613d4\t24\tnokia[\\d][\\d][\\d][\\d] up\\.browser\\/[\\d]\\.[\\d].*",
+        "c027273c3d52f4b1fd0fb371e3ee5e5a\t22\tmot\\-e[\\d] itunes\\/.* mib\\/[\\d]\\.[\\d].*",
+        "c036eeff50e0227acab512896eac5744\t11\tanglesharp\\/.*",
+        "c044060d3579ed2e6df5e2644d77246b\t18\tblackberry[\\d][\\d][\\d][\\d]\\/[\\d]\\.[\\d].*",
+        "c05c1b88fa5d921ae7b8c6b11a7e8910\t16\tsamsung\\-sgh\\-x[\\d][\\d][\\d].*",
+        "c05cb1fc12d9ac6df0fb56f1b6efc502\t10\tcogentbot\\/.*",
+        "c0809c3de791f533ac44f5a1efb1d109\t12\tsec\\-sghv[\\d][\\d][\\d] .*",
+        "c092fbc4bc93b2990b9e1adb1de46318\t9\tnewsfire\\/.*",
+        "c0c1dbd2e4f0aeec660024fe2781dc5e\t10\tgooglebot\\/.*",
+        "c0c55383c67ddde38aee8172804f598c\t33\tsamsung\\-sgh\\-e[\\d][\\d][\\d]n\\/.* up\\.browser\\/[\\d]\\.[\\d].*",
+        "c0d2c3f8aa2763bb11abd52bc0c6dd2d\t35\tfirefox\\/[\\d][\\d]\\.[\\d].*anonymized by abelssoft.*",
+        "c0d8e87b248e62d9df520c47cfe27168\t94\tmozilla\\/[\\d]\\.[\\d] \\(compatible; fluffy the spider; http\\:\\/\\/www\\.searchhippo\\.com\\/; info@searchhippo\\.com\\)",
+        "c0d8e87b248e62d9df520c47cfe27168\t45\tmozilla\\/[\\d]\\.[\\d] \\(compatible; webmon .*; windows xp\\)",
+        "c0d8e87b248e62d9df520c47cfe27168\t42\tmozilla\\/[\\d]\\.[\\d] webtv\\/[\\d]\\..*\\(compatible.*; msie [\\d]\\.[\\d]\\)\tmozilla\\/[\\d]\\.[\\d] webtv\\/[\\d]\\..*\\(compatible; msie [\\d]\\.[\\d]\\)",
+        "c0d8e87b248e62d9df520c47cfe27168\t41\tmozilla\\/[\\d]\\.[\\d][\\d] \\(compatible; netbox\\/.*; linux.*\\)",
+        "c0d8e87b248e62d9df520c47cfe27168\t38\tmozilla\\/[\\d]\\.[\\d] \\(slurp.*; slurp@inktomi\\.com;.*\tmozilla\\/[\\d]\\.[\\d] \\(compatible; indy library\\)",
+        "c0d8e87b248e62d9df520c47cfe27168\t33\tmozilla\\/[\\d]\\.[\\d][\\d] \\(compatible; netgem\\/.*",
+        "c0d8e87b248e62d9df520c47cfe27168\t27\tmozilla\\/[\\d]\\.[\\d].*\\(.*windows nt [\\d]\\.[\\d].*\\).*",
+        "c0d8e87b248e62d9df520c47cfe27168\t26\tmozilla\\/[\\d]\\.[\\d][\\d] \\(compatible;\\)",
+        "c0d8e87b248e62d9df520c47cfe27168\t25\tmozilla\\/[\\d]\\.[\\d].*\\(.*macintosh.*[\\d][\\d]k.*\\).*\tmozilla\\/[\\d]\\.[\\d].*\\(.*macintosh.*ppc.*\\).*",
+        "c0d8e87b248e62d9df520c47cfe27168\t24\tmozilla\\/[\\d]\\.[\\d] \\(compatible\\)",
+        "c0d8e87b248e62d9df520c47cfe27168\t23\tmozilla\\/[\\d]\\.[\\d].*\\(.*compatible;.*",
+        "c0d8e87b248e62d9df520c47cfe27168\t20\tmozilla\\/[\\d]\\.[\\d].*\\(.*openvms.*\\).*\tmozilla\\/[\\d]\\.[\\d].*\\(.*windows.*\\).*\tmozilla\\/[\\d]\\.[\\d] \\(ingrid\\/.*",
+        "c0d8e87b248e62d9df520c47cfe27168\t18\tmozilla\\/[\\d]\\.[\\d].*\\(.*winnt.*\\).*\tmozilla\\/[\\d]\\.[\\d].*\\(.*win[\\d][\\d].*\\).*\tmozilla\\/[\\d]\\.[\\d].*\\(.*sunos.*\\).*\tmozilla\\/[\\d]\\.[\\d].*\\(.*linux.*\\).*",
+        "c0d8e87b248e62d9df520c47cfe27168\t17\tmozilla\\/[\\d]\\.[\\d].*\\(.*os\\/[\\d].*\\).*\tmozilla\\/[\\d]\\.[\\d].*\\(.*irix.*\\).*",
+        "c0d8e87b248e62d9df520c47cfe27168\t16\tmozilla\\/[\\d]\\.[\\d].*\\(.*aix.*\\).*",
+        "c0f37f324eb34e2559817b6701a949e5\t13\tsamsung\\-b[\\d][\\d][\\d][\\d].*"
+    ]
+}
